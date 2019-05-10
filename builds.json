@@ -1,1 +1,14 @@
-{}
+{
+    "bullhead": [
+        {
+            "date": "2019-05-10", 
+            "datetime": "20190510", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190510.zip", 
+            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190510.zip", 
+            "sha256": "5c2ddf47d329389affb29b1f8bcc4905d570bc60bd38d3d584dc0a272b613e62", 
+            "size": 709011518, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ]
+}
