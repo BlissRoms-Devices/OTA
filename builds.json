@@ -11,6 +11,18 @@
             "version": "v11.9"
         }
     ], 
+    "santoni": [
+        {
+            "date": "2019-05-17", 
+            "datetime": "20190517", 
+            "filename": "Bliss-v11.9-santoni-OFFICIAL-20190517.zip", 
+            "filepath": "/santoni/Bliss-v11.9-santoni-OFFICIAL-20190517.zip", 
+            "sha256": "132c6cf606d6b85fdb863bcd8d9c3b8fbe806226487e8fa58768e32cf1e7003f", 
+            "size": 644352894, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
     "shamu": [
         {
             "date": "2019-05-11", 
