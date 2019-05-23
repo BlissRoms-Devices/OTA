@@ -1,12 +1,12 @@
 {
     "bullhead": [
         {
-            "date": "2019-05-17", 
-            "datetime": "20190517", 
-            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190517.zip", 
-            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190517.zip", 
-            "sha256": "3f5e1e53e4e0909b8878cbf5f40b5a8e7656cc1036c9c9c03ed1aee2797a6646", 
-            "size": 723402073, 
+            "date": "2019-05-23", 
+            "datetime": "20190523", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190523.zip", 
+            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190523.zip", 
+            "sha256": "5a2dcefdad8020a10773ccd55776b01eefab36a4c224964d9d6348bc8f33a168", 
+            "size": 709391178, 
             "type": "official", 
             "version": "v11.9"
         }
