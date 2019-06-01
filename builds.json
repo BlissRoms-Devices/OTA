@@ -1,36 +1,36 @@
 {
     "bullhead": [
         {
-            "date": "2019-05-25", 
-            "datetime": "20190525", 
-            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190525.zip", 
-            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190525.zip", 
-            "sha256": "0d74a17527c51ac622115d42efc1f7b2d59269097956db74d4f40cea8ce02f78", 
-            "size": 726460381, 
+            "date": "2019-06-01", 
+            "datetime": "20190601", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190601.zip", 
+            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190601.zip", 
+            "sha256": "c32a39c12eae1e0880794016a9943ceed449e4e0cbca200cbffe8e7e48410a53", 
+            "size": 725010729, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "cheeseburger": [
         {
-            "date": "2019-05-25", 
-            "datetime": "20190525", 
-            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190525.zip", 
-            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190525.zip", 
-            "sha256": "673ba09795f6452ecb995647b7652935da02e1bd97bc2f6237522db11383bafe", 
-            "size": 885549138, 
+            "date": "2019-06-01", 
+            "datetime": "20190601", 
+            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190601.zip", 
+            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190601.zip", 
+            "sha256": "1cc007291be8511bd9333e2abb6ee9e246a1c9749465dcebd44cdee7bd05ce38", 
+            "size": 886419146, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "dumpling": [
         {
-            "date": "2019-05-24", 
-            "datetime": "20190524", 
-            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190524.zip", 
-            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190524.zip", 
-            "sha256": "7725c57866b3f31625b830252e58a8f3ccf6c3977a3009c02f51829356c8560b", 
-            "size": 884785743, 
+            "date": "2019-05-31", 
+            "datetime": "20190531", 
+            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190531.zip", 
+            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190531.zip", 
+            "sha256": "6351a80abb657e3156d567fb61c1832e39c1ca977dceb1a24aa1dfa9f9f2a1a5", 
+            "size": 886432838, 
             "type": "official", 
             "version": "v11.9"
         }
@@ -49,12 +49,12 @@
     ], 
     "shamu": [
         {
-            "date": "2019-05-24", 
-            "datetime": "20190524", 
-            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190524.zip", 
-            "filepath": "/shamu/Bliss-v11.9-shamu-OFFICIAL-20190524.zip", 
-            "sha256": "1ee8f04b5f4b7946fa768c0b339816b43f50338ff27e7aa505dc7ad80d72c69a", 
-            "size": 516893916, 
+            "date": "2019-06-01", 
+            "datetime": "20190601", 
+            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190601.zip", 
+            "filepath": "/shamu/Bliss-v11.9-shamu-OFFICIAL-20190601.zip", 
+            "sha256": "6a159992d4805ac31d17aa21f56a9ebde344910ca94333c4777d269bbd789328", 
+            "size": 517302524, 
             "type": "official", 
             "version": "v11.9"
         }
