@@ -1,12 +1,12 @@
 {
     "bullhead": [
         {
-            "date": "2019-06-05", 
-            "datetime": "20190605", 
-            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190605.zip", 
-            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190605.zip", 
-            "sha256": "950b59301f4adb63b15281b1b926b7da0088e8a707fcaaf475e7e110ab2ca417", 
-            "size": 712106509, 
+            "date": "2019-06-08", 
+            "datetime": "20190608", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190608.zip", 
+            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190608.zip", 
+            "sha256": "c128c7e985a372bebe3ee4acb1618e33ad4ef9bfb7ca446ed0f98621ce710af0", 
+            "size": 725281774, 
             "type": "official", 
             "version": "v11.9"
         }
@@ -49,12 +49,12 @@
     ], 
     "shamu": [
         {
-            "date": "2019-06-01", 
-            "datetime": "20190601", 
-            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190601.zip", 
-            "filepath": "/shamu/Bliss-v11.9-shamu-OFFICIAL-20190601.zip", 
-            "sha256": "6a159992d4805ac31d17aa21f56a9ebde344910ca94333c4777d269bbd789328", 
-            "size": 517302524, 
+            "date": "2019-06-07", 
+            "datetime": "20190607", 
+            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190607.zip", 
+            "filepath": "/shamu/Bliss-v11.9-shamu-OFFICIAL-20190607.zip", 
+            "sha256": "981d3ed37fa817a676c50ee453c6e98a2be1c70ec33a33b0987820353abbd948", 
+            "size": 517733096, 
             "type": "official", 
             "version": "v11.9"
         }
