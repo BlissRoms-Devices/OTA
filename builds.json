@@ -49,12 +49,12 @@
     ], 
     "shamu": [
         {
-            "date": "2019-06-14", 
-            "datetime": "20190614", 
-            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190614.zip", 
-            "filepath": "/shamu/Bliss-v11.9-shamu-OFFICIAL-20190614.zip", 
-            "sha256": "3668f5effd8cf2c058462a9e3c51c8789d1b4482c469c4980dde032b47667862", 
-            "size": 517559647, 
+            "date": "2019-06-21", 
+            "datetime": "20190621", 
+            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190621.zip", 
+            "filepath": "/shamu/Bliss-v11.9-shamu-OFFICIAL-20190621.zip", 
+            "sha256": "75d44092987adacb9a50df13ee6f99f44eb256e3c03170720ea78001ae164865", 
+            "size": 504853862, 
             "type": "official", 
             "version": "v11.9"
         }
