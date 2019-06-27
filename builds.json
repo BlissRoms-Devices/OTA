@@ -1,4 +1,16 @@
 {
+    "berkeley": [
+        {
+            "date": "2019-06-08", 
+            "datetime": "20190608", 
+            "filename": "Bliss-v11.9-berkeley-OFFICIAL-20190608.zip", 
+            "filepath": "/berkeley/Bliss-v11.9-berkeley-OFFICIAL-20190608.zip", 
+            "sha256": "443cc23be7cf607e3e1bca45da83b8fc49fc1fc2d6889f1983d2dfb2737d9477", 
+            "size": 633323525, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
     "bullhead": [
         {
             "date": "2019-06-15", 
