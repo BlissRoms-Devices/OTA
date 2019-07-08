@@ -1,4 +1,16 @@
 {
+    "Z01R": [
+        {
+            "date": "2019-07-08", 
+            "datetime": "20190708", 
+            "filename": "Bliss-v11.9-Z01R-OFFICIAL-20190708.zip", 
+            "filepath": "/Z01R/Bliss-v11.9-Z01R-OFFICIAL-20190708.zip", 
+            "sha256": "817ed87e84c51f373d10d3239546f3a8f9362ff118e2479336b016be81404eb0", 
+            "size": 607426787, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
     "berkeley": [
         {
             "date": "2019-06-08", 
