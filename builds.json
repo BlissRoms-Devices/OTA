@@ -25,12 +25,12 @@
     ], 
     "bullhead": [
         {
-            "date": "2019-07-13", 
-            "datetime": "20190713", 
-            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190713.zip", 
-            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190713.zip", 
-            "sha256": "4b67c600e11f275528e3588ec46fcf2b38702608339c2883b52c9803bfd84a63", 
-            "size": 727517063, 
+            "date": "2019-07-06", 
+            "datetime": "20190706", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190706.zip", 
+            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190706.zip", 
+            "sha256": "7d2ea760b2209b7ea035a7eb172059a85a919562382c7062c5707ab2a161c911", 
+            "size": 713234455, 
             "type": "official", 
             "version": "v11.9"
         }
@@ -61,12 +61,12 @@
     ], 
     "santoni": [
         {
-            "date": "2019-06-04", 
-            "datetime": "20190604", 
-            "filename": "Bliss-v11.9-santoni-OFFICIAL-20190604.zip", 
-            "filepath": "/santoni/Bliss-v11.9-santoni-OFFICIAL-20190604.zip", 
-            "sha256": "ff5bcb1a7371b2f49751d649fd67ca1a0cb254e1461be6103bbda405379ed900", 
-            "size": 649500469, 
+            "date": "2019-07-15", 
+            "datetime": "20190715", 
+            "filename": "Bliss-v11.9-santoni-OFFICIAL-20190715.zip", 
+            "filepath": "/santoni/Bliss-v11.9-santoni-OFFICIAL-20190715.zip", 
+            "sha256": "4b952225e9c5451323f995e7224b02ccc4a04316b82900283d5908a452d9df32", 
+            "size": 653885240, 
             "type": "official", 
             "version": "v11.9"
         }
