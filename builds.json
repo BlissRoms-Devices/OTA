@@ -25,36 +25,36 @@
     ], 
     "bullhead": [
         {
-            "date": "2019-07-06", 
-            "datetime": "20190706", 
-            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190706.zip", 
-            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190706.zip", 
-            "sha256": "7d2ea760b2209b7ea035a7eb172059a85a919562382c7062c5707ab2a161c911", 
-            "size": 713234455, 
+            "date": "2019-08-02", 
+            "datetime": "20190802", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190802.zip", 
+            "filepath": "/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190802.zip", 
+            "sha256": "3f808bb3a58b6112ae85d97f60e4eaa9c8315a6f8429e0c5598446007cf295d1", 
+            "size": 717918195, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "cheeseburger": [
         {
-            "date": "2019-06-01", 
-            "datetime": "20190601", 
-            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190601.zip", 
-            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190601.zip", 
-            "sha256": "1cc007291be8511bd9333e2abb6ee9e246a1c9749465dcebd44cdee7bd05ce38", 
-            "size": 886419146, 
+            "date": "2019-08-03", 
+            "datetime": "20190803", 
+            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190803.zip", 
+            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190803.zip", 
+            "sha256": "0945e467587bbf3a7fa7a799be51d1c3352e85174798404cb85ca33548221a0d", 
+            "size": 884099682, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "dumpling": [
         {
-            "date": "2019-05-31", 
-            "datetime": "20190531", 
-            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190531.zip", 
-            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190531.zip", 
-            "sha256": "6351a80abb657e3156d567fb61c1832e39c1ca977dceb1a24aa1dfa9f9f2a1a5", 
-            "size": 886432838, 
+            "date": "2019-08-03", 
+            "datetime": "20190803", 
+            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190803.zip", 
+            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190803.zip", 
+            "sha256": "01cf829d2555779f8480658b3a3ee40561b2e7486d0b1a593dfc2e685043db92", 
+            "size": 884361651, 
             "type": "official", 
             "version": "v11.9"
         }
