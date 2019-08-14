@@ -1,12 +1,12 @@
 {
     "Z01R": [
         {
-            "date": "2019-07-18", 
-            "datetime": "20190718", 
-            "filename": "Bliss-v11.9-Z01R-OFFICIAL-20190718.zip", 
-            "filepath": "/Z01R/Bliss-v11.9-Z01R-OFFICIAL-20190718.zip", 
-            "sha256": "d628e04a8edfa57c9664bbf619f2c19189408420a56cf09ef53b756f3d26f53b", 
-            "size": 621455440, 
+            "date": "2019-08-14", 
+            "datetime": "20190814", 
+            "filename": "Bliss-v11.9-Z01R-OFFICIAL-20190814.zip", 
+            "filepath": "/Z01R/Bliss-v11.9-Z01R-OFFICIAL-20190814.zip", 
+            "sha256": "549818ad0a70c0f0f2e76fa1344f3f827ad17a509d5f9c79baaa506fa584d9c9", 
+            "size": 618837958, 
             "type": "official", 
             "version": "v11.9"
         }
