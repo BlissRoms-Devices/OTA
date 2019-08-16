@@ -37,24 +37,24 @@
     ], 
     "cheeseburger": [
         {
-            "date": "2019-08-11", 
-            "datetime": "20190811", 
-            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190811.zip", 
-            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190811.zip", 
-            "sha256": "591d2ddaf0f334d0101d2bfeba65901158beab46a34d6203494a9c4d5735d2f4", 
-            "size": 885027296, 
+            "date": "2019-08-15", 
+            "datetime": "20190815", 
+            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190815.zip", 
+            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190815.zip", 
+            "sha256": "68a1bae5742ed01c0ae2e093dda3833f98bad6f6f28745eb8a280f6cb7393c44", 
+            "size": 889234931, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "dumpling": [
         {
-            "date": "2019-08-11", 
-            "datetime": "20190811", 
-            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190811.zip", 
-            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190811.zip", 
-            "sha256": "d188859e5b878c3af2e2fc335980a6700b8782a234950c98978194fc2c08f285", 
-            "size": 885641795, 
+            "date": "2019-08-15", 
+            "datetime": "20190815", 
+            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190815.zip", 
+            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190815.zip", 
+            "sha256": "b10e9b291e329277a626ca1ade377d14b4f2ce2fca110c2a4c82b09485b349fc", 
+            "size": 889182594, 
             "type": "official", 
             "version": "v11.9"
         }
