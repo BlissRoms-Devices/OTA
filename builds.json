@@ -59,6 +59,18 @@
             "version": "v11.9"
         }
     ], 
+    "guacamole": [
+        {
+            "date": "2019-08-16", 
+            "datetime": "20190816", 
+            "filename": "Bliss-v11.9-guacamole-OFFICIAL-20190816.zip", 
+            "filepath": "/guacamole/Bliss-v11.9-guacamole-OFFICIAL-20190816.zip", 
+            "sha256": "3b1dfc7ed6a01c6b755fab2fe27d9bf28aa9ef5565f1d93800da5fc969f171bc", 
+            "size": 799499717, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
     "santoni": [
         {
             "date": "2019-07-15", 
@@ -85,12 +97,12 @@
     ], 
     "whyred": [
         {
-            "date": "2019-07-27", 
-            "datetime": "20190727", 
-            "filename": "Bliss-v11.9-whyred-OFFICIAL-20190727.zip", 
-            "filepath": "/whyred/Bliss-v11.9-whyred-OFFICIAL-20190727.zip", 
-            "sha256": "945b05796396e95e2412ec224374481a462c718399c56a2168e731c1d05231dc", 
-            "size": 760999945, 
+            "date": "2019-08-16", 
+            "datetime": "20190816", 
+            "filename": "Bliss-v11.9-whyred-OFFICIAL-20190816.zip", 
+            "filepath": "/whyred/Bliss-v11.9-whyred-OFFICIAL-20190816.zip", 
+            "sha256": "2af59339f6bec6baeec1d9040b4b32b6a0cdfc73b3982c6be0352e43d22448ea", 
+            "size": 753107090, 
             "type": "official", 
             "version": "v11.9"
         }
