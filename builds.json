@@ -1,12 +1,12 @@
 {
     "Z01R": [
         {
-            "date": "2019-08-15", 
-            "datetime": "20190815", 
-            "filename": "Bliss-v11.9-Z01R-OFFICIAL-20190815.zip", 
-            "filepath": "/Z01R/Bliss-v11.9-Z01R-OFFICIAL-20190815.zip", 
-            "sha256": "7dd0a5bc36ced85b72ebf9f790ba2202804e2633c624c7d40004131aacde97a4", 
-            "size": 621412765, 
+            "date": "2019-08-23", 
+            "datetime": "20190823", 
+            "filename": "Bliss-v11.9-Z01R-OFFICIAL-20190823.zip", 
+            "filepath": "/Z01R/Bliss-v11.9-Z01R-OFFICIAL-20190823.zip", 
+            "sha256": "7a7c5df1607bfd5bddf81bcdbe9353015bceaf9d0ee7119360cb5c4ae7d624b9", 
+            "size": 621598787, 
             "type": "official", 
             "version": "v11.9"
         }
@@ -97,12 +97,12 @@
     ], 
     "taimen": [
         {
-            "date": "2019-08-20", 
-            "datetime": "20190820", 
-            "filename": "Bliss-v11.9-taimen-OFFICIAL-20190820.zip", 
-            "filepath": "/taimen/Bliss-v11.9-taimen-OFFICIAL-20190820.zip", 
-            "sha256": "78ed9872de94423e2f34aaa7c8dafd1dd1a8ae3714ac8f19ec4e605275ff3132", 
-            "size": 999828923, 
+            "date": "2019-08-23", 
+            "datetime": "20190823", 
+            "filename": "Bliss-v11.9-taimen-OFFICIAL-20190823.zip", 
+            "filepath": "/taimen/Bliss-v11.9-taimen-OFFICIAL-20190823.zip", 
+            "sha256": "f81c832384e4335435e59eebbf0ba8b079cd3888cb45365ce716ba6d08ae23f7", 
+            "size": 1000261717, 
             "type": "official", 
             "version": "v11.9"
         }
