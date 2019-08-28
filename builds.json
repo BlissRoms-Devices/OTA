@@ -37,36 +37,36 @@
     ], 
     "cheeseburger": [
         {
-            "date": "2019-08-20", 
-            "datetime": "20190820", 
-            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190820.zip", 
-            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190820.zip", 
-            "sha256": "84c78357ce515c29989803bef1f227b0808ee9ade47a90ac7445f7ae5ac51dcd", 
-            "size": 889170089, 
+            "date": "2019-08-28", 
+            "datetime": "20190828", 
+            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190828.zip", 
+            "filepath": "/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190828.zip", 
+            "sha256": "c428c214643e170b6ba55cba244dd6157838bf946f53cb5c0b1aa8b338fd2aa1", 
+            "size": 890009228, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "dumpling": [
         {
-            "date": "2019-08-20", 
-            "datetime": "20190820", 
-            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190820.zip", 
-            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190820.zip", 
-            "sha256": "6cfcf266e13c1666bb95c545389b98866115c9f0841e5f308bcfaa9b1276ce41", 
-            "size": 889517258, 
+            "date": "2019-08-28", 
+            "datetime": "20190828", 
+            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190828.zip", 
+            "filepath": "/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190828.zip", 
+            "sha256": "90f74aab8a7a14906c41d7f37d8b716caa5a812d91af6f781b1c42071b5d4180", 
+            "size": 890119738, 
             "type": "official", 
             "version": "v11.9"
         }
     ], 
     "guacamole": [
         {
-            "date": "2019-08-20", 
-            "datetime": "20190820", 
-            "filename": "Bliss-v11.9-guacamole-OFFICIAL-20190820.zip", 
-            "filepath": "/guacamole/Bliss-v11.9-guacamole-OFFICIAL-20190820.zip", 
-            "sha256": "25a70e438c6ef776c8084eba63cc8283a88932e14d6843db3daaf4a2a188b36a", 
-            "size": 799521492, 
+            "date": "2019-08-27", 
+            "datetime": "20190827", 
+            "filename": "Bliss-v11.9-guacamole-OFFICIAL-20190827.zip", 
+            "filepath": "/guacamole/Bliss-v11.9-guacamole-OFFICIAL-20190827.zip", 
+            "sha256": "156ec3be0e8a6cf484f031f13f93eddf95067dd68b2761a893a32fd13565b045", 
+            "size": 800218715, 
             "type": "official", 
             "version": "v11.9"
         }
