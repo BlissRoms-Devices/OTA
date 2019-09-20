@@ -97,12 +97,12 @@
     ], 
     "taimen": [
         {
-            "date": "2019-09-15", 
-            "datetime": "20190915", 
-            "filename": "Bliss-v11.9-taimen-OFFICIAL-20190915.zip", 
-            "filepath": "/taimen/Bliss-v11.9-taimen-OFFICIAL-20190915.zip", 
-            "sha256": "8b519467955db74fdf2208b9e34e5980c8cbef56330384571a5468e13f92d22b", 
-            "size": 999658015, 
+            "date": "2019-09-20", 
+            "datetime": "20190920", 
+            "filename": "Bliss-v11.9-taimen-OFFICIAL-20190920.zip", 
+            "filepath": "/taimen/Bliss-v11.9-taimen-OFFICIAL-20190920.zip", 
+            "sha256": "de14f731ad896830d0945c2d2d47aaca4237256ed6bc87f9e2310489d6086859", 
+            "size": 999643788, 
             "type": "official", 
             "version": "v11.9"
         }
