@@ -11,12 +11,12 @@
             "version": "v11.9"
         }, 
         {
-            "date": "2019-10-02", 
-            "datetime": "20191002", 
-            "filename": "Bliss-v12.0-Z01R-OFFICIAL-20191002.zip", 
-            "filepath": "/Q/Z01R/Bliss-v12.0-Z01R-OFFICIAL-20191002.zip", 
-            "sha256": "ee9e8375d60c9e46f74fac1c02d751bf39667c6211df2b2d8166b50ba7ba9421", 
-            "size": 575943253, 
+            "date": "2019-10-05", 
+            "datetime": "20191005", 
+            "filename": "Bliss-v12.0-Z01R-OFFICIAL-20191005.zip", 
+            "filepath": "/Q/Z01R/Bliss-v12.0-Z01R-OFFICIAL-20191005.zip", 
+            "sha256": "04bf4b7b97871209e06bfe04f905b24f48bd2442290db9cc42e5b8b3e7686453", 
+            "size": 573504462, 
             "type": "official", 
             "version": "v12.0"
         }
