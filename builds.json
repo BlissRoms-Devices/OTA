@@ -89,16 +89,6 @@
             "size": 800366214, 
             "type": "official", 
             "version": "v11.9"
-        }, 
-        {
-            "date": "2019-09-27", 
-            "datetime": "20190927", 
-            "filename": "Bliss-v12.0-guacamole-OFFICIAL-20190927.zip", 
-            "filepath": "/Q/Guacamole/Bliss-v12.0-guacamole-OFFICIAL-20190927.zip", 
-            "sha256": "22c7358ddc094d3699250e5cc7547e99f08436c637be8a2b2fd9ec4a538d785e", 
-            "size": 730170878, 
-            "type": "official", 
-            "version": "v12.0"
         }
     ], 
     "santoni": [
