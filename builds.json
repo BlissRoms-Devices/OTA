@@ -1,0 +1,142 @@
+{
+    "Z01R": [
+        {
+            "date": "2019-09-27", 
+            "datetime": "20190927", 
+            "filename": "Bliss-v11.9-Z01R-OFFICIAL-20190927.zip", 
+            "filepath": "/Pie/Z01R/Bliss-v11.9-Z01R-OFFICIAL-20190927.zip", 
+            "sha256": "5d52d8db63bd55bfebf25fb3064f2335f90e157b96adf4c19b815550e564233c", 
+            "size": 622708830, 
+            "type": "official", 
+            "version": "v11.9"
+        }, 
+        {
+            "date": "2019-10-09", 
+            "datetime": "20191009", 
+            "filename": "Bliss-v12.0-Z01R-OFFICIAL-20191009.zip", 
+            "filepath": "/Q/Z01R/Bliss-v12.0-Z01R-OFFICIAL-20191009.zip", 
+            "sha256": "911177c410b7f724ff2702ee2445a36fd065e8d3b5a5202c3debf21bad167351", 
+            "size": 585366236, 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
+    "berkeley": [
+        {
+            "date": "2019-06-08", 
+            "datetime": "20190608", 
+            "filename": "Bliss-v11.9-berkeley-OFFICIAL-20190608.zip", 
+            "filepath": "/Pie/berkeley/Bliss-v11.9-berkeley-OFFICIAL-20190608.zip", 
+            "sha256": "443cc23be7cf607e3e1bca45da83b8fc49fc1fc2d6889f1983d2dfb2737d9477", 
+            "size": 633323525, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "bullhead": [
+        {
+            "date": "2019-08-10", 
+            "datetime": "20190810", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190810.zip", 
+            "filepath": "/Beta/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190810.zip", 
+            "sha256": "eeda32c3b5a8fd575af4ceb7bb4003bd46f8f2120f09a060a241724a959549e6", 
+            "size": 718317671, 
+            "type": "official", 
+            "version": "v11.9"
+        }, 
+        {
+            "date": "2019-09-20", 
+            "datetime": "20190920", 
+            "filename": "Bliss-v11.9-bullhead-OFFICIAL-20190920.zip", 
+            "filepath": "/Pie/bullhead/Bliss-v11.9-bullhead-OFFICIAL-20190920.zip", 
+            "sha256": "6636972fa0b69cf8902e13ed904ad3b0ea56aa1efb6ae7dbde7d8bb9be9b6b4c", 
+            "size": 722280686, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "cheeseburger": [
+        {
+            "date": "2019-08-28", 
+            "datetime": "20190828", 
+            "filename": "Bliss-v11.9-cheeseburger-OFFICIAL-20190828.zip", 
+            "filepath": "/Pie/cheeseburger/Bliss-v11.9-cheeseburger-OFFICIAL-20190828.zip", 
+            "sha256": "c428c214643e170b6ba55cba244dd6157838bf946f53cb5c0b1aa8b338fd2aa1", 
+            "size": 890009228, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "dumpling": [
+        {
+            "date": "2019-08-28", 
+            "datetime": "20190828", 
+            "filename": "Bliss-v11.9-dumpling-OFFICIAL-20190828.zip", 
+            "filepath": "/Pie/dumpling/Bliss-v11.9-dumpling-OFFICIAL-20190828.zip", 
+            "sha256": "90f74aab8a7a14906c41d7f37d8b716caa5a812d91af6f781b1c42071b5d4180", 
+            "size": 890119738, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "guacamole": [
+        {
+            "date": "2019-09-18", 
+            "datetime": "20190918", 
+            "filename": "Bliss-v11.9-guacamole-OFFICIAL-20190918.zip", 
+            "filepath": "/Pie/guacamole/Bliss-v11.9-guacamole-OFFICIAL-20190918.zip", 
+            "sha256": "3f968cbfe0a825b7dceb47f8e7a04215e4fe4732250951ca528011da9db25ff1", 
+            "size": 800366214, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "santoni": [
+        {
+            "date": "2019-09-08", 
+            "datetime": "20190908", 
+            "filename": "Bliss-v11.9-santoni-OFFICIAL-20190908.zip", 
+            "filepath": "/Pie/santoni/Bliss-v11.9-santoni-OFFICIAL-20190908.zip", 
+            "sha256": "3eb583f68f22e461a78580f437acb076d3fc92e11c2b03728b3161f133cd4eba", 
+            "size": 645531821, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "shamu": [
+        {
+            "date": "2019-07-12", 
+            "datetime": "20190712", 
+            "filename": "Bliss-v11.9-shamu-OFFICIAL-20190712.zip", 
+            "filepath": "/Pie/shamu/Bliss-v11.9-shamu-OFFICIAL-20190712.zip", 
+            "sha256": "3dfa70b90eb73026404f2728c4812175c5bd4924fbb067651554f03d4415a005", 
+            "size": 519345930, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "taimen": [
+        {
+            "date": "2019-09-20", 
+            "datetime": "20190920", 
+            "filename": "Bliss-v11.9-taimen-OFFICIAL-20190920.zip", 
+            "filepath": "/Pie/taimen/Bliss-v11.9-taimen-OFFICIAL-20190920.zip", 
+            "sha256": "de14f731ad896830d0945c2d2d47aaca4237256ed6bc87f9e2310489d6086859", 
+            "size": 999643788, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ], 
+    "whyred": [
+        {
+            "date": "2019-09-22", 
+            "datetime": "20190922", 
+            "filename": "Bliss-v11.9-whyred-OFFICIAL-20190922.zip", 
+            "filepath": "/Pie/whyred/Bliss-v11.9-whyred-OFFICIAL-20190922.zip", 
+            "sha256": "8e57e9e1047727de814f06556e6e6d7af953b0fb47ad97b5a4773fda7bf1a231", 
+            "size": 757975515, 
+            "type": "official", 
+            "version": "v11.9"
+        }
+    ]
+}
