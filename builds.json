@@ -10,5 +10,17 @@
             "type": "official", 
             "version": "v12.0"
         }
+    ], 
+    "guacamole": [
+        {
+            "date": "2019-10-26", 
+            "datetime": "20191026", 
+            "filename": "Bliss-v11.10-guacamole-OFFICIAL-20191026.zip", 
+            "filepath": "/Guacamole/Bliss-v11.10-guacamole-OFFICIAL-20191026.zip", 
+            "sha256": "b5755510da5ae82e6ab7c76a3dc896a329a1fe65c2fd3e21cb3210f26bb68f78", 
+            "size": 314392576, 
+            "type": "official", 
+            "version": "v11.10"
+        }
     ]
 }
