@@ -11,6 +11,18 @@
             "version": "v12.0"
         }
     ], 
+    "bullhead": [
+        {
+            "date": "2019-11-06", 
+            "datetime": "20191106", 
+            "filename": "Bliss-v12.0-bullhead-OFFICIAL-20191106.zip", 
+            "filepath": "/Bullhead/Bliss-v12.0-bullhead-OFFICIAL-20191106.zip", 
+            "sha256": "73ebd2cf7ac2d84b46b9561e770b8af8f0be3e98bb7a9425c227c57dbb61f983", 
+            "size": 597710516, 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "guacamole": [
         {
             "date": "2019-11-03", 
