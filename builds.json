@@ -9,16 +9,6 @@
             "size": 615848603, 
             "type": "official", 
             "version": "v12.0"
-        }, 
-        {
-            "date": "2019-11-12", 
-            "datetime": "20191112", 
-            "filename": "Bliss-v12.1-Z01R-OFFICIAL-20191112.zip", 
-            "filepath": "/test/Bliss-v12.1-Z01R-OFFICIAL-20191112.zip", 
-            "sha256": "4b6997bcca15ab4c5036151263c09d0065842da4287dcfe0b8a1e1c760a8e710", 
-            "size": 615820122, 
-            "type": "official", 
-            "version": "v12.1"
         }
     ], 
     "bullhead": [
