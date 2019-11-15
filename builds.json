@@ -23,6 +23,18 @@
             "version": "v12.1"
         }
     ], 
+    "dumpling": [
+        {
+            "date": "2019-11-13", 
+            "datetime": "20191113", 
+            "filename": "Bliss-v12.1-dumpling-OFFICIAL-20191113.zip", 
+            "filepath": "/dumpling/Bliss-v12.1-dumpling-OFFICIAL-20191113.zip", 
+            "sha256": "62d46c4f25ffa7b7d6ec10038d8efd383767b440ddea05f190ecd76a621f3745", 
+            "size": 11829248, 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "guacamole": [
         {
             "date": "2019-11-12", 
