@@ -46,5 +46,17 @@
             "type": "official", 
             "version": "v12.1"
         }
+    ], 
+    "whyred": [
+        {
+            "date": "2019-12-14", 
+            "datetime": "20191214", 
+            "filename": "Bliss-v12.1-whyred-OFFICIAL-20191214.zip", 
+            "filepath": "/Whyred/Bliss-v12.1-whyred-OFFICIAL-20191214.zip", 
+            "sha256": "345522f2faa77606a97db38d4073c8dde1e72cc82f245e05c305c4714ada656b", 
+            "size": 763291730, 
+            "type": "official", 
+            "version": "v12.1"
+        }
     ]
 }
