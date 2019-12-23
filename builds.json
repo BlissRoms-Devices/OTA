@@ -37,12 +37,12 @@
     ], 
     "guacamole": [
         {
-            "date": "2019-12-15", 
-            "datetime": "20191215", 
-            "filename": "Bliss-v12.1-guacamole-OFFICIAL-20191215.zip", 
-            "filepath": "/Guacamole/Bliss-v12.1-guacamole-OFFICIAL-20191215.zip", 
-            "sha256": "7b3288875ab3500a1086ecd453e819fbbe99d198d848e965777187a3c7cebbdc", 
-            "size": 974089653, 
+            "date": "2019-12-22", 
+            "datetime": "20191222", 
+            "filename": "Bliss-v12.1-guacamole-OFFICIAL-20191222.zip", 
+            "filepath": "/Guacamole/Bliss-v12.1-guacamole-OFFICIAL-20191222.zip", 
+            "sha256": "a7a79451147158fbd6a18d2fdf83b176627c238b5e2947d23abfb58f7007b40b", 
+            "size": 89604096, 
             "type": "official", 
             "version": "v12.1"
         }
