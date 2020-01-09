@@ -49,12 +49,12 @@
     ], 
     "whyred": [
         {
-            "date": "2019-12-21", 
-            "datetime": "20191221", 
-            "filename": "Bliss-v12.1-whyred-OFFICIAL-20191221.zip", 
-            "filepath": "/Whyred/Bliss-v12.1-whyred-OFFICIAL-20191221.zip", 
-            "sha256": "511adbe505019757b6c6f2be18cf0fded90908981fbea984a1a42cd01941df77", 
-            "size": 764399354, 
+            "date": "2020-01-08", 
+            "datetime": "20200108", 
+            "filename": "Bliss-v12.1-whyred-OFFICIAL-20200108.zip", 
+            "filepath": "/Whyred/Bliss-v12.1-whyred-OFFICIAL-20200108.zip", 
+            "sha256": "b2c7ea8a708f4b473410f11bb092b38e147a82be3a504ba8cca4c5968d463421", 
+            "size": 763460387, 
             "type": "official", 
             "version": "v12.1"
         }
