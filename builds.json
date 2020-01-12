@@ -70,5 +70,17 @@
             "type": "official", 
             "version": "v12.1"
         }
+    ], 
+    "z2_plus": [
+        {
+            "date": "2020-01-13", 
+            "datetime": "20200113", 
+            "filename": "Bliss-v12.1-z2_plus-OFFICIAL-20200113.zip", 
+            "filepath": "/z2_plus/Bliss-v12.1-z2_plus-OFFICIAL-20200113.zip", 
+            "sha256": "13c8e7346a0d7c97ad92fbb021afc02834c45ec323af87aa87509f4c8479d4d9", 
+            "size": 711141195, 
+            "type": "official", 
+            "version": "v12.1"
+        }
     ]
 }
