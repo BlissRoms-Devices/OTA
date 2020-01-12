@@ -47,6 +47,18 @@
             "version": "v12.1"
         }
     ], 
+    "kenzo": [
+        {
+            "date": "2020-01-12", 
+            "datetime": "20200112", 
+            "filename": "Bliss-v12.1-kenzo-OFFICIAL-20200112.zip", 
+            "filepath": "/kenzo/Bliss-v12.1-kenzo-OFFICIAL-20200112.zip", 
+            "sha256": "1d87465db6bb53af9926df6e3ac7f33b22d5d64e25b9e767a111132237184f66", 
+            "size": 668010547, 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "whyred": [
         {
             "date": "2020-01-08", 
