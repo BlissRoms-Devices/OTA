@@ -59,6 +59,18 @@
             "version": "v12.1"
         }
     ], 
+    "santoni": [
+        {
+            "date": "2020-01-15", 
+            "datetime": "20200115", 
+            "filename": "Bliss-v12.1-santoni-OFFICIAL-20200115.zip", 
+            "filepath": "/Santoni/Bliss-v12.1-santoni-OFFICIAL-20200115.zip", 
+            "sha256": "9b4782cb35330ea32a76f6bad83a5d2e3eafd54c2773bbefd97b776a25545569", 
+            "size": 231964672, 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "whyred": [
         {
             "date": "2020-01-08", 
