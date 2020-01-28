@@ -129,6 +129,18 @@
             "version": "v12.2"
         }
     ], 
+    "wayne": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Bliss-v12.2-wayne-OFFICIAL-20200128.zip", 
+            "filepath": "/wayne/Bliss-v12.2-wayne-OFFICIAL-20200128.zip", 
+            "sha256": "0f9f02a94ffc6213348f91b4611edf092c15a1d1272ffa60ab71a72968070945", 
+            "size": 896430187, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
     "whyred": [
         {
             "date": "2020-01-25", 
