@@ -81,6 +81,18 @@
             "version": "v12.2"
         }
     ], 
+    "jasmine_sprout": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Bliss-v12.2-jasmine_sprout-OFFICIAL-20200128.zip", 
+            "filepath": "/jasmine_sprout/Bliss-v12.2-jasmine_sprout-OFFICIAL-20200128.zip", 
+            "sha256": "063f0b030f11c66a3884133c7edc104cc7d7f40ff3575825b7e3bd3e1f48f72b", 
+            "size": 873252924, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
     "kenzo": [
         {
             "date": "2020-01-12", 
