@@ -23,6 +23,18 @@
             "version": "v12.2"
         }
     ], 
+    "clover": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Bliss-v12.2-clover-OFFICIAL-20200128.zip", 
+            "filepath": "/clover/Bliss-v12.2-clover-OFFICIAL-20200128.zip", 
+            "sha256": "cfec647290827e84197f90f815fc7ed6439398cb9ba38b84cf2bdfe8cd113c60", 
+            "size": 874327789, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
     "dumpling": [
         {
             "date": "2019-11-13", 
