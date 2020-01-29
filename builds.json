@@ -13,12 +13,12 @@
     ], 
     "bullhead": [
         {
-            "date": "2020-01-27", 
-            "datetime": "20200127", 
-            "filename": "Bliss-v12.2-bullhead-OFFICIAL-20200127.zip", 
-            "filepath": "/bullhead/Bliss-v12.2-bullhead-OFFICIAL-20200127.zip", 
-            "sha256": "b023f4775f89c3c29268d553024ee07e130e96b0509d55126a8cd42e30650953", 
-            "size": 696687988, 
+            "date": "2020-01-24", 
+            "datetime": "20200124", 
+            "filename": "Bliss-v12.2-bullhead-OFFICIAL-20200124.zip", 
+            "filepath": "/bullhead/Bliss-v12.2-bullhead-OFFICIAL-20200124.zip", 
+            "sha256": "938de7c7d3fc1311b5f5e49da89c376b8726456b4d9b86360eba8ca7abcb971e", 
+            "size": 696718407, 
             "type": "official", 
             "version": "v12.2"
         }
