@@ -1,0 +1,182 @@
+{
+    "Z01R": [
+        {
+            "date": "2019-12-18", 
+            "datetime": "20191218", 
+            "filename": "Bliss-v12.1-Z01R-OFFICIAL-20191218.zip", 
+            "filepath": "/z01r/Bliss-v12.1-Z01R-OFFICIAL-20191218.zip", 
+            "sha256": "2c27903291f3bab0ab45dfd027e072e675e883c029292ba433dd3ba6ead60e9f", 
+            "size": 807061542, 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
+    "bullhead": [
+        {
+            "date": "2020-01-31", 
+            "datetime": "20200131", 
+            "filename": "Bliss-v12.2-bullhead-OFFICIAL-20200131.zip", 
+            "filepath": "/bullhead/Bliss-v12.2-bullhead-OFFICIAL-20200131.zip", 
+            "sha256": "d1adc74242f8940702633d14eff5138e9c2c8bcab6341804b23741756d97ff60", 
+            "size": 614652672, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "clover": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Bliss-v12.2-clover-OFFICIAL-20200128.zip", 
+            "filepath": "/clover/Bliss-v12.2-clover-OFFICIAL-20200128.zip", 
+            "sha256": "cfec647290827e84197f90f815fc7ed6439398cb9ba38b84cf2bdfe8cd113c60", 
+            "size": 874327789, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "dumpling": [
+        {
+            "date": "2019-11-13", 
+            "datetime": "20191113", 
+            "filename": "Bliss-v12.1-dumpling-OFFICIAL-20191113.zip", 
+            "filepath": "/dumpling/Bliss-v12.1-dumpling-OFFICIAL-20191113.zip", 
+            "sha256": "9478530df5ee3f90bb7f8235a8b2f3226315eed0c99b357d161238362f79b53b", 
+            "size": 775466307, 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
+    "enchilada": [
+        {
+            "date": "2020-02-02", 
+            "datetime": "20200202", 
+            "filename": "Bliss-v12.2-enchilada-OFFICIAL-20200202.zip", 
+            "filepath": "/enchilada/Bliss-v12.2-enchilada-OFFICIAL-20200202.zip", 
+            "sha256": "eef36503d953a95ae48a2691792a52f8f5ff8aa8edcf6d017a8daa3d89d63f2e", 
+            "size": 687923668, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "gtaxllte": [
+        {
+            "date": "2020-02-08", 
+            "datetime": "20200208", 
+            "filename": "Bliss-v12.3-gtaxllte-OFFICIAL-20200208.zip", 
+            "filepath": "/gtaxllte/Bliss-v12.3-gtaxllte-OFFICIAL-20200208.zip", 
+            "sha256": "f6ac1ac2b2da0d295cddd29eeeb563ec646f00da05bfb477808c54d87c1ea260", 
+            "size": 691010638, 
+            "type": "official", 
+            "version": "v12.3"
+        }
+    ], 
+    "gtaxlwifi": [
+        {
+            "date": "2020-02-08", 
+            "datetime": "20200208", 
+            "filename": "Bliss-v12.3-gtaxlwifi-OFFICIAL-20200208.zip", 
+            "filepath": "/gtaxlwifi/Bliss-v12.3-gtaxlwifi-OFFICIAL-20200208.zip", 
+            "sha256": "0415e3358088954fb9fd3f8310a7d4da27a3adc56b522e925d09b3deec8f39a7", 
+            "size": 689498951, 
+            "type": "official", 
+            "version": "v12.3"
+        }
+    ], 
+    "guacamole": [
+        {
+            "date": "2020-01-30", 
+            "datetime": "20200130", 
+            "filename": "Bliss-v12.2-guacamole-OFFICIAL-20200130.zip", 
+            "filepath": "/guacamole/Bliss-v12.2-guacamole-OFFICIAL-20200130.zip", 
+            "sha256": "cdcd27bd1557dbd67ee3999c1d8e4e9f2b2bc4d5de005e25e1976c95842698bf", 
+            "size": 970900768, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "jasmine_sprout": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Bliss-v12.2-jasmine_sprout-OFFICIAL-20200128.zip", 
+            "filepath": "/jasmine_sprout/Bliss-v12.2-jasmine_sprout-OFFICIAL-20200128.zip", 
+            "sha256": "063f0b030f11c66a3884133c7edc104cc7d7f40ff3575825b7e3bd3e1f48f72b", 
+            "size": 873252924, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "kenzo": [
+        {
+            "date": "2020-02-06", 
+            "datetime": "20200206", 
+            "filename": "Bliss-v12.2-kenzo-OFFICIAL-20200206.zip", 
+            "filepath": "/kenzo/Bliss-v12.2-kenzo-OFFICIAL-20200206.zip", 
+            "sha256": "d66d6dba66177bfc3b7b01a474b333f65d9061262853b7bd63bdb27afa278ef7", 
+            "size": 711753539, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "oneplus3": [
+        {
+            "date": "2020-02-05", 
+            "datetime": "20200205", 
+            "filename": "Bliss-v12.2-oneplus3-OFFICIAL-20200205.zip", 
+            "filepath": "/oneplus3/Bliss-v12.2-oneplus3-OFFICIAL-20200205.zip", 
+            "sha256": "4ca815f9568865b5c4c8a5230f2b0897bc7082f7c93d1032a59ff6237e9b4a16", 
+            "size": 762322525, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "santoni": [
+        {
+            "date": "2020-02-08", 
+            "datetime": "20200208", 
+            "filename": "Bliss-v12.3-santoni-OFFICIAL-20200208.zip", 
+            "filepath": "/santoni/Bliss-v12.3-santoni-OFFICIAL-20200208.zip", 
+            "sha256": "f73524822330c55aa296fc823abeed034c9ca4d98bb3887816de28d7d3b350de", 
+            "size": 731772822, 
+            "type": "official", 
+            "version": "v12.3"
+        }
+    ], 
+    "wayne": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Bliss-v12.2-wayne-OFFICIAL-20200128.zip", 
+            "filepath": "/wayne/Bliss-v12.2-wayne-OFFICIAL-20200128.zip", 
+            "sha256": "0f9f02a94ffc6213348f91b4611edf092c15a1d1272ffa60ab71a72968070945", 
+            "size": 896430187, 
+            "type": "official", 
+            "version": "v12.2"
+        }
+    ], 
+    "whyred": [
+        {
+            "date": "2020-02-08", 
+            "datetime": "20200208", 
+            "filename": "Bliss-v12.3-whyred-OFFICIAL-20200208.zip", 
+            "filepath": "/whyred/Bliss-v12.3-whyred-OFFICIAL-20200208.zip", 
+            "sha256": "c315b73ab8d6703da5c64aad8c063a2ee78816bb55f79e7f8af54cd356f25a86", 
+            "size": 854876539, 
+            "type": "official", 
+            "version": "v12.3"
+        }
+    ], 
+    "z2_plus": [
+        {
+            "date": "2020-01-13", 
+            "datetime": "20200113", 
+            "filename": "Bliss-v12.1-z2_plus-OFFICIAL-20200113.zip", 
+            "filepath": "/z2_plus/Bliss-v12.1-z2_plus-OFFICIAL-20200113.zip", 
+            "sha256": "13c8e7346a0d7c97ad92fbb021afc02834c45ec323af87aa87509f4c8479d4d9", 
+            "size": 711141195, 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ]
+}
