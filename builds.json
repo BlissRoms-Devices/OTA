@@ -65,8 +65,8 @@
             "datetime": "20200216", 
             "filename": "Bliss-v12.3-gtaxllte-OFFICIAL-20200216.zip", 
             "filepath": "/gtaxllte/Bliss-v12.3-gtaxllte-OFFICIAL-20200216.zip", 
-            "sha256": "d67de16f3771d1042e5b0d7ea817bc936c736ff31784af26f34539668cbc2225", 
-            "size": 77791232, 
+            "sha256": "ef9fb2fb93fed50a311304eb7bb98ed5f464ba69c3a6dc9cf00d03cad01fb49b", 
+            "size": 411582464, 
             "type": "official", 
             "version": "v12.3"
         }
@@ -77,8 +77,8 @@
             "datetime": "20200216", 
             "filename": "Bliss-v12.3-gtaxlwifi-OFFICIAL-20200216.zip", 
             "filepath": "/gtaxlwifi/Bliss-v12.3-gtaxlwifi-OFFICIAL-20200216.zip", 
-            "sha256": "6f170c04a388ad920541d0477d35ab95b7bf5bd057232dbd68a7b9c88273e37a", 
-            "size": 51658752, 
+            "sha256": "3af177a7e54d94807c9fbb45d6c9ea5d18160f38c40d0c42303634375afadc97", 
+            "size": 381763584, 
             "type": "official", 
             "version": "v12.3"
         }
