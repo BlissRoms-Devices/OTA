@@ -133,12 +133,12 @@
     ], 
     "santoni": [
         {
-            "date": "2020-02-08", 
-            "datetime": "20200208", 
-            "filename": "Bliss-v12.3-santoni-OFFICIAL-20200208.zip", 
-            "filepath": "/santoni/Bliss-v12.3-santoni-OFFICIAL-20200208.zip", 
-            "sha256": "f73524822330c55aa296fc823abeed034c9ca4d98bb3887816de28d7d3b350de", 
-            "size": 731772822, 
+            "date": "2020-02-15", 
+            "datetime": "20200215", 
+            "filename": "Bliss-v12.3-santoni-OFFICIAL-20200215.zip", 
+            "filepath": "/santoni/Bliss-v12.3-santoni-OFFICIAL-20200215.zip", 
+            "sha256": "fc0aa50e7661e96b948e02e93e5e6bd823f4ec568371b47563648b83370dda92", 
+            "size": 79953920, 
             "type": "official", 
             "version": "v12.3"
         }
