@@ -85,14 +85,14 @@
     ], 
     "guacamole": [
         {
-            "date": "2020-01-30", 
-            "datetime": "20200130", 
-            "filename": "Bliss-v12.2-guacamole-OFFICIAL-20200130.zip", 
-            "filepath": "/guacamole/Bliss-v12.2-guacamole-OFFICIAL-20200130.zip", 
-            "sha256": "cdcd27bd1557dbd67ee3999c1d8e4e9f2b2bc4d5de005e25e1976c95842698bf", 
-            "size": 970900768, 
+            "date": "2020-02-16", 
+            "datetime": "20200216", 
+            "filename": "Bliss-v12.3-guacamole-OFFICIAL-20200216.zip", 
+            "filepath": "/guacamole/Bliss-v12.3-guacamole-OFFICIAL-20200216.zip", 
+            "sha256": "65e2d1351fe10f74b78a70597ec7d0e623f541231ee848d89f6e9124cee67fe2", 
+            "size": 972901150, 
             "type": "official", 
-            "version": "v12.2"
+            "version": "v12.3"
         }
     ], 
     "jasmine_sprout": [
