@@ -109,14 +109,14 @@
     ], 
     "kenzo": [
         {
-            "date": "2020-02-06", 
-            "datetime": "20200206", 
-            "filename": "Bliss-v12.2-kenzo-OFFICIAL-20200206.zip", 
-            "filepath": "/kenzo/Bliss-v12.2-kenzo-OFFICIAL-20200206.zip", 
-            "sha256": "d66d6dba66177bfc3b7b01a474b333f65d9061262853b7bd63bdb27afa278ef7", 
-            "size": 711753539, 
+            "date": "2020-02-17", 
+            "datetime": "20200217", 
+            "filename": "Bliss-v12.3-kenzo-OFFICIAL-20200217.zip", 
+            "filepath": "/kenzo/Bliss-v12.3-kenzo-OFFICIAL-20200217.zip", 
+            "sha256": "f31a2fbcfdfe4b8b7ebdebfc8c5ea8ea115277549c63e32d2fac2f44d0f3b1ab", 
+            "size": 717950579, 
             "type": "official", 
-            "version": "v12.2"
+            "version": "v12.3"
         }
     ], 
     "oneplus3": [
