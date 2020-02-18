@@ -121,14 +121,14 @@
     ], 
     "oneplus3": [
         {
-            "date": "2020-02-05", 
-            "datetime": "20200205", 
-            "filename": "Bliss-v12.2-oneplus3-OFFICIAL-20200205.zip", 
-            "filepath": "/oneplus3/Bliss-v12.2-oneplus3-OFFICIAL-20200205.zip", 
-            "sha256": "4ca815f9568865b5c4c8a5230f2b0897bc7082f7c93d1032a59ff6237e9b4a16", 
-            "size": 762322525, 
+            "date": "2020-02-18", 
+            "datetime": "20200218", 
+            "filename": "Bliss-v12.3-oneplus3-OFFICIAL-20200218.zip", 
+            "filepath": "/oneplus3/Bliss-v12.3-oneplus3-OFFICIAL-20200218.zip", 
+            "sha256": "2bc1531e0d4d581207c0f9baad79eafa1c1f0efa5da087105df77cece3e621d7", 
+            "size": 655360, 
             "type": "official", 
-            "version": "v12.2"
+            "version": "v12.3"
         }
     ], 
     "santoni": [
