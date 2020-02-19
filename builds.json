@@ -143,6 +143,18 @@
             "version": "v12.3"
         }
     ], 
+    "taimen": [
+        {
+            "date": "2020-02-18", 
+            "datetime": "20200218", 
+            "filename": "Bliss-v12.3-taimen-OFFICIAL-20200218.zip", 
+            "filepath": "/taimen/Bliss-v12.3-taimen-OFFICIAL-20200218.zip", 
+            "sha256": "462b20f6a9487c72b537b4daecc0183e6d6e3e38575a28d3a68f126596792e9c", 
+            "size": 863205954, 
+            "type": "official", 
+            "version": "v12.3"
+        }
+    ], 
     "wayne": [
         {
             "date": "2020-02-11", 
