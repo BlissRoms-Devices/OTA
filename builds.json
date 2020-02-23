@@ -23,6 +23,18 @@
             "version": "v12.4"
         }
     ], 
+    "bonito": [
+        {
+            "date": "2020-02-23", 
+            "datetime": "20200223", 
+            "filename": "Bliss-v12.4-bonito-OFFICIAL-20200223.zip", 
+            "filepath": "/bonito/Bliss-v12.4-bonito-OFFICIAL-20200223.zip", 
+            "sha256": "9c4a111992551b4a57fef952851d7c9d93524e209df20908aaf1d5c17ab6efd1", 
+            "size": 472809472, 
+            "type": "official", 
+            "version": "v12.4"
+        }
+    ], 
     "bullhead": [
         {
             "date": "2020-02-16", 
