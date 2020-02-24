@@ -1,4 +1,16 @@
 {
+    "X00T": [
+        {
+            "date": "2020-02-23", 
+            "datetime": "20200223", 
+            "filename": "Bliss-v12.3-X00T-OFFICIAL-20200223.zip", 
+            "filepath": "/X00T/Bliss-v12.3-X00T-OFFICIAL-20200223.zip", 
+            "sha256": "80743c4ff92a93134916c90ccb4c5e774ad80b4cbc04bade5456fd5f599a468e", 
+            "size": 771687482, 
+            "type": "official", 
+            "version": "v12.3"
+        }
+    ], 
     "X01BD": [
         {
             "date": "2020-02-23", 
