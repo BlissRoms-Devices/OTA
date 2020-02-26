@@ -121,14 +121,14 @@
     ], 
     "guacamole": [
         {
-            "date": "2020-02-25", 
-            "datetime": "20200225", 
-            "filename": "Bliss-v12.4-guacamole-OFFICIAL-20200225.zip", 
-            "filepath": "/guacamole/Bliss-v12.4-guacamole-OFFICIAL-20200225.zip", 
-            "sha256": "07f0e791cb33a842118ca618844f9bcd5439632408c1d3bc7666c58273a354a4", 
-            "size": 978111304, 
+            "date": "2020-02-16", 
+            "datetime": "20200216", 
+            "filename": "Bliss-v12.3-guacamole-OFFICIAL-20200216.zip", 
+            "filepath": "/guacamole/Bliss-v12.3-guacamole-OFFICIAL-20200216.zip", 
+            "sha256": "65e2d1351fe10f74b78a70597ec7d0e623f541231ee848d89f6e9124cee67fe2", 
+            "size": 972901150, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.3"
         }
     ], 
     "jasmine_sprout": [
@@ -185,8 +185,8 @@
             "datetime": "20200225", 
             "filename": "Bliss-v12.4-taimen-OFFICIAL-20200225.zip", 
             "filepath": "/taimen/Bliss-v12.4-taimen-OFFICIAL-20200225.zip", 
-            "sha256": "2fb5fe02f812ac066060bb5c5b608c907249f1525df7ab60dbbd4773ce55a16c", 
-            "size": 446955520, 
+            "sha256": "871b71d686ac58ad45c18fd05f3315c7c76687c16fff068d9c2beb068de8ccad", 
+            "size": 863015197, 
             "type": "official", 
             "version": "v12.4"
         }
