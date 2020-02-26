@@ -125,8 +125,8 @@
             "datetime": "20200225", 
             "filename": "Bliss-v12.4-guacamole-OFFICIAL-20200225.zip", 
             "filepath": "/guacamole/Bliss-v12.4-guacamole-OFFICIAL-20200225.zip", 
-            "sha256": "ae6d784f4f2bd106a8a008cc4c88b215d8ef8761e610452d4c4f4bedb96c3b80", 
-            "size": 720543744, 
+            "sha256": "1b0cd255acbaff0745a8083c7307eb8ea1f5fc2fe766d6091cc2ccb294106717", 
+            "size": 978111304, 
             "type": "official", 
             "version": "v12.4"
         }
