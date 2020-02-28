@@ -1,4 +1,16 @@
 {
+    "I01WD": [
+        {
+            "date": "2020-02-26", 
+            "datetime": "20200226", 
+            "filename": "Bliss-v12.4-I01WD-OFFICIAL-20200226.zip", 
+            "filepath": "/I01WD/Bliss-v12.4-I01WD-OFFICIAL-20200226.zip", 
+            "sha256": "a4d325f01155fe1dae31eb12a5813877ddc702d1204ced0bcb1a00830d78a203", 
+            "size": 638798180, 
+            "type": "official", 
+            "version": "v12.4"
+        }
+    ], 
     "X00T": [
         {
             "date": "2020-02-23", 
