@@ -157,12 +157,12 @@
     ], 
     "h872": [
         {
-            "date": "2020-02-26", 
-            "datetime": "20200226", 
-            "filename": "Bliss-v12.4-h872-OFFICIAL-20200226.zip", 
-            "filepath": "/h872/Bliss-v12.4-h872-OFFICIAL-20200226.zip", 
-            "sha256": "2d72c5622762db43902a5f7c08d29653fad18d1d58b336acad0f9c0b2c2dd57e", 
-            "size": 754850538, 
+            "date": "2020-03-06", 
+            "datetime": "20200306", 
+            "filename": "Bliss-v12.4-h872-OFFICIAL-20200306.zip", 
+            "filepath": "/h872/Bliss-v12.4-h872-OFFICIAL-20200306.zip", 
+            "sha256": "27669efe027381b956c41363f6fae40b5b08dc926a3b4623e609cc2e6f1a2eb8", 
+            "size": 833354409, 
             "type": "official", 
             "version": "v12.4"
         }
@@ -229,12 +229,12 @@
     ], 
     "us997": [
         {
-            "date": "2020-02-26", 
-            "datetime": "20200226", 
-            "filename": "Bliss-v12.4-us997-OFFICIAL-20200226.zip", 
-            "filepath": "/us997/Bliss-v12.4-us997-OFFICIAL-20200226.zip", 
-            "sha256": "869bf17bf8dd6a3a52de5eb5ecf2d4153e6a68c92bee91e5a72d458f6d080e25", 
-            "size": 754848060, 
+            "date": "2020-03-06", 
+            "datetime": "20200306", 
+            "filename": "Bliss-v12.4-us997-OFFICIAL-20200306.zip", 
+            "filepath": "/us997/Bliss-v12.4-us997-OFFICIAL-20200306.zip", 
+            "sha256": "ad51192db465e29a054a05cf51a208f166f6e8a99722f8517043957b608441e8", 
+            "size": 291799040, 
             "type": "official", 
             "version": "v12.4"
         }
