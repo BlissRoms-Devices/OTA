@@ -37,14 +37,14 @@
     ], 
     "Z01R": [
         {
-            "date": "2020-03-04", 
-            "datetime": "20200304", 
-            "filename": "Bliss-v12.4-Z01R-OFFICIAL-20200304.zip", 
-            "filepath": "/z01r/Bliss-v12.4-Z01R-OFFICIAL-20200304.zip", 
-            "sha256": "7b1b80a24ea0fbcd0d67c58aab4801f496e9c41b48ab31f0e1379ecb7c10460e", 
-            "size": 1014256155, 
+            "date": "2020-03-13", 
+            "datetime": "20200313", 
+            "filename": "Bliss-v12.5-Z01R-OFFICIAL-20200313.zip", 
+            "filepath": "/z01r/Bliss-v12.5-Z01R-OFFICIAL-20200313.zip", 
+            "sha256": "f95ca78264d1838af100afd20d12dfb0beb90de1871269dd7cbff3cadf43fcc5", 
+            "size": 1080197157, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ], 
     "bonito": [
