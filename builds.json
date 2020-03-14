@@ -217,14 +217,14 @@
     ], 
     "taimen": [
         {
-            "date": "2020-02-25", 
-            "datetime": "20200225", 
-            "filename": "Bliss-v12.4-taimen-OFFICIAL-20200225.zip", 
-            "filepath": "/taimen/Bliss-v12.4-taimen-OFFICIAL-20200225.zip", 
-            "sha256": "871b71d686ac58ad45c18fd05f3315c7c76687c16fff068d9c2beb068de8ccad", 
-            "size": 863015197, 
+            "date": "2020-03-13", 
+            "datetime": "20200313", 
+            "filename": "Bliss-v12.5-taimen-OFFICIAL-20200313.zip", 
+            "filepath": "/taimen/Bliss-v12.5-taimen-OFFICIAL-20200313.zip", 
+            "sha256": "ef29d74b58f2cdf5610e9f5d7ad6b2e6774a749a98d204de0acd8373f9263996", 
+            "size": 1095068161, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ], 
     "us997": [
