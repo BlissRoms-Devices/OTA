@@ -241,12 +241,12 @@
     ], 
     "violet": [
         {
-            "date": "2020-03-08", 
-            "datetime": "20200308", 
-            "filename": "Bliss-v12.5-violet-OFFICIAL-20200308.zip", 
-            "filepath": "/violet/Bliss-v12.5-violet-OFFICIAL-20200308.zip", 
-            "sha256": "aad64f30a56d2fa50db218d2fc2fd80569d624b8b862c95e55b13b3e0d5b40ad", 
-            "size": 1785024590, 
+            "date": "2020-03-15", 
+            "datetime": "20200315", 
+            "filename": "Bliss-v12.5-violet-OFFICIAL-20200315.zip", 
+            "filepath": "/violet/Bliss-v12.5-violet-OFFICIAL-20200315.zip", 
+            "sha256": "cb70ae3cd4048ad66e7b304e0e9f058ce370cc167957f203064bcdc58c0604b9", 
+            "size": 1716836040, 
             "type": "official", 
             "version": "v12.5"
         }
