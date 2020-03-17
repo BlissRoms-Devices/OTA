@@ -73,14 +73,14 @@
     ], 
     "clover": [
         {
-            "date": "2020-03-02", 
-            "datetime": "20200302", 
-            "filename": "Bliss-v12.4-clover-OFFICIAL-20200302.zip", 
-            "filepath": "/clover/Bliss-v12.4-clover-OFFICIAL-20200302.zip", 
-            "sha256": "fd2531a72ac698540be71207cc7110b9c23f20a1e475c07964e32596a734ae92", 
-            "size": 853481131, 
+            "date": "2020-03-17", 
+            "datetime": "20200317", 
+            "filename": "Bliss-v12.5-clover-OFFICIAL-20200317.zip", 
+            "filepath": "/clover/Bliss-v12.5-clover-OFFICIAL-20200317.zip", 
+            "sha256": "a9882b8e758baffe12cff7a2c7275c7b4f881569d8a80ca914967ec89948aa94", 
+            "size": 930529736, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ], 
     "dumpling": [
@@ -169,14 +169,14 @@
     ], 
     "jasmine_sprout": [
         {
-            "date": "2020-03-02", 
-            "datetime": "20200302", 
-            "filename": "Bliss-v12.4-jasmine_sprout-OFFICIAL-20200302.zip", 
-            "filepath": "/jasmine_sprout/Bliss-v12.4-jasmine_sprout-OFFICIAL-20200302.zip", 
-            "sha256": "e10dc2acaf7737fc26dc4f6db744efa4533318ffbaa546cbc101e63e442c5714", 
-            "size": 883208851, 
+            "date": "2020-03-17", 
+            "datetime": "20200317", 
+            "filename": "Bliss-v12.5-jasmine_sprout-OFFICIAL-20200317.zip", 
+            "filepath": "/jasmine_sprout/Bliss-v12.5-jasmine_sprout-OFFICIAL-20200317.zip", 
+            "sha256": "0cd90b24aaae23911c4b1267f7acd8233013a2c012b38914e8e2e20824919d58", 
+            "size": 967484131, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ], 
     "kenzo": [
@@ -253,14 +253,14 @@
     ], 
     "wayne": [
         {
-            "date": "2020-03-02", 
-            "datetime": "20200302", 
-            "filename": "Bliss-v12.4-wayne-OFFICIAL-20200302.zip", 
-            "filepath": "/wayne/Bliss-v12.4-wayne-OFFICIAL-20200302.zip", 
-            "sha256": "4e0d80c5437da81a7de505c4ebaf8ec5f5fd80a034af3b9b58876e5e51d5f2b3", 
-            "size": 902807570, 
+            "date": "2020-03-17", 
+            "datetime": "20200317", 
+            "filename": "Bliss-v12.5-wayne-OFFICIAL-20200317.zip", 
+            "filepath": "/wayne/Bliss-v12.5-wayne-OFFICIAL-20200317.zip", 
+            "sha256": "2e11dab650e46c8eef52713fceb6de2670e80d7065fac77864fa2cf2377344cc", 
+            "size": 980446165, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ], 
     "whyred": [
