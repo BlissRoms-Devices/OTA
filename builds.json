@@ -1,12 +1,12 @@
 {
     "I01WD": [
         {
-            "date": "2020-03-19", 
-            "datetime": "20200319", 
-            "filename": "Bliss-v12.5-I01WD-OFFICIAL-20200319.zip", 
-            "filepath": "/I01WD/Bliss-v12.5-I01WD-OFFICIAL-20200319.zip", 
-            "sha256": "b4c42151afb7c6b068b76ec5b7a9c0e7bf6d334aa4cbba0bf28edf94266b43bf", 
-            "size": 1072428623, 
+            "date": "2020-03-27", 
+            "datetime": "20200327", 
+            "filename": "Bliss-v12.5-I01WD-OFFICIAL-20200327.zip", 
+            "filepath": "/I01WD/Bliss-v12.5-I01WD-OFFICIAL-20200327.zip", 
+            "sha256": "0272535a585c715adc0af574c50b4f8782e910eeedf277ee70f57c0e6570131e", 
+            "size": 1066460604, 
             "type": "official", 
             "version": "v12.5"
         }
