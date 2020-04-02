@@ -85,12 +85,12 @@
     ], 
     "daisy": [
         {
-            "date": "2020-03-31", 
-            "datetime": "20200331", 
-            "filename": "Bliss-v12.5-daisy-OFFICIAL-20200331.zip", 
-            "filepath": "/daisy/Bliss-v12.5-daisy-OFFICIAL-20200331.zip", 
-            "sha256": "72d7778ba672882abbcb94349f8712bd22bfe2d027a614000b4e9089cd24cabd", 
-            "size": 1039612655, 
+            "date": "2020-04-01", 
+            "datetime": "20200401", 
+            "filename": "Bliss-v12.5-daisy-OFFICIAL-20200401.zip", 
+            "filepath": "/daisy/Bliss-v12.5-daisy-OFFICIAL-20200401.zip", 
+            "sha256": "9eedc40e4f75284425a62171eeaa182e7e54de1dbc34148537ef11ad7fd18c53", 
+            "size": 1039647224, 
             "type": "official", 
             "version": "v12.5"
         }
@@ -205,14 +205,14 @@
     ], 
     "oneplus3": [
         {
-            "date": "2020-02-26", 
-            "datetime": "20200226", 
-            "filename": "Bliss-v12.4-oneplus3-OFFICIAL-20200226.zip", 
-            "filepath": "/oneplus3/Bliss-v12.4-oneplus3-OFFICIAL-20200226.zip", 
-            "sha256": "3c94b0a59d0b817723aad6f6be924cac6f603065d304df4e1797d3ee91f88c2b", 
-            "size": 769506471, 
+            "date": "2020-04-02", 
+            "datetime": "20200402", 
+            "filename": "Bliss-v12.5-oneplus3-OFFICIAL-20200402.zip", 
+            "filepath": "/oneplus3/Bliss-v12.5-oneplus3-OFFICIAL-20200402.zip", 
+            "sha256": "52f90da8040824094822ed6d0dd8683bd15ee8c6fe16f0e2b7e748f35a4f383b", 
+            "size": 275021824, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ], 
     "santoni": [
