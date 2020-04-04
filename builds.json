@@ -1,12 +1,12 @@
 {
     "I01WD": [
         {
-            "date": "2020-03-27", 
-            "datetime": "20200327", 
-            "filename": "Bliss-v12.5-I01WD-OFFICIAL-20200327.zip", 
-            "filepath": "/I01WD/Bliss-v12.5-I01WD-OFFICIAL-20200327.zip", 
-            "sha256": "0272535a585c715adc0af574c50b4f8782e910eeedf277ee70f57c0e6570131e", 
-            "size": 1066460604, 
+            "date": "2020-04-03", 
+            "datetime": "20200403", 
+            "filename": "Bliss-v12.5-I01WD-OFFICIAL-20200403.zip", 
+            "filepath": "/I01WD/Bliss-v12.5-I01WD-OFFICIAL-20200403.zip", 
+            "sha256": "3c13b8674b3bd1d09a557defd80080fcbfea49eb35d7f9125c3a2beb94ef96e5", 
+            "size": 1067220783, 
             "type": "official", 
             "version": "v12.5"
         }
@@ -37,12 +37,12 @@
     ], 
     "Z01R": [
         {
-            "date": "2020-03-30", 
-            "datetime": "20200330", 
-            "filename": "Bliss-v12.5-Z01R-OFFICIAL-20200330.zip", 
-            "filepath": "/z01r/Bliss-v12.5-Z01R-OFFICIAL-20200330.zip", 
-            "sha256": "7fff1badc26958448296379aa1f5e43ce0cc301243507ee6f01b8be1448b3f9a", 
-            "size": 1083480451, 
+            "date": "2020-04-03", 
+            "datetime": "20200403", 
+            "filename": "Bliss-v12.5-Z01R-OFFICIAL-20200403.zip", 
+            "filepath": "/z01r/Bliss-v12.5-Z01R-OFFICIAL-20200403.zip", 
+            "sha256": "c816ff7672d5776593943c97f2493f2f61c283c101783ea4c597410c47240b80", 
+            "size": 1083449942, 
             "type": "official", 
             "version": "v12.5"
         }
@@ -217,12 +217,12 @@
     ], 
     "phoenix": [
         {
-            "date": "2020-04-02", 
-            "datetime": "20200402", 
-            "filename": "Bliss-v12.5-phoenix-OFFICIAL-20200402.zip", 
-            "filepath": "/phoenix/Bliss-v12.5-phoenix-OFFICIAL-20200402.zip", 
-            "sha256": "bd7d8d176e7cdb6580643dea2cf01521560755fab9768ff061f5d9793c3c26df", 
-            "size": 1043402764, 
+            "date": "2020-04-03", 
+            "datetime": "20200403", 
+            "filename": "Bliss-v12.5-phoenix-OFFICIAL-20200403.zip", 
+            "filepath": "/phoenix/Bliss-v12.5-phoenix-OFFICIAL-20200403.zip", 
+            "sha256": "52ca5472541c64dcb94b70c9d34161e5c0ca642b21aa1eda93c02ec502be5df7", 
+            "size": 1032881562, 
             "type": "official", 
             "version": "v12.5"
         }
