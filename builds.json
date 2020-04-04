@@ -49,12 +49,12 @@
     ], 
     "bonito": [
         {
-            "date": "2020-04-02", 
-            "datetime": "20200402", 
-            "filename": "Bliss-v12.5-bonito-OFFICIAL-20200402.zip", 
-            "filepath": "/bonito/Bliss-v12.5-bonito-OFFICIAL-20200402.zip", 
-            "sha256": "ccf12690910fd4806c23e0119e2827febcb04dbc1ddc9671eb59b134f871af07", 
-            "size": 1251807302, 
+            "date": "2020-04-04", 
+            "datetime": "20200404", 
+            "filename": "Bliss-v12.5-bonito-OFFICIAL-20200404.zip", 
+            "filepath": "/bonito/Bliss-v12.5-bonito-OFFICIAL-20200404.zip", 
+            "sha256": "1e6f5b5d9496fbbe4a1da86710448175c98a4b372f3f3c943820ed0071c51d57", 
+            "size": 1251874303, 
             "type": "official", 
             "version": "v12.5"
         }
