@@ -301,14 +301,14 @@
     ], 
     "z2_plus": [
         {
-            "date": "2020-03-07", 
-            "datetime": "20200307", 
-            "filename": "Bliss-v12.4-z2_plus-OFFICIAL-20200307.zip", 
-            "filepath": "/z2_plus/Bliss-v12.4-z2_plus-OFFICIAL-20200307.zip", 
-            "sha256": "5f01cffc8cc79648aeaff6f83632240cea8b013bfa08e05331397b797725151b", 
-            "size": 836310128, 
+            "date": "2020-04-06", 
+            "datetime": "20200406", 
+            "filename": "Bliss-v12.5-z2_plus-OFFICIAL-20200406.zip", 
+            "filepath": "/z2_plus/Bliss-v12.5-z2_plus-OFFICIAL-20200406.zip", 
+            "sha256": "80f68115ad822e6640ee98a014691b00eb89bd3d8dcce2523a819f70ae2c1c0f", 
+            "size": 839687033, 
             "type": "official", 
-            "version": "v12.4"
+            "version": "v12.5"
         }
     ]
 }
