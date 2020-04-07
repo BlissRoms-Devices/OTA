@@ -85,12 +85,12 @@
     ], 
     "daisy": [
         {
-            "date": "2020-04-01", 
-            "datetime": "20200401", 
-            "filename": "Bliss-v12.5-daisy-OFFICIAL-20200401.zip", 
-            "filepath": "/daisy/Bliss-v12.5-daisy-OFFICIAL-20200401.zip", 
-            "sha256": "9eedc40e4f75284425a62171eeaa182e7e54de1dbc34148537ef11ad7fd18c53", 
-            "size": 1039647224, 
+            "date": "2020-04-07", 
+            "datetime": "20200407", 
+            "filename": "Bliss-v12.5-daisy-OFFICIAL-20200407.zip", 
+            "filepath": "/daisy/Bliss-v12.5-daisy-OFFICIAL-20200407.zip", 
+            "sha256": "b4e3ec249d593b71d1eeb77bc2f1945af8022f8b243b96f47fa3677081204ec8", 
+            "size": 1054372928, 
             "type": "official", 
             "version": "v12.5"
         }
