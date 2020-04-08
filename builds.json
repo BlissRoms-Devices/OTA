@@ -217,14 +217,14 @@
     ], 
     "phoenix": [
         {
-            "date": "2020-04-06", 
-            "datetime": "20200406", 
-            "filename": "Bliss-v12.5-phoenix-OFFICIAL-20200406.zip", 
-            "filepath": "/phoenix/Bliss-v12.5-phoenix-OFFICIAL-20200406.zip", 
-            "sha256": "190beeb3d0144145cc909227695194b90ce50d3894f63c27ae75b473752ab3d0", 
-            "size": 1047843268, 
+            "date": "2020-04-08", 
+            "datetime": "20200408", 
+            "filename": "Bliss-v12.6-phoenix-OFFICIAL-20200408.zip", 
+            "filepath": "/phoenix/Bliss-v12.6-phoenix-OFFICIAL-20200408.zip", 
+            "sha256": "7dfe6a6b78b6cd0def3c92827a88d6afc405e96361e0a09b380c6adbb7eed2a3", 
+            "size": 1081062168, 
             "type": "official", 
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ], 
     "santoni": [
