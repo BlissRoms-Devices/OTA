@@ -37,24 +37,24 @@
     ], 
     "Z01R": [
         {
-            "date": "2020-04-03", 
-            "datetime": "20200403", 
-            "filename": "Bliss-v12.5-Z01R-OFFICIAL-20200403.zip", 
-            "filepath": "/z01r/Bliss-v12.5-Z01R-OFFICIAL-20200403.zip", 
-            "sha256": "c816ff7672d5776593943c97f2493f2f61c283c101783ea4c597410c47240b80", 
-            "size": 1083449942, 
+            "date": "2020-04-07", 
+            "datetime": "20200407", 
+            "filename": "Bliss-v12.5-Z01R-OFFICIAL-20200407.zip", 
+            "filepath": "/z01r/Bliss-v12.5-Z01R-OFFICIAL-20200407.zip", 
+            "sha256": "329cd3db9ce8f5d5dedbd99b2004401ef49ad09f448a102eee1a39ab88aef8f5", 
+            "size": 1111209925, 
             "type": "official", 
             "version": "v12.5"
         }
     ], 
     "bonito": [
         {
-            "date": "2020-04-04", 
-            "datetime": "20200404", 
-            "filename": "Bliss-v12.5-bonito-OFFICIAL-20200404.zip", 
-            "filepath": "/bonito/Bliss-v12.5-bonito-OFFICIAL-20200404.zip", 
-            "sha256": "1e6f5b5d9496fbbe4a1da86710448175c98a4b372f3f3c943820ed0071c51d57", 
-            "size": 1251874303, 
+            "date": "2020-04-07", 
+            "datetime": "20200407", 
+            "filename": "Bliss-v12.5-bonito-OFFICIAL-20200407.zip", 
+            "filepath": "/bonito/Bliss-v12.5-bonito-OFFICIAL-20200407.zip", 
+            "sha256": "5066054980a1d8d5abb7bd04b406b5fff3ee0a21f44229f174440fbd472f838b", 
+            "size": 1279100658, 
             "type": "official", 
             "version": "v12.5"
         }
@@ -241,12 +241,12 @@
     ], 
     "taimen": [
         {
-            "date": "2020-04-06", 
-            "datetime": "20200406", 
-            "filename": "Bliss-v12.5-taimen-OFFICIAL-20200406.zip", 
-            "filepath": "/taimen/Bliss-v12.5-taimen-OFFICIAL-20200406.zip", 
-            "sha256": "97bb3c793d5e4482261eddd663c07ead89eb344a9038663336a913b4681b63de", 
-            "size": 1206486406, 
+            "date": "2020-04-07", 
+            "datetime": "20200407", 
+            "filename": "Bliss-v12.5-taimen-OFFICIAL-20200407.zip", 
+            "filepath": "/taimen/Bliss-v12.5-taimen-OFFICIAL-20200407.zip", 
+            "sha256": "7684e11c09fcf91d5346c4cb5f55ec62965d9d03e4a806d82c46113dde1b4f6b", 
+            "size": 925712384, 
             "type": "official", 
             "version": "v12.5"
         }
