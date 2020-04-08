@@ -85,14 +85,14 @@
     ], 
     "daisy": [
         {
-            "date": "2020-04-07", 
-            "datetime": "20200407", 
-            "filename": "Bliss-v12.5-daisy-OFFICIAL-20200407.zip", 
-            "filepath": "/daisy/Bliss-v12.5-daisy-OFFICIAL-20200407.zip", 
-            "sha256": "b4e3ec249d593b71d1eeb77bc2f1945af8022f8b243b96f47fa3677081204ec8", 
-            "size": 1054372928, 
+            "date": "2020-04-08", 
+            "datetime": "20200408", 
+            "filename": "Bliss-v12.6-daisy-OFFICIAL-20200408.zip", 
+            "filepath": "/daisy/Bliss-v12.6-daisy-OFFICIAL-20200408.zip", 
+            "sha256": "b24552a2023564f8d34338407c445fb2b50579e7bd6b2cf5dacdfaca7f078e25", 
+            "size": 1083953894, 
             "type": "official", 
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ], 
     "dumpling": [
@@ -265,14 +265,14 @@
     ], 
     "violet": [
         {
-            "date": "2020-03-24", 
-            "datetime": "20200324", 
-            "filename": "Bliss-v12.5-violet-OFFICIAL-20200324.zip", 
-            "filepath": "/violet/Bliss-v12.5-violet-OFFICIAL-20200324.zip", 
-            "sha256": "df7337deebfe54fcde3c579af82a7aebdd3966eb79c6545fe27aa4b45d46990f", 
-            "size": 1498961930, 
+            "date": "2020-04-08", 
+            "datetime": "20200408", 
+            "filename": "Bliss-v12.6-violet-OFFICIAL-20200408.zip", 
+            "filepath": "/violet/Bliss-v12.6-violet-OFFICIAL-20200408.zip", 
+            "sha256": "150ecc120bd84170b636524411d9bc7af199eedc2bf27a820b0e806e0a35bb1b", 
+            "size": 1528370673, 
             "type": "official", 
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ], 
     "wayne": [
