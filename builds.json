@@ -25,14 +25,14 @@
     ], 
     "X01BD": [
         {
-            "date": "2020-03-12", 
-            "datetime": "20200312", 
-            "filename": "Bliss-v12.5-X01BD-OFFICIAL-20200312.zip", 
-            "filepath": "/X01BD/Bliss-v12.5-X01BD-OFFICIAL-20200312.zip", 
-            "sha256": "2bccdfd8716b62e13882f6a68cb89ff035a480f541bf6587b3977a6ac2ae105d", 
-            "size": 877355945, 
+            "date": "2020-04-08", 
+            "datetime": "20200408", 
+            "filename": "Bliss-v12.6-X01BD-OFFICIAL-20200408.zip", 
+            "filepath": "/X01BD/Bliss-v12.6-X01BD-OFFICIAL-20200408.zip", 
+            "sha256": "96c231deaa6e70785556092b4ec68563c76629eddb8516960d90d62045b4c214", 
+            "size": 1153195932, 
             "type": "official", 
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ], 
     "Z01R": [
@@ -289,14 +289,14 @@
     ], 
     "whyred": [
         {
-            "date": "2020-03-24", 
-            "datetime": "20200324", 
-            "filename": "Bliss-v12.5-whyred-OFFICIAL-20200324.zip", 
-            "filepath": "/whyred/Bliss-v12.5-whyred-OFFICIAL-20200324.zip", 
-            "sha256": "86a72c4655edda7a2a6c2902d2aaaa451a4e1943f2bc05eed431e82e439879e2", 
-            "size": 937673818, 
+            "date": "2020-04-09", 
+            "datetime": "20200409", 
+            "filename": "Bliss-v12.6-whyred-OFFICIAL-20200409.zip", 
+            "filepath": "/whyred/Bliss-v12.6-whyred-OFFICIAL-20200409.zip", 
+            "sha256": "0667cbe10d7bb29059f38b6b532cd81eaebd5a5d719698442673218d2166a599", 
+            "size": 972927561, 
             "type": "official", 
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ], 
     "z2_plus": [
