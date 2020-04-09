@@ -119,6 +119,18 @@
             "version": "v12.5"
         }
     ], 
+    "grus": [
+        {
+            "date": "2020-04-09", 
+            "datetime": "20200409", 
+            "filename": "Bliss-v12.6-grus-OFFICIAL-20200409.zip", 
+            "filepath": "/grus/Bliss-v12.6-grus-OFFICIAL-20200409.zip", 
+            "sha256": "57535464c4578f46f0aaecd3bc7ea292e6decefe8d869ea6af0b332a562ae18a", 
+            "size": 1183363516, 
+            "type": "official", 
+            "version": "v12.6"
+        }
+    ], 
     "gtaxllte": [
         {
             "date": "2020-04-08", 
@@ -293,8 +305,8 @@
             "datetime": "20200409", 
             "filename": "Bliss-v12.6-whyred-OFFICIAL-20200409.zip", 
             "filepath": "/whyred/Bliss-v12.6-whyred-OFFICIAL-20200409.zip", 
-            "sha256": "0667cbe10d7bb29059f38b6b532cd81eaebd5a5d719698442673218d2166a599", 
-            "size": 972927561, 
+            "sha256": "81a41be2f5d7cd3f34d3f37bffeb946a4357c8b9aff610927d3a69ac577a8ef7", 
+            "size": 520671881, 
             "type": "official", 
             "version": "v12.6"
         }
