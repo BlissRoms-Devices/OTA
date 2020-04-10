@@ -217,14 +217,14 @@
     ], 
     "oneplus3": [
         {
-            "date": "2020-04-02", 
-            "datetime": "20200402", 
-            "filename": "Bliss-v12.5-oneplus3-OFFICIAL-20200402.zip", 
-            "filepath": "/oneplus3/Bliss-v12.5-oneplus3-OFFICIAL-20200402.zip", 
-            "sha256": "f4e8e4d9f1c971dfc6b7699ae331cb71e0b1166985471bd8d5ec3deb571ebf15", 
-            "size": 985944328, 
+            "date": "2020-04-09", 
+            "datetime": "20200409", 
+            "filename": "Bliss-v12.6-oneplus3-OFFICIAL-20200409.zip", 
+            "filepath": "/oneplus3/Bliss-v12.6-oneplus3-OFFICIAL-20200409.zip", 
+            "sha256": "a93b2ef0620e06c850e009bea34c5115692278d96675de3d7e62223f5f065ad6", 
+            "size": 888538184, 
             "type": "official", 
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ], 
     "phoenix": [
