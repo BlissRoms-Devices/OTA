@@ -221,11 +221,11 @@
     ],
     "platina": [
         {
-            "date": "2020-04-12",
-            "filename": "Bliss-v12.6-platina-OFFICIAL-20200412.zip",
-            "filepath": "/platina/Bliss-v12.6-platina-OFFICIAL-20200412.zip",
-            "sha256": "b1d16257daa62a0d0d6de39d66520b209ceb290a695bb082d8afe23390c8bd9a",
-            "size": 1019248925,
+            "date": "2020-04-14",
+            "filename": "Bliss-v12.6-platina-OFFICIAL-20200414.zip",
+            "filepath": "/platina/Bliss-v12.6-platina-OFFICIAL-20200414.zip",
+            "sha256": "07b7c03e20cdb9bf6c3f134383a863c06ee3c96b5665175696411ce42de33345",
+            "size": 1018900564,
             "type": "official",
             "version": "v12.6"
         }
