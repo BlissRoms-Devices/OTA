@@ -199,13 +199,13 @@
     ],
     "kenzo": [
         {
-            "date": "2020-04-05",
-            "filename": "Bliss-v12.5-kenzo-OFFICIAL-20200405.zip",
-            "filepath": "/kenzo/Bliss-v12.5-kenzo-OFFICIAL-20200405.zip",
-            "sha256": "55b0e05c75bb97c5ec481c7b046bdb2d3fd400b681ede4ba532e3405347b9d22",
-            "size": 819093940,
+            "date": "2020-04-20",
+            "filename": "Bliss-v12.6-kenzo-OFFICIAL-20200420.zip",
+            "filepath": "/kenzo/Bliss-v12.6-kenzo-OFFICIAL-20200420.zip",
+            "sha256": "2cbd2b96e6cf8f4d3c9bd9c574b18eb69459c1ee417eb71f733ffec093a9a32b",
+            "size": 864625223,
             "type": "official",
-            "version": "v12.5"
+            "version": "v12.6"
         }
     ],
     "marlin": [
