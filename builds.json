@@ -10,6 +10,17 @@
             "version": "v12.6"
         }
     ],
+    "RMX1971": [
+        {
+            "date": "2020-04-18",
+            "filename": "Bliss-v12.6-RMX1971-OFFICIAL-20200418.zip",
+            "filepath": "/RMX1971/Bliss-v12.6-RMX1971-OFFICIAL-20200418.zip",
+            "sha256": "902df3f36a224e3a47adc9b15b57c6c870e4789db7ca574bc04f836fac89d96e",
+            "size": 1156804032,
+            "type": "official",
+            "version": "v12.6"
+        }
+    ],
     "X00T": [
         {
             "date": "2020-04-15",
