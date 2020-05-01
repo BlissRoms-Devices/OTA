@@ -210,11 +210,11 @@
     ],
     "marlin": [
         {
-            "date": "2020-04-23",
-            "filename": "Bliss-v12.6-marlin-OFFICIAL-20200423.zip",
-            "filepath": "/marlin/Bliss-v12.6-marlin-OFFICIAL-20200423.zip",
-            "sha256": "d81c2c1afdd6bf9c08b1c00f789acf4df055b1017ab5554ea3a01a7ce70d5cb8",
-            "size": 972664275,
+            "date": "2020-05-01",
+            "filename": "Bliss-v12.6-marlin-OFFICIAL-20200501.zip",
+            "filepath": "/marlin/Bliss-v12.6-marlin-OFFICIAL-20200501.zip",
+            "sha256": "00184a5f3d80405c7bb3dab1cfaa2e5627bd2dd08c9bbbd148af96776d8207fe",
+            "size": 977570617,
             "type": "official",
             "version": "v12.6"
         }
