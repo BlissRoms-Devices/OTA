@@ -120,6 +120,17 @@
             "version": "v12.6"
         }
     ],
+    "fajita": [
+        {
+            "date": "2020-05-02",
+            "filename": "Bliss-v12.6-fajita-OFFICIAL-20200502.zip",
+            "filepath": "/fajita/Bliss-v12.6-fajita-OFFICIAL-20200502.zip",
+            "sha256": "8a7bc45e741fca0e7f755842f351480b133557cc7d414bc885eb5b3ce64f159e",
+            "size": 208502784,
+            "type": "official",
+            "version": "v12.6"
+        }
+    ],
     "grus": [
         {
             "date": "2020-04-25",
