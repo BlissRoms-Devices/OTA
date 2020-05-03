@@ -208,6 +208,17 @@
             "version": "v12.6"
         }
     ],
+    "lavender": [
+        {
+            "date": "2020-05-03",
+            "filename": "Bliss-v12.6-lavender-OFFICIAL-20200503.zip",
+            "filepath": "/lavender/Bliss-v12.6-lavender-OFFICIAL-20200503.zip",
+            "sha256": "20f43e4fa1f5d283e1c1bc4ba2d2813e0c582d87188823a0ad7fd93641c13bba",
+            "size": 1005149953,
+            "type": "official",
+            "version": "v12.6"
+        }
+    ],
     "marlin": [
         {
             "date": "2020-05-01",
