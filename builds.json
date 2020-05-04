@@ -111,11 +111,11 @@
     ],
     "enchilada": [
         {
-            "date": "2020-05-02",
-            "filename": "Bliss-v12.6-enchilada-OFFICIAL-20200502.zip",
-            "filepath": "/enchilada/Bliss-v12.6-enchilada-OFFICIAL-20200502.zip",
-            "sha256": "1fa98f3fad34fc001383f5457102d1d61bb0ae9274803411a5415958e2bc1f17",
-            "size": 1156661818,
+            "date": "2020-05-04",
+            "filename": "Bliss-v12.6-enchilada-OFFICIAL-20200504.zip",
+            "filepath": "/enchilada/Bliss-v12.6-enchilada-OFFICIAL-20200504.zip",
+            "sha256": "af13741716ad0f3a47266b938be6d16e4b6ca4e92febdae19ccd62c53953c00c",
+            "size": 1254988061,
             "type": "official",
             "version": "v12.6"
         }
