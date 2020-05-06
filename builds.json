@@ -1,13 +1,13 @@
 {
     "I01WD": [
         {
-            "date": "2020-04-24",
-            "filename": "Bliss-v12.6-I01WD-OFFICIAL-20200424.zip",
-            "filepath": "/I01WD/Bliss-v12.6-I01WD-OFFICIAL-20200424.zip",
-            "sha256": "5f1565e400644f1a925c906668698bf69bd44704a359d70ab3dbb5da3bc1e61a",
-            "size": 1078366220,
+            "date": "2020-05-06",
+            "filename": "Bliss-v12.7-I01WD-OFFICIAL-20200506.zip",
+            "filepath": "/I01WD/Bliss-v12.7-I01WD-OFFICIAL-20200506.zip",
+            "sha256": "9d4748c0bfcc69ba1a1bb247dbb5d2bc38368c17823646f851e4752e97ba7468",
+            "size": 1209422838,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "RMX1971": [
