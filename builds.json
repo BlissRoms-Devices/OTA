@@ -320,13 +320,13 @@
     ],
     "taimen": [
         {
-            "date": "2020-04-30",
-            "filename": "Bliss-v12.6-taimen-OFFICIAL-20200430.zip",
-            "filepath": "/taimen/Bliss-v12.6-taimen-OFFICIAL-20200430.zip",
-            "sha256": "b1924e0e27d98ebe679cfd43383c65df63e07303d2864c8513fb4e2d6d8da3ba",
-            "size": 1275020111,
+            "date": "2020-05-06",
+            "filename": "Bliss-v12.7-taimen-OFFICIAL-20200506.zip",
+            "filepath": "/taimen/Bliss-v12.7-taimen-OFFICIAL-20200506.zip",
+            "sha256": "a196f7ddfef8c07e189a9a699c5d82c2074a38b9979dbc911260602bff9123a8",
+            "size": 709115904,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "us997": [
