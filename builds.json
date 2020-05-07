@@ -131,6 +131,17 @@
             "version": "v12.7"
         }
     ],
+    "ginkgo": [
+        {
+            "date": "2020-05-07",
+            "filename": "Bliss-v12.7-ginkgo-OFFICIAL-20200507.zip",
+            "filepath": "/ginkgo/Bliss-v12.7-ginkgo-OFFICIAL-20200507.zip",
+            "sha256": "ef69b5e3ace7445c41947f73293d08a882addd6e383bef918a2e53683bb537c0",
+            "size": 1009107155,
+            "type": "official",
+            "version": "v12.7"
+        }
+    ],
     "grus": [
         {
             "date": "2020-05-04",
