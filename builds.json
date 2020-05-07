@@ -199,13 +199,13 @@
     ],
     "jasmine_sprout": [
         {
-            "date": "2020-04-16",
-            "filename": "Bliss-v12.6-jasmine_sprout-OFFICIAL-20200416.zip",
-            "filepath": "/jasmine_sprout/Bliss-v12.6-jasmine_sprout-OFFICIAL-20200416.zip",
-            "sha256": "9168eacccc5d0227303c8153e5dcf3fb2c32ef3c8858eefe966bfdc7b3a41dc9",
-            "size": 1031801096,
+            "date": "2020-05-07",
+            "filename": "Bliss-v12.7-jasmine_sprout-OFFICIAL-20200507.zip",
+            "filepath": "/jasmine_sprout/Bliss-v12.7-jasmine_sprout-OFFICIAL-20200507.zip",
+            "sha256": "a943a063d31a148cb4e3fc83b8408683e12a39f60e1cda4c7cf1c3631afaad7b",
+            "size": 1001508973,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "kenzo": [
@@ -353,13 +353,13 @@
     ],
     "wayne": [
         {
-            "date": "2020-04-16",
-            "filename": "Bliss-v12.6-wayne-OFFICIAL-20200416.zip",
-            "filepath": "/wayne/Bliss-v12.6-wayne-OFFICIAL-20200416.zip",
-            "sha256": "5f866ddca1e6790af3119201b5ba095878ab5299fcf9ed7e16e9d9d7f5b3ce5d",
-            "size": 1044382294,
+            "date": "2020-05-07",
+            "filename": "Bliss-v12.7-wayne-OFFICIAL-20200507.zip",
+            "filepath": "/wayne/Bliss-v12.7-wayne-OFFICIAL-20200507.zip",
+            "sha256": "70acb253af245257d33cb37de1592fba6cb5eb0a4730309bd1b06832b6e24604",
+            "size": 1017914840,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "whyred": [
