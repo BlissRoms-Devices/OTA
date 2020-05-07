@@ -78,13 +78,13 @@
     ],
     "clover": [
         {
-            "date": "2020-04-16",
-            "filename": "Bliss-v12.6-clover-OFFICIAL-20200416.zip",
-            "filepath": "/clover/Bliss-v12.6-clover-OFFICIAL-20200416.zip",
-            "sha256": "48f3a7a15e5dc2bd2ae63ec0c09ff4fee5c0e5ee49704472f94e3bcf9ac4179c",
-            "size": 970591239,
+            "date": "2020-05-07",
+            "filename": "Bliss-v12.7-clover-OFFICIAL-20200507.zip",
+            "filepath": "/clover/Bliss-v12.7-clover-OFFICIAL-20200507.zip",
+            "sha256": "6479e595262faf0a5438e8b0a9daedc0a6a669cba10037c015b3f4e22ad74e39",
+            "size": 941423318,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "daisy": [
