@@ -155,24 +155,24 @@
     ],
     "gtaxllte": [
         {
-            "date": "2020-04-26",
-            "filename": "Bliss-v12.6-gtaxllte-OFFICIAL-20200426.zip",
-            "filepath": "/gtaxllte/Bliss-v12.6-gtaxllte-OFFICIAL-20200426.zip",
-            "sha256": "c0d7573578c181358aa68f8570c71739b647dfb8ac3ad95f04cbbe671cc889ad",
-            "size": 1290785391,
+            "date": "2020-05-08",
+            "filename": "Bliss-v12.7-gtaxllte-OFFICIAL-20200508.zip",
+            "filepath": "/gtaxllte/Bliss-v12.7-gtaxllte-OFFICIAL-20200508.zip",
+            "sha256": "b889c5bc7f2fe8942756164f20e4ff9a51259fd3c8d58e10f0825ca33ef4c5aa",
+            "size": 6258688,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "gtaxlwifi": [
         {
-            "date": "2020-04-26",
-            "filename": "Bliss-v12.6-gtaxlwifi-OFFICIAL-20200426.zip",
-            "filepath": "/gtaxlwifi/Bliss-v12.6-gtaxlwifi-OFFICIAL-20200426.zip",
-            "sha256": "f16e501ccf881156c0273c6d58b932ea378f8a706994a26fae73347ca8c0b87a",
-            "size": 1286463513,
+            "date": "2020-05-08",
+            "filename": "Bliss-v12.7-gtaxlwifi-OFFICIAL-20200508.zip",
+            "filepath": "/gtaxlwifi/Bliss-v12.7-gtaxlwifi-OFFICIAL-20200508.zip",
+            "sha256": "2843d7c67609e714bd9c949884bca2962cdacda436b7b6e9b2d1e980ef9424d9",
+            "size": 320045056,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "guacamole": [
