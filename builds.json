@@ -54,17 +54,6 @@
             "version": "v12.7"
         }
     ],
-    "angler": [
-        {
-            "date": "2020-05-13",
-            "filename": "Bliss-v12.7-angler-OFFICIAL-20200513.zip",
-            "filepath": "/angler/Bliss-v12.7-angler-OFFICIAL-20200513.zip",
-            "sha256": "a110ebf0e8e817e3d71fc1ce30e65ee00b94867bc746ef358a6e6319e50145f1",
-            "size": 911522024,
-            "type": "official",
-            "version": "v12.7"
-        }
-    ],
     "bonito": [
         {
             "date": "2020-05-03",
