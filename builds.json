@@ -331,11 +331,11 @@
     ],
     "sargo": [
         {
-            "date": "2020-05-06",
-            "filename": "Bliss-v12.7-sargo-OFFICIAL-20200506.zip",
-            "filepath": "/sargo/Bliss-v12.7-sargo-OFFICIAL-20200506.zip",
-            "sha256": "85f664722c36981a5623248e78ea3fc95f02653d2f08a9f3610a60e883072a24",
-            "size": 1358380602,
+            "date": "2020-05-12",
+            "filename": "Bliss-v12.7-sargo-OFFICIAL-20200512.zip",
+            "filepath": "/sargo/Bliss-v12.7-sargo-OFFICIAL-20200512.zip",
+            "sha256": "f9abb3a1cca32a2a221c687ed676ac2e7cca358f472f89d7bb3a9faf81e31356",
+            "size": 1375369266,
             "type": "official",
             "version": "v12.7"
         }
