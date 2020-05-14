@@ -320,13 +320,13 @@
     ],
     "santoni": [
         {
-            "date": "2020-04-19",
-            "filename": "Bliss-v12.6-santoni-OFFICIAL-20200419.zip",
-            "filepath": "/santoni/Bliss-v12.6-santoni-OFFICIAL-20200419.zip",
-            "sha256": "2c06cd9b5def0430713aca5fd9fc374a6f27ce8372af36b43bedb0e35e4c9fe3",
-            "size": 851463825,
+            "date": "2020-05-14",
+            "filename": "Bliss-v12.7-santoni-OFFICIAL-20200514.zip",
+            "filepath": "/santoni/Bliss-v12.7-santoni-OFFICIAL-20200514.zip",
+            "sha256": "b83359d1d298d31896b1a9b15274f29ba80c2d8063ad2d05647b51c7308b9c13",
+            "size": 531070976,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "sargo": [
