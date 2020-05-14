@@ -144,11 +144,11 @@
     ],
     "ginkgo": [
         {
-            "date": "2020-05-07",
-            "filename": "Bliss-v12.7-ginkgo-OFFICIAL-20200507.zip",
-            "filepath": "/ginkgo/Bliss-v12.7-ginkgo-OFFICIAL-20200507.zip",
-            "sha256": "ef69b5e3ace7445c41947f73293d08a882addd6e383bef918a2e53683bb537c0",
-            "size": 1009107155,
+            "date": "2020-05-14",
+            "filename": "Bliss-v12.7-ginkgo-OFFICIAL-20200514.zip",
+            "filepath": "/ginkgo/Bliss-v12.7-ginkgo-OFFICIAL-20200514.zip",
+            "sha256": "1009c6394ac96a1bcf69dfa6d226474e8e0fdc4de9809f5bd5435bf058135d28",
+            "size": 1013857348,
             "type": "official",
             "version": "v12.7"
         }
@@ -324,7 +324,7 @@
             "filename": "Bliss-v12.7-santoni-OFFICIAL-20200514.zip",
             "filepath": "/santoni/Bliss-v12.7-santoni-OFFICIAL-20200514.zip",
             "sha256": "b83359d1d298d31896b1a9b15274f29ba80c2d8063ad2d05647b51c7308b9c13",
-            "size": 531070976,
+            "size": 851762233,
             "type": "official",
             "version": "v12.7"
         }
