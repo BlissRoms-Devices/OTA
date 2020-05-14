@@ -122,13 +122,13 @@
     ],
     "enchilada": [
         {
-            "date": "2020-05-04",
-            "filename": "Bliss-v12.6-enchilada-OFFICIAL-20200504.zip",
-            "filepath": "/enchilada/Bliss-v12.6-enchilada-OFFICIAL-20200504.zip",
-            "sha256": "af13741716ad0f3a47266b938be6d16e4b6ca4e92febdae19ccd62c53953c00c",
-            "size": 1254988061,
+            "date": "2020-05-14",
+            "filename": "Bliss-v12.7-enchilada-OFFICIAL-20200514.zip",
+            "filepath": "/enchilada/Bliss-v12.7-enchilada-OFFICIAL-20200514.zip",
+            "sha256": "6663d1a59bb903ff801038977b63c6c95f6e56d3ba9688a1661a5be861228416",
+            "size": 395280384,
             "type": "official",
-            "version": "v12.6"
+            "version": "v12.7"
         }
     ],
     "fajita": [
