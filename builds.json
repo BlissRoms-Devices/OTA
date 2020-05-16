@@ -351,6 +351,17 @@
             "version": "v12.7"
         }
     ],
+    "twolip": [
+        {
+            "date": "2020-05-16",
+            "filename": "Bliss-v12.7-twolip-OFFICIAL-20200516.zip",
+            "filepath": "/twolip/Bliss-v12.7-twolip-OFFICIAL-20200516.zip",
+            "sha256": "32b323995d1d554398eadf662bd68299f3bc54f89384afa0c09f85bf320e7f2b",
+            "size": 967759960,
+            "type": "official",
+            "version": "v12.7"
+        }
+    ],
     "us997": [
         {
             "date": "2020-03-06",
