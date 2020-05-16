@@ -241,6 +241,17 @@
             "version": "v12.6"
         }
     ],
+    "klte": [
+        {
+            "date": "2020-05-16",
+            "filename": "Bliss-v12.7-klte-OFFICIAL-20200516.zip",
+            "filepath": "/klte/Bliss-v12.7-klte-OFFICIAL-20200516.zip",
+            "sha256": "5d1752b16d7cced924e3b5559f692e26bc0ba4913beafc3bc47e9b8ca6fb6f21",
+            "size": 651460816,
+            "type": "official",
+            "version": "v12.7"
+        }
+    ],
     "lavender": [
         {
             "date": "2020-05-15",
