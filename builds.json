@@ -155,11 +155,11 @@
     ],
     "grus": [
         {
-            "date": "2020-05-13",
-            "filename": "Bliss-v12.7-grus-OFFICIAL-20200513.zip",
-            "filepath": "/grus/Bliss-v12.7-grus-OFFICIAL-20200513.zip",
-            "sha256": "8618ce7776e0146a0a2e16b1e88d6915b67018cf6e8434d5f8e49a9f3c0cf1a2",
-            "size": 1180875025,
+            "date": "2020-05-22",
+            "filename": "Bliss-v12.7-grus-OFFICIAL-20200522.zip",
+            "filepath": "/grus/Bliss-v12.7-grus-OFFICIAL-20200522.zip",
+            "sha256": "eb574fd9bef28fee75e9ba8b6113219904ae303dab2492edf1ce7dd62c5421ec",
+            "size": 1184098817,
             "type": "official",
             "version": "v12.7"
         }
