@@ -287,11 +287,11 @@
     ],
     "mido": [
         {
-            "date": "2020-05-09",
-            "filename": "Bliss-v12.7-mido-OFFICIAL-20200509.zip",
-            "filepath": "/mido/Bliss-v12.7-mido-OFFICIAL-20200509.zip",
-            "sha256": "305ac3edb07ded906142a11401c672796425a05cc033ed7de95b0990f1d088ce",
-            "size": 832026406,
+            "date": "2020-05-23",
+            "filename": "Bliss-v12.7-mido-OFFICIAL-20200523.zip",
+            "filepath": "/mido/Bliss-v12.7-mido-OFFICIAL-20200523.zip",
+            "sha256": "c1f330ef8d41e54b9c1532ac0ba10991d3a93c71594764fd764497c48afdbd65",
+            "size": 836608416,
             "type": "official",
             "version": "v12.7"
         }
