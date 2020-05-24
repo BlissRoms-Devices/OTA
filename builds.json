@@ -177,11 +177,11 @@
     ],
     "gtaxlwifi": [
         {
-            "date": "2020-05-08",
-            "filename": "Bliss-v12.7-gtaxlwifi-OFFICIAL-20200508.zip",
-            "filepath": "/gtaxlwifi/Bliss-v12.7-gtaxlwifi-OFFICIAL-20200508.zip",
-            "sha256": "2843d7c67609e714bd9c949884bca2962cdacda436b7b6e9b2d1e980ef9424d9",
-            "size": 1139486138,
+            "date": "2020-05-23",
+            "filename": "Bliss-v12.7-gtaxlwifi-OFFICIAL-20200523.zip",
+            "filepath": "/gtaxlwifi/Bliss-v12.7-gtaxlwifi-OFFICIAL-20200523.zip",
+            "sha256": "9a71c543c738ba0535007fadd4c12e82c1e02dc952d554ad2e1d4a6bfe97cec0",
+            "size": 54525952,
             "type": "official",
             "version": "v12.7"
         }
