@@ -170,7 +170,7 @@
             "filename": "Bliss-v12.7-gtaxllte-OFFICIAL-20200523.zip",
             "filepath": "/gtaxllte/Bliss-v12.7-gtaxllte-OFFICIAL-20200523.zip",
             "sha256": "84631da7a671a6cfb77bdccb63005352dbbed35b764246627c9a250350c6dbb4",
-            "size": 947421184,
+            "size": 1258295980,
             "type": "official",
             "version": "v12.7"
         }
@@ -181,7 +181,7 @@
             "filename": "Bliss-v12.7-gtaxlwifi-OFFICIAL-20200523.zip",
             "filepath": "/gtaxlwifi/Bliss-v12.7-gtaxlwifi-OFFICIAL-20200523.zip",
             "sha256": "9a71c543c738ba0535007fadd4c12e82c1e02dc952d554ad2e1d4a6bfe97cec0",
-            "size": 1173291008,
+            "size": 1254204846,
             "type": "official",
             "version": "v12.7"
         }
