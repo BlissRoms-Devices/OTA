@@ -243,11 +243,11 @@
     ],
     "klte": [
         {
-            "date": "2020-05-16",
-            "filename": "Bliss-v12.7-klte-OFFICIAL-20200516.zip",
-            "filepath": "/klte/Bliss-v12.7-klte-OFFICIAL-20200516.zip",
-            "sha256": "5d1752b16d7cced924e3b5559f692e26bc0ba4913beafc3bc47e9b8ca6fb6f21",
-            "size": 651460816,
+            "date": "2020-05-24",
+            "filename": "Bliss-v12.7-klte-OFFICIAL-20200524.zip",
+            "filepath": "/klte/Bliss-v12.7-klte-OFFICIAL-20200524.zip",
+            "sha256": "3e6b706f49a2626b23e074d23d86c0401405924416788a6ad2b8bb3a64657de3",
+            "size": 658174659,
             "type": "official",
             "version": "v12.7"
         }
