@@ -373,6 +373,17 @@
             "version": "v12.7"
         }
     ],
+    "tulip": [
+        {
+            "date": "2020-05-25",
+            "filename": "Bliss-v12.7-tulip-OFFICIAL-20200525.zip",
+            "filepath": "/tulip/Bliss-v12.7-tulip-OFFICIAL-20200525.zip",
+            "sha256": "b81430b16e1654035ecba7c1a894bbe3f30fe69cce0c4dad6befbd57b0099dba",
+            "size": 968039923,
+            "type": "official",
+            "version": "v12.7"
+        }
+    ],
     "twolip": [
         {
             "date": "2020-05-16",
