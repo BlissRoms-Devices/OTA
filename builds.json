@@ -265,11 +265,11 @@
     ],
     "maple": [
         {
-            "date": "2020-05-22",
-            "filename": "Bliss-v12.7-maple-OFFICIAL-20200522.zip",
-            "filepath": "/maple/Bliss-v12.7-maple-OFFICIAL-20200522.zip",
-            "sha256": "8b1d7c9f2a05cf3142f493a1a39ae34ad9753cec13071bd27a1645a6e3fa81b3",
-            "size": 893221923,
+            "date": "2020-05-26",
+            "filename": "Bliss-v12.7-maple-OFFICIAL-20200526.zip",
+            "filepath": "/maple/Bliss-v12.7-maple-OFFICIAL-20200526.zip",
+            "sha256": "348468ad0bb1fcb06226d1042e72e4c7e92d6ec6f343dfe95b8352681d602ed0",
+            "size": 899734471,
             "type": "official",
             "version": "v12.7"
         }
