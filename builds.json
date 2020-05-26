@@ -1,11 +1,11 @@
 {
     "I01WD": [
         {
-            "date": "2020-05-20",
-            "filename": "Bliss-v12.7-I01WD-OFFICIAL-20200520.zip",
-            "filepath": "/I01WD/Bliss-v12.7-I01WD-OFFICIAL-20200520.zip",
-            "sha256": "e35d5872fd8641df5b249f4767c03ca17c735f0af45fe536b38119e253fe13e2",
-            "size": 1216442514,
+            "date": "2020-05-26",
+            "filename": "Bliss-v12.7-I01WD-OFFICIAL-20200526.zip",
+            "filepath": "/I01WD/Bliss-v12.7-I01WD-OFFICIAL-20200526.zip",
+            "sha256": "50de19cbf99978bf25d33a6036056302ddb54769e35a4cf54b7c686f2d55341a",
+            "size": 1212138158,
             "type": "official",
             "version": "v12.7"
         }
@@ -23,11 +23,11 @@
     ],
     "X00T": [
         {
-            "date": "2020-05-07",
-            "filename": "Bliss-v12.7-X00T-OFFICIAL-20200507.zip",
-            "filepath": "/X00T/Bliss-v12.7-X00T-OFFICIAL-20200507.zip",
-            "sha256": "c6b0faf5f42cad363d0bb65c9db4b4314a862cf05be81dd0463cab9b02a93a9d",
-            "size": 891532088,
+            "date": "2020-05-25",
+            "filename": "Bliss-v12.7-X00T-OFFICIAL-20200525.zip",
+            "filepath": "/X00T/Bliss-v12.7-X00T-OFFICIAL-20200525.zip",
+            "sha256": "b5f57650957e8786421a4f87e541d44ad55771026686bc3e6140d4598c4f0f75",
+            "size": 873405849,
             "type": "official",
             "version": "v12.7"
         }
