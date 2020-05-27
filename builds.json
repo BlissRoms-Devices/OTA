@@ -254,11 +254,11 @@
     ],
     "lavender": [
         {
-            "date": "2020-05-22",
-            "filename": "Bliss-v12.7-lavender-OFFICIAL-20200522.zip",
-            "filepath": "/lavender/Bliss-v12.7-lavender-OFFICIAL-20200522.zip",
-            "sha256": "65a310e08c21da9b81d1b1bb4f61bc3deab017aa45daf6b46c3f62d27276fca4",
-            "size": 1008637387,
+            "date": "2020-05-28",
+            "filename": "Bliss-v12.7-lavender-OFFICIAL-20200528.zip",
+            "filepath": "/lavender/Bliss-v12.7-lavender-OFFICIAL-20200528.zip",
+            "sha256": "8cff3bf4ed34cdff92e8b1af57a969d257085ed285d07c806d2e474adc088c32",
+            "size": 1009485816,
             "type": "official",
             "version": "v12.7"
         }
@@ -331,11 +331,11 @@
     ],
     "sailfish": [
         {
-            "date": "2020-05-06",
-            "filename": "Bliss-v12.7-sailfish-OFFICIAL-20200506.zip",
-            "filepath": "/sailfish/Bliss-v12.7-sailfish-OFFICIAL-20200506.zip",
-            "sha256": "675da404520dfb81c451bf955fb3967e940fac728310987f544e1f1ae2ca730c",
-            "size": 945769726,
+            "date": "2020-05-27",
+            "filename": "Bliss-v12.7-sailfish-OFFICIAL-20200527.zip",
+            "filepath": "/sailfish/Bliss-v12.7-sailfish-OFFICIAL-20200527.zip",
+            "sha256": "74c7e16612301713b12fb980a8799e367765bdb7289ce7cd99a27e4b9519835e",
+            "size": 1033940535,
             "type": "official",
             "version": "v12.7"
         }
