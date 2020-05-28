@@ -89,11 +89,11 @@
     ],
     "clover": [
         {
-            "date": "2020-05-07",
-            "filename": "Bliss-v12.7-clover-OFFICIAL-20200507.zip",
-            "filepath": "/clover/Bliss-v12.7-clover-OFFICIAL-20200507.zip",
-            "sha256": "6479e595262faf0a5438e8b0a9daedc0a6a669cba10037c015b3f4e22ad74e39",
-            "size": 941423318,
+            "date": "2020-05-28",
+            "filename": "Bliss-v12.7-clover-OFFICIAL-20200528.zip",
+            "filepath": "/clover/Bliss-v12.7-clover-OFFICIAL-20200528.zip",
+            "sha256": "093a4d68fc8e1f54bfb31df111a1fbae04715213a0186c948bcc25315303e063",
+            "size": 250380288,
             "type": "official",
             "version": "v12.7"
         }
@@ -115,7 +115,7 @@
             "filename": "Bliss-v12.7-davinci-OFFICIAL-20200528.zip",
             "filepath": "/davinci/Bliss-v12.7-davinci-OFFICIAL-20200528.zip",
             "sha256": "08dc873d3330525af706e72351f35b7a04aa02d2693d0d45f6e558b86b674e24",
-            "size": 349634560,
+            "size": 696123392,
             "type": "official",
             "version": "v12.7"
         }
