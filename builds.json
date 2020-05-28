@@ -109,6 +109,17 @@
             "version": "v12.7"
         }
     ],
+    "davinci": [
+        {
+            "date": "2020-05-28",
+            "filename": "Bliss-v12.7-davinci-OFFICIAL-20200528.zip",
+            "filepath": "/davinci/Bliss-v12.7-davinci-OFFICIAL-20200528.zip",
+            "sha256": "84f98299732e0c38bbabbb3aec2615237f7b9bc407aef2668b87ff00fea3c385",
+            "size": 1031143424,
+            "type": "official",
+            "version": "v12.7"
+        }
+    ],
     "dumpling": [
         {
             "date": "2019-11-13",
