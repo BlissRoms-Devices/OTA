@@ -93,7 +93,7 @@
             "filename": "Bliss-v12.7-clover-OFFICIAL-20200528.zip",
             "filepath": "/clover/Bliss-v12.7-clover-OFFICIAL-20200528.zip",
             "sha256": "093a4d68fc8e1f54bfb31df111a1fbae04715213a0186c948bcc25315303e063",
-            "size": 250380288,
+            "size": 947593024,
             "type": "official",
             "version": "v12.7"
         }
@@ -105,17 +105,6 @@
             "filepath": "/daisy/Bliss-v12.7-daisy-OFFICIAL-20200506.zip",
             "sha256": "24d0cd832801c00a0299ee4daf4cc5b7a13ea5120ad06106186933986af8839c",
             "size": 1243104404,
-            "type": "official",
-            "version": "v12.7"
-        }
-    ],
-    "davinci": [
-        {
-            "date": "2020-05-28",
-            "filename": "Bliss-v12.7-davinci-OFFICIAL-20200528.zip",
-            "filepath": "/davinci/Bliss-v12.7-davinci-OFFICIAL-20200528.zip",
-            "sha256": "08dc873d3330525af706e72351f35b7a04aa02d2693d0d45f6e558b86b674e24",
-            "size": 696123392,
             "type": "official",
             "version": "v12.7"
         }
