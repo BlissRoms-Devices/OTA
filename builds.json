@@ -265,11 +265,11 @@
     ],
     "lavender": [
         {
-            "date": "2020-05-28",
-            "filename": "Bliss-v12.7-lavender-OFFICIAL-20200528.zip",
-            "filepath": "/lavender/Bliss-v12.7-lavender-OFFICIAL-20200528.zip",
-            "sha256": "8cff3bf4ed34cdff92e8b1af57a969d257085ed285d07c806d2e474adc088c32",
-            "size": 1009485816,
+            "date": "2020-05-31",
+            "filename": "Bliss-v12.7-lavender-OFFICIAL-20200531.zip",
+            "filepath": "/lavender/Bliss-v12.7-lavender-OFFICIAL-20200531.zip",
+            "sha256": "0ac17600d8a7ed19fe15489c655e0140ca10fdad060afd2995c8f41dbb8042e7",
+            "size": 1010993302,
             "type": "official",
             "version": "v12.7"
         }
