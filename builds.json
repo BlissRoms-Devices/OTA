@@ -45,11 +45,11 @@
     ],
     "Z01R": [
         {
-            "date": "2020-05-23",
-            "filename": "Bliss-v12.7-Z01R-OFFICIAL-20200523.zip",
-            "filepath": "/Z01R/Bliss-v12.7-Z01R-OFFICIAL-20200523.zip",
-            "sha256": "138d84641b755f2d5993ed9afa6cdbf0487cf2e5cf62f51b149a6bf4d75e98af",
-            "size": 1327430526,
+            "date": "2020-06-03",
+            "filename": "Bliss-v12.7-Z01R-OFFICIAL-20200603.zip",
+            "filepath": "/Z01R/Bliss-v12.7-Z01R-OFFICIAL-20200603.zip",
+            "sha256": "c5108c12696e099fcd40d4f6dd468d3f906cb438bc492f83062433668b99359c",
+            "size": 1328698359,
             "type": "official",
             "version": "v12.7"
         }
