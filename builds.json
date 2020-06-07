@@ -375,13 +375,13 @@
     ],
     "sargo": [
         {
-            "date": "2020-05-24",
-            "filename": "Bliss-v12.7-sargo-OFFICIAL-20200524.zip",
-            "filepath": "/sargo/Bliss-v12.7-sargo-OFFICIAL-20200524.zip",
-            "sha256": "b1eaad4823b20d4d7a26575737f5181b3ab01a68fb386c6c0a0c1b8c4a3957ee",
-            "size": 1375523013,
+            "date": "2020-06-07",
+            "filename": "Bliss-v12.8-sargo-OFFICIAL-20200607.zip",
+            "filepath": "/sargo/Bliss-v12.8-sargo-OFFICIAL-20200607.zip",
+            "sha256": "70f3080c36accfe5d856dfab62e4c2392398b3b3aa07f47aa1476f62e3c5fd90",
+            "size": 1375420247,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "taimen": [
