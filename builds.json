@@ -153,6 +153,17 @@
             "version": "v12.7"
         }
     ],
+    "garlic": [
+        {
+            "date": "2020-06-07",
+            "filename": "Bliss-v12.8-garlic-OFFICIAL-20200608.zip",
+            "filepath": "/garlic/Bliss-v12.8-garlic-OFFICIAL-20200608.zip",
+            "sha256": "2ecda579e4c5f46d36f3a1efd5463fe1ee33fcbda7b8d700cebc2ea260f3a9ea",
+            "size": 798324178,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "ginkgo": [
         {
             "date": "2020-05-14",
