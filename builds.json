@@ -111,13 +111,13 @@
     ],
     "davinci": [
         {
-            "date": "2020-06-02",
-            "filename": "Bliss-v12.7-davinci-OFFICIAL-20200602.zip",
-            "filepath": "/davinci/Bliss-v12.7-davinci-OFFICIAL-20200602.zip",
-            "sha256": "e6dac47959bfa43fd67151b598f5f87e6d6b216d4e9c9982d6abbd105faeada4",
-            "size": 1302123930,
+            "date": "2020-06-08",
+            "filename": "Bliss-v12.8-davinci-OFFICIAL-20200608.zip",
+            "filepath": "/davinci/Bliss-v12.8-davinci-OFFICIAL-20200608.zip",
+            "sha256": "b4551d611fe554e544dda402201bdbc193203c39ba68c396146eae2025769bb9",
+            "size": 155484160,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "dumpling": [
@@ -349,6 +349,17 @@
             "size": 1512883789,
             "type": "official",
             "version": "v12.7"
+        }
+    ],
+    "pyxis": [
+        {
+            "date": "2020-06-08",
+            "filename": "Bliss-v12.8-pyxis-OFFICIAL-20200608.zip",
+            "filepath": "/pyxis/Bliss-v12.8-pyxis-OFFICIAL-20200608.zip",
+            "sha256": "0c8098ce1786b6ef6ec3a70817c8d90cf015442b792ef636e7e9684f58d64afe",
+            "size": 1181537508,
+            "type": "official",
+            "version": "v12.8"
         }
     ],
     "sailfish": [
