@@ -324,7 +324,7 @@
             "filename": "Bliss-v12.8-oneplus3-OFFICIAL-20200608.zip",
             "filepath": "/oneplus3/Bliss-v12.8-oneplus3-OFFICIAL-20200608.zip",
             "sha256": "48418d095c1fc0bb23d8a26e13a713cc591307620d2fcad0e26a58ca7d219b7c",
-            "size": 5701632,
+            "size": 875488908,
             "type": "official",
             "version": "v12.8"
         }
@@ -364,13 +364,13 @@
     ],
     "sailfish": [
         {
-            "date": "2020-06-05",
-            "filename": "Bliss-v12.7-sailfish-OFFICIAL-20200605.zip",
-            "filepath": "/sailfish/Bliss-v12.7-sailfish-OFFICIAL-20200605.zip",
-            "sha256": "db80622dd59641b91061625b4a08a7b98be223892d5cbdf052210cb5bb2d19fe",
-            "size": 1035416375,
+            "date": "2020-06-07",
+            "filename": "Bliss-v12.8-sailfish-OFFICIAL-20200607.zip",
+            "filepath": "/sailfish/Bliss-v12.8-sailfish-OFFICIAL-20200607.zip",
+            "sha256": "6aa25e4bd13b43488b5cdfad8dbcb9dee0ac776b3d29703f66518128e5331609",
+            "size": 1037761000,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "santoni": [
