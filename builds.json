@@ -115,7 +115,7 @@
             "filename": "Bliss-v12.8-davinci-OFFICIAL-20200608.zip",
             "filepath": "/davinci/Bliss-v12.8-davinci-OFFICIAL-20200608.zip",
             "sha256": "b4551d611fe554e544dda402201bdbc193203c39ba68c396146eae2025769bb9",
-            "size": 744882176,
+            "size": 1111490560,
             "type": "official",
             "version": "v12.8"
         }
@@ -276,13 +276,13 @@
     ],
     "lavender": [
         {
-            "date": "2020-06-05",
-            "filename": "Bliss-v12.7-lavender-OFFICIAL-20200605.zip",
-            "filepath": "/lavender/Bliss-v12.7-lavender-OFFICIAL-20200605.zip",
-            "sha256": "6d6409c71894c54592ae81b793a77eab268610c9ec5edbce662b2891a5c226ef",
-            "size": 1011169934,
+            "date": "2020-06-08",
+            "filename": "Bliss-v12.8-lavender-OFFICIAL-20200608.zip",
+            "filepath": "/lavender/Bliss-v12.8-lavender-OFFICIAL-20200608.zip",
+            "sha256": "c380d231396b1be6e06ab1a05558461210e510cb8f44b3751cbab500765c25fa",
+            "size": 1011574758,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "maple": [
