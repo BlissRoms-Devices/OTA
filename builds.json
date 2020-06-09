@@ -210,13 +210,13 @@
     ],
     "guacamole": [
         {
-            "date": "2020-05-28",
-            "filename": "Bliss-v12.7-guacamole-OFFICIAL-20200528.zip",
-            "filepath": "/guacamole/Bliss-v12.7-guacamole-OFFICIAL-20200528.zip",
-            "sha256": "d21e4e400b330d1cf447efd595f08d70f9977099978f5bbc176a1c79ecc6b887",
-            "size": 1074336905,
+            "date": "2020-06-09",
+            "filename": "Bliss-v12.8-guacamole-OFFICIAL-20200609.zip",
+            "filepath": "/guacamole/Bliss-v12.8-guacamole-OFFICIAL-20200609.zip",
+            "sha256": "4be79e8e0a8eca8180fa9561a5c853b3fdf9c1d8c0b51a6c2f91f0b20dbb723d",
+            "size": 1076705962,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "h870": [
@@ -441,13 +441,13 @@
     ],
     "violet": [
         {
-            "date": "2020-05-13",
-            "filename": "Bliss-v12.7-violet-OFFICIAL-20200513.zip",
-            "filepath": "/violet/Bliss-v12.7-violet-OFFICIAL-20200513.zip",
-            "sha256": "e8bdf8e0ec4e39b67989fc12fda97a57594342264baecff799931732c806f203",
-            "size": 1828071427,
+            "date": "2020-06-09",
+            "filename": "Bliss-v12.8-violet-OFFICIAL-20200609.zip",
+            "filepath": "/violet/Bliss-v12.8-violet-OFFICIAL-20200609.zip",
+            "sha256": "b2af060df51eaefe808a72ef8b617fd5d8897012ee4802f83fa45679b16aea27",
+            "size": 583696384,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "wayne": [
