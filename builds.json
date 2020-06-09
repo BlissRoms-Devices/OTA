@@ -342,13 +342,13 @@
     ],
     "platina": [
         {
-            "date": "2020-06-02",
-            "filename": "Bliss-v12.7-platina-OFFICIAL-20200602.zip",
-            "filepath": "/platina/Bliss-v12.7-platina-OFFICIAL-20200602.zip",
-            "sha256": "5f230c585e8617131e3b9ea3464ef8f1e63e8f1168ec70701885e6ab2c06f279",
-            "size": 1512883789,
+            "date": "2020-06-09",
+            "filename": "Bliss-v12.8-platina-OFFICIAL-20200609.zip",
+            "filepath": "/platina/Bliss-v12.8-platina-OFFICIAL-20200609.zip",
+            "sha256": "ff4b73cfdedb7ce5d07e8d84ec488226bf19691c875209da4ebe7953e3282e84",
+            "size": 1512170191,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "pyxis": [
