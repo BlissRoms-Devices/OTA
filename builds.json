@@ -373,6 +373,17 @@
             "version": "v12.8"
         }
     ],
+    "sagit": [
+        {
+            "date": "2020-06-09",
+            "filename": "Bliss-v12.8-sagit-OFFICIAL-20200609.zip",
+            "filepath": "/sagit/Bliss-v12.8-sagit-OFFICIAL-20200609.zip",
+            "sha256": "553916505c4a155f13193a628280da73165591e5c1a01479cab92f6fe6dfedea",
+            "size": 885751873,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "sailfish": [
         {
             "date": "2020-06-07",
