@@ -34,13 +34,13 @@
     ],
     "X00T": [
         {
-            "date": "2020-05-25",
-            "filename": "Bliss-v12.7-X00T-OFFICIAL-20200525.zip",
-            "filepath": "/X00T/Bliss-v12.7-X00T-OFFICIAL-20200525.zip",
-            "sha256": "b5f57650957e8786421a4f87e541d44ad55771026686bc3e6140d4598c4f0f75",
-            "size": 873405849,
+            "date": "2020-06-10",
+            "filename": "Bliss-v12.8-X00T-OFFICIAL-20200610.zip",
+            "filepath": "/X00T/Bliss-v12.8-X00T-OFFICIAL-20200610.zip",
+            "sha256": "873a929f9970d811c58f8fa32964fae87e5898089f51a9bb0809fef0048dc7f5",
+            "size": 877566977,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "X01BD": [
