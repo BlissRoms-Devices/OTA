@@ -126,7 +126,7 @@
             "filename": "Bliss-v12.8-davinci-OFFICIAL-20200615.zip",
             "filepath": "/davinci/Bliss-v12.8-davinci-OFFICIAL-20200615.zip",
             "sha256": "bc9531d92b844690618f4a0053ef26c2138a38fea69d64691a6a2e4f977066bb",
-            "size": 930316288,
+            "size": 1297973248,
             "type": "official",
             "version": "v12.8"
         }
@@ -423,7 +423,7 @@
             "filename": "Bliss-v12.8-sargo-OFFICIAL-20200615.zip",
             "filepath": "/sargo/Bliss-v12.8-sargo-OFFICIAL-20200615.zip",
             "sha256": "3755b686065034ad3c44fb22d9d226fe2aa633b5f47f574e936a1a84098ec479",
-            "size": 157777920,
+            "size": 1375266994,
             "type": "official",
             "version": "v12.8"
         }
