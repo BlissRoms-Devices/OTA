@@ -276,13 +276,13 @@
     ],
     "klte": [
         {
-            "date": "2020-05-24",
-            "filename": "Bliss-v12.7-klte-OFFICIAL-20200524.zip",
-            "filepath": "/klte/Bliss-v12.7-klte-OFFICIAL-20200524.zip",
-            "sha256": "3e6b706f49a2626b23e074d23d86c0401405924416788a6ad2b8bb3a64657de3",
-            "size": 658174659,
+            "date": "2020-06-17",
+            "filename": "Bliss-v12.8-klte-OFFICIAL-20200617.zip",
+            "filepath": "/klte/Bliss-v12.8-klte-OFFICIAL-20200617.zip",
+            "sha256": "5a8eccadc356d25c6fdd58d91308529fd2a7e931b69d29ca5cc6d0fc8bdd260a",
+            "size": 173867008,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "lavender": [
