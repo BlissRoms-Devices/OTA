@@ -441,11 +441,11 @@
     ],
     "tulip": [
         {
-            "date": "2020-06-10",
-            "filename": "Bliss-v12.8-tulip-OFFICIAL-20200610.zip",
-            "filepath": "/tulip/Bliss-v12.8-tulip-OFFICIAL-20200610.zip",
-            "sha256": "1ff7f926616708704403f4330a0c5fd47a50726c053dac53a4dcd348310a2a7f",
-            "size": 970709265,
+            "date": "2020-06-16",
+            "filename": "Bliss-v12.8-tulip-OFFICIAL-20200616.zip",
+            "filepath": "/tulip/Bliss-v12.8-tulip-OFFICIAL-20200616.zip",
+            "sha256": "b4715499942a69a39e6873f6b0b5c8a8b2568dd19b1eaaef24decf599236b4d5",
+            "size": 970117041,
             "type": "official",
             "version": "v12.8"
         }
