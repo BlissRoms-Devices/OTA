@@ -5,7 +5,7 @@
             "filename": "Bliss-v12.8-A5_Pro-OFFICIAL-20200616.zip",
             "filepath": "/A5_Pro/Bliss-v12.8-A5_Pro-OFFICIAL-20200616.zip",
             "sha256": "00526c4f864aa35e3144baf0fc0539e45342159184cd2734e3ff01437d9a09a3",
-            "size": 612990976,
+            "size": 727089152,
             "type": "official",
             "version": "v12.8"
         }
@@ -353,11 +353,11 @@
     ],
     "platina": [
         {
-            "date": "2020-06-09",
-            "filename": "Bliss-v12.8-platina-OFFICIAL-20200609.zip",
-            "filepath": "/platina/Bliss-v12.8-platina-OFFICIAL-20200609.zip",
-            "sha256": "ff4b73cfdedb7ce5d07e8d84ec488226bf19691c875209da4ebe7953e3282e84",
-            "size": 1512170191,
+            "date": "2020-06-17",
+            "filename": "Bliss-v12.8-platina-OFFICIAL-20200617.zip",
+            "filepath": "/platina/Bliss-v12.8-platina-OFFICIAL-20200617.zip",
+            "sha256": "48326f503087e9a9eb8642a44d851b5965ab256bfac1ca49954f011b7e9d9055",
+            "size": 1512297147,
             "type": "official",
             "version": "v12.8"
         }
