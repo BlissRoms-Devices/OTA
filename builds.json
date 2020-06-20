@@ -133,11 +133,11 @@
     ],
     "dream2lte": [
         {
-            "date": "2020-06-18",
-            "filename": "Bliss-v12.8-dream2lte-OFFICIAL-20200618.zip",
-            "filepath": "/dream2lte/Bliss-v12.8-dream2lte-OFFICIAL-20200618.zip",
-            "sha256": "b0957b86f484cdebcf6aa6e8ec84288ff24f2aa41155229a32489a099d209589",
-            "size": 851835959,
+            "date": "2020-06-19",
+            "filename": "Bliss-v12.8-dream2lte-OFFICIAL-20200619.zip",
+            "filepath": "/dream2lte/Bliss-v12.8-dream2lte-OFFICIAL-20200619.zip",
+            "sha256": "9132ea2d0533e142eba6683e518a8e7c79ab910f76f179038965b52fd671bd40",
+            "size": 851422627,
             "type": "official",
             "version": "v12.8"
         }
