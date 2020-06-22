@@ -309,13 +309,22 @@
     ],
     "maple": [
         {
-            "date": "2020-05-30",
-            "filename": "Bliss-v12.7-maple-OFFICIAL-20200530.zip",
-            "filepath": "/maple/Bliss-v12.7-maple-OFFICIAL-20200530.zip",
-            "sha256": "db79c2802ceb549a1252f1b4aafd592eb14b6ee62cb2ad1c1f9cad76b9a0a03e",
-            "size": 901233166,
+            "date": "2020-06-22",
+            "filename": "Bliss-v12.8-maple-OFFICIAL-20200622.zip",
+            "filepath": "/maple/Bliss-v12.8-maple-OFFICIAL-20200622.zip",
+            "sha256": "7ec077b3e255619e0624760adf94e37e6487dd3f74c73e85296a7c82d019507b",
+            "size": 915604944,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
+        },
+        {
+            "date": "2020-06-22",
+            "filename": "Bliss-v12.8-maple-UNOFFICIAL-20200622.zip",
+            "filepath": "/maple/Bliss-v12.8-maple-UNOFFICIAL-20200622.zip",
+            "sha256": "2dc812116a7f9dc4097593027cee56d62364b23b0a2434297ead3279ebf2e4da",
+            "size": 915561829,
+            "type": "unofficial",
+            "version": "v12.8"
         }
     ],
     "marlin": [
