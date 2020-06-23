@@ -76,6 +76,17 @@
             "version": "v12.8"
         }
     ],
+    "beryllium": [
+        {
+            "date": "2020-06-22",
+            "filename": "Bliss-v12.8-beryllium-OFFICIAL-20200622.zip",
+            "filepath": "/beryllium/Bliss-v12.8-beryllium-OFFICIAL-20200622.zip",
+            "sha256": "eeaa5652b3c02d324b9a437a5530c1933d76eec8c00edf73b597468d4bafb966",
+            "size": 1523915811,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "bonito": [
         {
             "date": "2020-06-07",
