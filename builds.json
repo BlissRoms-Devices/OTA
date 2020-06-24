@@ -428,11 +428,11 @@
     ],
     "sailfish": [
         {
-            "date": "2020-06-16",
-            "filename": "Bliss-v12.8-sailfish-OFFICIAL-20200616.zip",
-            "filepath": "/sailfish/Bliss-v12.8-sailfish-OFFICIAL-20200616.zip",
-            "sha256": "86faad800d12de77896b80e862c4d0b035484629d01bb80c3bd06067b2e2af73",
-            "size": 1038711909,
+            "date": "2020-06-23",
+            "filename": "Bliss-v12.8-sailfish-OFFICIAL-20200623.zip",
+            "filepath": "/sailfish/Bliss-v12.8-sailfish-OFFICIAL-20200623.zip",
+            "sha256": "b8675e88edd9dd9c7d8900490f1497e365300cd991b6a3c4644d6490b4ff8f50",
+            "size": 932232615,
             "type": "official",
             "version": "v12.8"
         }
