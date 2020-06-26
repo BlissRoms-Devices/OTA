@@ -10,6 +10,17 @@
             "version": "v12.8"
         }
     ],
+    "CPH1859": [
+        {
+            "date": "2020-06-26",
+            "filename": "Bliss-v12.8-CPH1859-OFFICIAL-20200626.zip",
+            "filepath": "/CPH1859/Bliss-v12.8-CPH1859-OFFICIAL-20200626.zip",
+            "sha256": "bf4e20d7294e76d4739c735d1e3c60ec7a000bcf58cccede68502857876b9653",
+            "size": 797300635,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "I01WD": [
         {
             "date": "2020-06-17",
