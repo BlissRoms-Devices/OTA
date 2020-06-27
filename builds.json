@@ -1,11 +1,11 @@
 {
     "A5_Pro": [
         {
-            "date": "2020-06-16",
-            "filename": "Bliss-v12.8-A5_Pro-OFFICIAL-20200616.zip",
-            "filepath": "/A5_Pro/Bliss-v12.8-A5_Pro-OFFICIAL-20200616.zip",
-            "sha256": "00526c4f864aa35e3144baf0fc0539e45342159184cd2734e3ff01437d9a09a3",
-            "size": 769341237,
+            "date": "2020-06-27",
+            "filename": "Bliss-v12.8-A5_Pro-OFFICIAL-20200627.zip",
+            "filepath": "/A5_Pro/Bliss-v12.8-A5_Pro-OFFICIAL-20200627.zip",
+            "sha256": "28cf48120f32ae994bb605bce27293ddabf525d1498c2b647bdac6a39776c2cf",
+            "size": 12386304,
             "type": "official",
             "version": "v12.8"
         }
