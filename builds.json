@@ -175,6 +175,17 @@
             "version": "v12.8"
         }
     ],
+    "dreamlte": [
+        {
+            "date": "2020-06-20",
+            "filename": "Bliss-v12.8-dreamlte-OFFICIAL-20200620.zip",
+            "filepath": "/dreamlte/Bliss-v12.8-dreamlte-OFFICIAL-20200620.zip",
+            "sha256": "0bf9b33790a2ce3abd4e4b7b8f50c816314f215b16959b52ef662a18006d6065",
+            "size": 163643392,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "dumpling": [
         {
             "date": "2019-11-13",
