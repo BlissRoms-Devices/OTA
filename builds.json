@@ -377,7 +377,7 @@
             "filename": "Bliss-v12.8-marlin-OFFICIAL-20200629.zip",
             "filepath": "/marlin/Bliss-v12.8-marlin-OFFICIAL-20200629.zip",
             "sha256": "258799ceb1d85a55cdcdf3fb5baf645de152992992b975ca501ed31fdbfdf990",
-            "size": 937810167,
+            "size": 937810371,
             "type": "official",
             "version": "v12.8"
         }
@@ -465,7 +465,7 @@
             "filename": "Bliss-v12.8-sailfish-OFFICIAL-20200629.zip",
             "filepath": "/sailfish/Bliss-v12.8-sailfish-OFFICIAL-20200629.zip",
             "sha256": "5abf40a08b4154983ddeb5f15f566983094b4909c0b29fb88a0a64771ebb4e37",
-            "size": 932479078,
+            "size": 932478134,
             "type": "official",
             "version": "v12.8"
         }
