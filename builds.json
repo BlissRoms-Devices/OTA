@@ -210,11 +210,11 @@
     ],
     "enchilada": [
         {
-            "date": "2020-06-27",
-            "filename": "Bliss-v12.8-enchilada-OFFICIAL-20200627.zip",
-            "filepath": "/enchilada/Bliss-v12.8-enchilada-OFFICIAL-20200627.zip",
-            "sha256": "fa29793624180a5b9797867552574074c6c144b2e16efe6f0c5bd91373689236",
-            "size": 1260038613,
+            "date": "2020-07-01",
+            "filename": "Bliss-v12.8-enchilada-OFFICIAL-20200701.zip",
+            "filepath": "/enchilada/Bliss-v12.8-enchilada-OFFICIAL-20200701.zip",
+            "sha256": "c2211049ffae7cbc362f660a76ff68ea2690e334ae16ffdbaa4d34e9f5f5c161",
+            "size": 1276159474,
             "type": "official",
             "version": "v12.8"
         }
@@ -410,7 +410,7 @@
             "filename": "Bliss-v12.8-oneplus3-OFFICIAL-20200701.zip",
             "filepath": "/oneplus3/Bliss-v12.8-oneplus3-OFFICIAL-20200701.zip",
             "sha256": "e7ea2f4f013daeba1292588383d40a6b5dff94cb1527037d652fad0766b90395",
-            "size": 645660672,
+            "size": 694484992,
             "type": "official",
             "version": "v12.8"
         }
