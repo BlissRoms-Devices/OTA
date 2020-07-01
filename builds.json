@@ -417,11 +417,11 @@
     ],
     "phoenix": [
         {
-            "date": "2020-06-10",
-            "filename": "Bliss-v12.8-phoenix-OFFICIAL-20200610.zip",
-            "filepath": "/phoenix/Bliss-v12.8-phoenix-OFFICIAL-20200610.zip",
-            "sha256": "06e8f3c5270cc1d2ea7cefcd5aa97772243e3ce92e910832589d4381e74b6d68",
-            "size": 1838281391,
+            "date": "2020-07-01",
+            "filename": "Bliss-v12.8-phoenix-OFFICIAL-20200701.zip",
+            "filepath": "/phoenix/Bliss-v12.8-phoenix-OFFICIAL-20200701.zip",
+            "sha256": "56a58216fecb97a808b841972bc4dde592e70cf40f68bdbf2f0b2f4bd2938eef",
+            "size": 1865154961,
             "type": "official",
             "version": "v12.8"
         }
