@@ -142,6 +142,17 @@
             "version": "v12.8"
         }
     ],
+    "crownlte": [
+        {
+            "date": "2020-07-01",
+            "filename": "Bliss-v12.8-crownlte-OFFICIAL-20200701.zip",
+            "filepath": "/crownlte/Bliss-v12.8-crownlte-OFFICIAL-20200701.zip",
+            "sha256": "17857036085d68e2ee488fd06dc1fb50e9e45a0693558db08514362330c5420c",
+            "size": 764557906,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "daisy": [
         {
             "date": "2020-06-18",
@@ -399,7 +410,7 @@
             "filename": "Bliss-v12.8-oneplus3-OFFICIAL-20200701.zip",
             "filepath": "/oneplus3/Bliss-v12.8-oneplus3-OFFICIAL-20200701.zip",
             "sha256": "e7ea2f4f013daeba1292588383d40a6b5dff94cb1527037d652fad0766b90395",
-            "size": 405897216,
+            "size": 514424832,
             "type": "official",
             "version": "v12.8"
         }
@@ -510,6 +521,17 @@
             "filepath": "/star2lte/Bliss-v12.8-star2lte-OFFICIAL-20200701.zip",
             "sha256": "cefb90c4a405d5ad9249b59590059bb0060b345b4b3e4729fc188b4d18aeb27a",
             "size": 765706691,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
+    "starlte": [
+        {
+            "date": "2020-07-01",
+            "filename": "Bliss-v12.8-starlte-OFFICIAL-20200701.zip",
+            "filepath": "/starlte/Bliss-v12.8-starlte-OFFICIAL-20200701.zip",
+            "sha256": "ecd6b75d4cd057832f3d869e06b087ca09de4bb8e1a356ce3fdadb3b8ef8739a",
+            "size": 764253539,
             "type": "official",
             "version": "v12.8"
         }
