@@ -450,11 +450,11 @@
     ],
     "raphael": [
         {
-            "date": "2020-06-25",
-            "filename": "Bliss-v12.8-raphael-OFFICIAL-20200625.zip",
-            "filepath": "/raphael/Bliss-v12.8-raphael-OFFICIAL-20200625.zip",
-            "sha256": "7dcde6fddd528b226d8406222f1b3fe56c9a2ca9a3d9fe042bda17cf55002cd6",
-            "size": 925557559,
+            "date": "2020-07-03",
+            "filename": "Bliss-v12.8-raphael-OFFICIAL-20200703.zip",
+            "filepath": "/raphael/Bliss-v12.8-raphael-OFFICIAL-20200703.zip",
+            "sha256": "2c9405311f2e2b2fc6d7ba7e0d35793a85915223130aee3ef3f4377693e69b46",
+            "size": 476971008,
             "type": "official",
             "version": "v12.8"
         }
