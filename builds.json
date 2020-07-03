@@ -131,6 +131,17 @@
             "version": "v12.8"
         }
     ],
+    "cheeseburger": [
+        {
+            "date": "2020-07-03",
+            "filename": "Bliss-v12.8-cheeseburger-OFFICIAL-20200703.zip",
+            "filepath": "/cheeseburger/Bliss-v12.8-cheeseburger-OFFICIAL-20200703.zip",
+            "sha256": "90f7da333ab8da39f6875bfcf00a47db20524eb44b84c69466b0891e9b1ff945",
+            "size": 1000491521,
+            "type": "official",
+            "version": "v12.8"
+        }
+    ],
     "clover": [
         {
             "date": "2020-06-09",
@@ -199,13 +210,13 @@
     ],
     "dumpling": [
         {
-            "date": "2019-11-13",
-            "filename": "Bliss-v12.1-dumpling-OFFICIAL-20191113.zip",
-            "filepath": "/dumpling/Bliss-v12.1-dumpling-OFFICIAL-20191113.zip",
-            "sha256": "9478530df5ee3f90bb7f8235a8b2f3226315eed0c99b357d161238362f79b53b",
-            "size": 775466307,
+            "date": "2020-07-03",
+            "filename": "Bliss-v12.8-dumpling-OFFICIAL-20200703.zip",
+            "filepath": "/dumpling/Bliss-v12.8-dumpling-OFFICIAL-20200703.zip",
+            "sha256": "6a4ef18e32e99d4aae1d433335a915631f6374871cb1524037e28c3826525fa8",
+            "size": 1000848806,
             "type": "official",
-            "version": "v12.1"
+            "version": "v12.8"
         }
     ],
     "enchilada": [
