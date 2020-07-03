@@ -331,13 +331,13 @@
     ],
     "kenzo": [
         {
-            "date": "2020-05-17",
-            "filename": "Bliss-v12.7-kenzo-OFFICIAL-20200517.zip",
-            "filepath": "/kenzo/Bliss-v12.7-kenzo-OFFICIAL-20200517.zip",
-            "sha256": "229aa68b93bb69e49097ee9a3f79e9b7e734bf0ec4f9fd363729e1bc8c085371",
-            "size": 836262435,
+            "date": "2020-07-03",
+            "filename": "Bliss-v12.8-kenzo-OFFICIAL-20200703.zip",
+            "filepath": "/kenzo/Bliss-v12.8-kenzo-OFFICIAL-20200703.zip",
+            "sha256": "567a3040a6771a43f2b4060ee5f483b86dee035267bb1ae8b64247d2dc7aebdf",
+            "size": 849201321,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.8"
         }
     ],
     "klte": [
