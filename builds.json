@@ -232,11 +232,11 @@
     ],
     "fajita": [
         {
-            "date": "2020-06-21",
-            "filename": "Bliss-v12.8-fajita-OFFICIAL-20200621.zip",
-            "filepath": "/fajita/Bliss-v12.8-fajita-OFFICIAL-20200621.zip",
-            "sha256": "b51fcbf24cfc92726af679e3e7f80c2b29ba169d8f3d6c45d30ae9cbb039d994",
-            "size": 1372719508,
+            "date": "2020-07-04",
+            "filename": "Bliss-v12.8-fajita-OFFICIAL-20200704.zip",
+            "filepath": "/fajita/Bliss-v12.8-fajita-OFFICIAL-20200704.zip",
+            "sha256": "138d06cd476d1bd09e13b46cadddc0145937b5f5812ebb3496151ff6cf3a02cf",
+            "size": 240599040,
             "type": "official",
             "version": "v12.8"
         }
