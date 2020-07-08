@@ -505,13 +505,13 @@
     ],
     "sargo": [
         {
-            "date": "2020-06-23",
-            "filename": "Bliss-v12.8-sargo-OFFICIAL-20200623.zip",
-            "filepath": "/sargo/Bliss-v12.8-sargo-OFFICIAL-20200623.zip",
-            "sha256": "7d61c12a0aaa42cac9186c80217cbc33f15675e2c24381b9952381af51941c82",
-            "size": 1374931032,
+            "date": "2020-07-07",
+            "filename": "Bliss-v12.9-sargo-OFFICIAL-20200707.zip",
+            "filepath": "/sargo/Bliss-v12.9-sargo-OFFICIAL-20200707.zip",
+            "sha256": "3b4dd57816a214d1157a1b1fcf7b216a3c2eb1fa8d0b664087b2f115c53cb399",
+            "size": 1392216584,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "sirius": [
