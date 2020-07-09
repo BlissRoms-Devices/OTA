@@ -144,13 +144,13 @@
     ],
     "clover": [
         {
-            "date": "2020-06-09",
-            "filename": "Bliss-v12.8-clover-OFFICIAL-20200609.zip",
-            "filepath": "/clover/Bliss-v12.8-clover-OFFICIAL-20200609.zip",
-            "sha256": "f0ed3e2822904b21f440b73d16e6cff0403eb542d3496db4af050b12afaf3cde",
-            "size": 950453238,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-clover-OFFICIAL-20200709.zip",
+            "filepath": "/clover/Bliss-v12.9-clover-OFFICIAL-20200709.zip",
+            "sha256": "396392427855f0272153fee3bf272611fe231b07d3648965f4d217c4aeb92192",
+            "size": 985312373,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "crownlte": [
@@ -331,13 +331,13 @@
     ],
     "jasmine_sprout": [
         {
-            "date": "2020-06-08",
-            "filename": "Bliss-v12.8-jasmine_sprout-OFFICIAL-20200608.zip",
-            "filepath": "/jasmine_sprout/Bliss-v12.8-jasmine_sprout-OFFICIAL-20200608.zip",
-            "sha256": "1fc31727da1fa86d89dc1f17e9b0973c9d9aeb2dc348ddac9641c3066967dfe0",
-            "size": 1010720038,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-jasmine_sprout-OFFICIAL-20200709.zip",
+            "filepath": "/jasmine_sprout/Bliss-v12.9-jasmine_sprout-OFFICIAL-20200709.zip",
+            "sha256": "7249b751d6965b37ecdd10a12a2c036e50b171f954e39d7974cba6be8b1bfc41",
+            "size": 1040056091,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "kenzo": [
@@ -604,13 +604,13 @@
     ],
     "wayne": [
         {
-            "date": "2020-06-08",
-            "filename": "Bliss-v12.8-wayne-OFFICIAL-20200608.zip",
-            "filepath": "/wayne/Bliss-v12.8-wayne-OFFICIAL-20200608.zip",
-            "sha256": "a9fa1a45f03f694aeb66a7b664e4384fc97698b2182fd3b258f02477924a7549",
-            "size": 1027611418,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-wayne-OFFICIAL-20200709.zip",
+            "filepath": "/wayne/Bliss-v12.9-wayne-OFFICIAL-20200709.zip",
+            "sha256": "bd90b30272fa1d6dd0149221dca9251c66ee60cd913bbbf2c2b5f5bd81c3f429",
+            "size": 1063044975,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "whyred": [
