@@ -395,13 +395,13 @@
     ],
     "marlin": [
         {
-            "date": "2020-07-03",
-            "filename": "Bliss-v12.8-marlin-OFFICIAL-20200703.zip",
-            "filepath": "/marlin/Bliss-v12.8-marlin-OFFICIAL-20200703.zip",
-            "sha256": "371934336dabc6174e877db73e5d20e328833fdd32db7697a5cdd383f1b25ce0",
-            "size": 808284368,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-marlin-OFFICIAL-20200709.zip",
+            "filepath": "/marlin/Bliss-v12.9-marlin-OFFICIAL-20200709.zip",
+            "sha256": "25a178c559e817d037ecce225be8ea6266604b7e71d9ada2a5f71b343625e724",
+            "size": 848739541,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "mido": [
@@ -483,13 +483,13 @@
     ],
     "sailfish": [
         {
-            "date": "2020-07-03",
-            "filename": "Bliss-v12.8-sailfish-OFFICIAL-20200703.zip",
-            "filepath": "/sailfish/Bliss-v12.8-sailfish-OFFICIAL-20200703.zip",
-            "sha256": "c1db7768b2cb91b2648b96bfcb853a4407043841089467685cdb6bf6d2eabd25",
-            "size": 802112802,
+            "date": "2020-07-08",
+            "filename": "Bliss-v12.9-sailfish-OFFICIAL-20200708.zip",
+            "filepath": "/sailfish/Bliss-v12.9-sailfish-OFFICIAL-20200708.zip",
+            "sha256": "818dee380c3f65b0e59b13d69f73b9aaf14533052b55ebcf737a2a3f9913dadd",
+            "size": 841432238,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "santoni": [
