@@ -527,13 +527,13 @@
     ],
     "star2lte": [
         {
-            "date": "2020-07-02",
-            "filename": "Bliss-v12.8-star2lte-OFFICIAL-20200702.zip",
-            "filepath": "/star2lte/Bliss-v12.8-star2lte-OFFICIAL-20200702.zip",
-            "sha256": "89be305851aa111141054e509c0ccd1fb3959308e3b3ba00c3d1a65c08bdd91e",
-            "size": 764887446,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-star2lte-OFFICIAL-20200709.zip",
+            "filepath": "/star2lte/Bliss-v12.9-star2lte-OFFICIAL-20200709.zip",
+            "sha256": "c87b8a244b892a31c12bb95c5837461a473c40b9670c2328cfdafc9dbeb9e52c",
+            "size": 783070987,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "starlte": [
