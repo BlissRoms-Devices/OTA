@@ -4,8 +4,8 @@
             "date": "2020-07-08",
             "filename": "Bliss-v12.9-A5_Pro-OFFICIAL-20200708.zip",
             "filepath": "/A5_Pro/Bliss-v12.9-A5_Pro-OFFICIAL-20200708.zip",
-            "sha256": "2fc0dc67a04043ee3ef6d43f137ec7544f424f49f1911482e5dda54945586a7d",
-            "size": 625442816,
+            "sha256": "cd5ff736a4cc4b377b4a52a794e2d1502d88deb7e5ec81f5715ed134c910d8f1",
+            "size": 70352896,
             "type": "official",
             "version": "v12.9"
         }
@@ -155,13 +155,13 @@
     ],
     "crownlte": [
         {
-            "date": "2020-07-02",
-            "filename": "Bliss-v12.8-crownlte-OFFICIAL-20200702.zip",
-            "filepath": "/crownlte/Bliss-v12.8-crownlte-OFFICIAL-20200702.zip",
-            "sha256": "5f09372df9651c8b7fae24af9c0d85cc3d5a25b287fe7c77943e77b8eb242b63",
-            "size": 765153338,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-crownlte-OFFICIAL-20200709.zip",
+            "filepath": "/crownlte/Bliss-v12.9-crownlte-OFFICIAL-20200709.zip",
+            "sha256": "bfe7ab49dc14b75330fe7a7d6a09458e8789773c7cca8240e68048c5e2ebdd22",
+            "size": 783594088,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "daisy": [
