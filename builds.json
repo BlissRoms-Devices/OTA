@@ -538,13 +538,13 @@
     ],
     "starlte": [
         {
-            "date": "2020-07-02",
-            "filename": "Bliss-v12.8-starlte-OFFICIAL-20200702.zip",
-            "filepath": "/starlte/Bliss-v12.8-starlte-OFFICIAL-20200702.zip",
-            "sha256": "d456c1182d2fbb3dd3cc21d9651318a14e71d85dea302c4144c5fcb6fcb58004",
-            "size": 764877033,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-starlte-OFFICIAL-20200709.zip",
+            "filepath": "/starlte/Bliss-v12.9-starlte-OFFICIAL-20200709.zip",
+            "sha256": "9a3a1f4733ddf8c792d51fe24ad7507252926a9b062d296fca0687143e4e78d8",
+            "size": 54919168,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "taimen": [
