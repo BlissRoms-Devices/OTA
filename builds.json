@@ -122,13 +122,13 @@
     ],
     "cepheus": [
         {
-            "date": "2020-06-25",
-            "filename": "Bliss-v12.8-cepheus-OFFICIAL-20200625.zip",
-            "filepath": "/cepheus/Bliss-v12.8-cepheus-OFFICIAL-20200625.zip",
-            "sha256": "688c84fbc2f06cd6c8b7b5a6fd2bd9843dc0886b834d717c1d1ab8faa9378a83",
-            "size": 1318769085,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200710.zip",
+            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200710.zip",
+            "sha256": "181bf3b360d87c11340a4a25f3bffe739d994525330356ac6de76986758047a9",
+            "size": 489324544,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "cheeseburger": [
@@ -461,13 +461,13 @@
     ],
     "raphael": [
         {
-            "date": "2020-07-03",
-            "filename": "Bliss-v12.8-raphael-OFFICIAL-20200703.zip",
-            "filepath": "/raphael/Bliss-v12.8-raphael-OFFICIAL-20200703.zip",
-            "sha256": "2c9405311f2e2b2fc6d7ba7e0d35793a85915223130aee3ef3f4377693e69b46",
-            "size": 939109785,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
+            "filepath": "/raphael/Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
+            "sha256": "cc94923bcf660128d05c43be7db48623e978a23e2a34963bd3ae50b613ba24ff",
+            "size": 28540928,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "sagit": [
