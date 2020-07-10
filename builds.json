@@ -67,13 +67,13 @@
     ],
     "Z01R": [
         {
-            "date": "2020-07-10",
-            "filename": "Bliss-v12.9-Z01R-OFFICIAL-20200710.zip",
-            "filepath": "/Z01R/Bliss-v12.9-Z01R-OFFICIAL-20200710.zip",
-            "sha256": "3c88dce98ef4c5d087aa7243c54e23cf219dc398440d9422c9c2ae7571be2d7d",
-            "size": 1291021767,
+            "date": "2020-06-16",
+            "filename": "Bliss-v12.8-Z01R-OFFICIAL-20200616.zip",
+            "filepath": "/Z01R/Bliss-v12.8-Z01R-OFFICIAL-20200616.zip",
+            "sha256": "01a1cd7c3c89e8c10dd0b45fcd17da9ca5f9316fd052b9b1a4158ea3361cdb4f",
+            "size": 1328356428,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.8"
         }
     ],
     "angler": [
@@ -465,7 +465,7 @@
             "filename": "Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
             "filepath": "/raphael/Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
             "sha256": "9f5fe599fac6c2a4b50415fd5ff9d20a43f210225136a13fd949f93a91ecc284",
-            "size": 894074880,
+            "size": 896270336,
             "type": "official",
             "version": "v12.9"
         }
