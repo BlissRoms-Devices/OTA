@@ -67,13 +67,13 @@
     ],
     "Z01R": [
         {
-            "date": "2020-06-16",
-            "filename": "Bliss-v12.8-Z01R-OFFICIAL-20200616.zip",
-            "filepath": "/Z01R/Bliss-v12.8-Z01R-OFFICIAL-20200616.zip",
-            "sha256": "01a1cd7c3c89e8c10dd0b45fcd17da9ca5f9316fd052b9b1a4158ea3361cdb4f",
-            "size": 1328356428,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-Z01R-OFFICIAL-20200710.zip",
+            "filepath": "/Z01R/Bliss-v12.9-Z01R-OFFICIAL-20200710.zip",
+            "sha256": "adfbf2d5d6385064add826d80fdf4ac302a7343a9c4f03c14e164c4607ff1a3a",
+            "size": 1250585746,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "angler": [
@@ -395,11 +395,11 @@
     ],
     "marlin": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-marlin-OFFICIAL-20200709.zip",
-            "filepath": "/marlin/Bliss-v12.9-marlin-OFFICIAL-20200709.zip",
-            "sha256": "25a178c559e817d037ecce225be8ea6266604b7e71d9ada2a5f71b343625e724",
-            "size": 848739541,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-marlin-OFFICIAL-20200710.zip",
+            "filepath": "/marlin/Bliss-v12.9-marlin-OFFICIAL-20200710.zip",
+            "sha256": "e0b00328881ae7caeefce2e1acb78fb3517256b3907f43718e1ceba60a14bd41",
+            "size": 848712721,
             "type": "official",
             "version": "v12.9"
         }
@@ -483,11 +483,11 @@
     ],
     "sailfish": [
         {
-            "date": "2020-07-08",
-            "filename": "Bliss-v12.9-sailfish-OFFICIAL-20200708.zip",
-            "filepath": "/sailfish/Bliss-v12.9-sailfish-OFFICIAL-20200708.zip",
-            "sha256": "818dee380c3f65b0e59b13d69f73b9aaf14533052b55ebcf737a2a3f9913dadd",
-            "size": 841432238,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-sailfish-OFFICIAL-20200710.zip",
+            "filepath": "/sailfish/Bliss-v12.9-sailfish-OFFICIAL-20200710.zip",
+            "sha256": "19b04569fea78ac476732298d2957e2023d0f22ff78e3bbd4d3bafd2d63add4d",
+            "size": 841438514,
             "type": "official",
             "version": "v12.9"
         }
@@ -516,13 +516,13 @@
     ],
     "sirius": [
         {
-            "date": "2020-07-01",
-            "filename": "Bliss-v12.8-sirius-OFFICIAL-20200701.zip",
-            "filepath": "/sirius/Bliss-v12.8-sirius-OFFICIAL-20200701.zip",
-            "sha256": "a42d0141b06b25bd1ce914cd45a1a92cd64998d2cb7930841196301f0d4c96bb",
-            "size": 1316999539,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-sirius-OFFICIAL-20200710.zip",
+            "filepath": "/sirius/Bliss-v12.9-sirius-OFFICIAL-20200710.zip",
+            "sha256": "44cf9e171a68a82e89c070b67a6b88682e6ac039bfe4ed8df0ab93e4d9690a12",
+            "size": 1433340426,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "star2lte": [
