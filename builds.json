@@ -126,7 +126,7 @@
             "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200710.zip",
             "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200710.zip",
             "sha256": "181bf3b360d87c11340a4a25f3bffe739d994525330356ac6de76986758047a9",
-            "size": 489324544,
+            "size": 1377863715,
             "type": "official",
             "version": "v12.9"
         }
@@ -465,7 +465,7 @@
             "filename": "Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
             "filepath": "/raphael/Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
             "sha256": "cc94923bcf660128d05c43be7db48623e978a23e2a34963bd3ae50b613ba24ff",
-            "size": 28540928,
+            "size": 88997888,
             "type": "official",
             "version": "v12.9"
         }
