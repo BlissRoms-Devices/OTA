@@ -122,11 +122,11 @@
     ],
     "cepheus": [
         {
-            "date": "2020-07-10",
-            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200710.zip",
-            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200710.zip",
-            "sha256": "181bf3b360d87c11340a4a25f3bffe739d994525330356ac6de76986758047a9",
-            "size": 1377863715,
+            "date": "2020-07-11",
+            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200711.zip",
+            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200711.zip",
+            "sha256": "7176ed152017b50360cfab01b33dfd7f03deb4e19850095a89124c2380858730",
+            "size": 1378176268,
             "type": "official",
             "version": "v12.9"
         }
