@@ -298,13 +298,13 @@
     ],
     "guacamole": [
         {
-            "date": "2020-07-03",
-            "filename": "Bliss-v12.8-guacamole-OFFICIAL-20200703.zip",
-            "filepath": "/guacamole/Bliss-v12.8-guacamole-OFFICIAL-20200703.zip",
-            "sha256": "5fb409dccde0d20517bd5bd994f3f6dbc4215a1a0a907aeb9079535f382ec292",
-            "size": 1095012444,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-guacamole-OFFICIAL-20200710.zip",
+            "filepath": "/guacamole/Bliss-v12.9-guacamole-OFFICIAL-20200710.zip",
+            "sha256": "e21727b8e33864835a7c4930c2d5317bbb78a8da19c6c7b8373c63e8595bd9a3",
+            "size": 1107357675,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "h870": [
@@ -464,7 +464,7 @@
             "date": "2020-07-10",
             "filename": "Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
             "filepath": "/raphael/Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
-            "sha256": "d5c5d5087d10f7274bb0c54a5789801c448eda058d943d172cf1bc73d244f039",
+            "sha256": "119591a7186652f6999229d71f220abb1572c070464f983253dc63e96f7bad3c",
             "size": 1068579038,
             "type": "official",
             "version": "v12.9"
@@ -505,11 +505,11 @@
     ],
     "sargo": [
         {
-            "date": "2020-07-07",
-            "filename": "Bliss-v12.9-sargo-OFFICIAL-20200707.zip",
-            "filepath": "/sargo/Bliss-v12.9-sargo-OFFICIAL-20200707.zip",
-            "sha256": "3b4dd57816a214d1157a1b1fcf7b216a3c2eb1fa8d0b664087b2f115c53cb399",
-            "size": 1392216584,
+            "date": "2020-07-10",
+            "filename": "Bliss-v12.9-sargo-OFFICIAL-20200710.zip",
+            "filepath": "/sargo/Bliss-v12.9-sargo-OFFICIAL-20200710.zip",
+            "sha256": "6830155b9d31fbc3c9ad8e4587ebfe314848d21caa39e1dc69fa6f74b288ef7b",
+            "size": 1392220348,
             "type": "official",
             "version": "v12.9"
         }
