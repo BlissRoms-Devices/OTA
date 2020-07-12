@@ -406,13 +406,13 @@
     ],
     "mido": [
         {
-            "date": "2020-06-21",
-            "filename": "Bliss-v12.8-mido-OFFICIAL-20200621.zip",
-            "filepath": "/mido/Bliss-v12.8-mido-OFFICIAL-20200621.zip",
-            "sha256": "21e4b2b09a14faa6fcafc890a3003787056a8b1855d43d6ac1c102888d95c99c",
-            "size": 819926724,
+            "date": "2020-07-12",
+            "filename": "Bliss-v12.9-mido-OFFICIAL-20200712.zip",
+            "filepath": "/mido/Bliss-v12.9-mido-OFFICIAL-20200712.zip",
+            "sha256": "fa23b106a5e6e8ed245caeb81cac18b6dc19b421652cf6b8c819ca7fe3d76b44",
+            "size": 853368803,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "oneplus3": [
