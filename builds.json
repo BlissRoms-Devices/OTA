@@ -483,13 +483,13 @@
     ],
     "sagit": [
         {
-            "date": "2020-06-16",
-            "filename": "Bliss-v12.8-sagit-OFFICIAL-20200616.zip",
-            "filepath": "/sagit/Bliss-v12.8-sagit-OFFICIAL-20200616.zip",
-            "sha256": "9ea72dda8e5ba29c35345abdbe3de17b033045fa23d9ea36f76d0b4d8ad027f9",
-            "size": 901226874,
+            "date": "2020-07-12",
+            "filename": "Bliss-v12.9-sagit-OFFICIAL-20200712.zip",
+            "filepath": "/sagit/Bliss-v12.9-sagit-OFFICIAL-20200712.zip",
+            "sha256": "7cafccbd4b87b8a947679a102870cffbe8e0975d5c19c45d1fcde9397add2c04",
+            "size": 935971438,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "sailfish": [
