@@ -221,13 +221,13 @@
     ],
     "dumpling": [
         {
-            "date": "2020-07-03",
-            "filename": "Bliss-v12.8-dumpling-OFFICIAL-20200703.zip",
-            "filepath": "/dumpling/Bliss-v12.8-dumpling-OFFICIAL-20200703.zip",
-            "sha256": "6a4ef18e32e99d4aae1d433335a915631f6374871cb1524037e28c3826525fa8",
-            "size": 1000848806,
+            "date": "2020-07-09",
+            "filename": "Bliss-v12.9-dumpling-OFFICIAL-20200709.zip",
+            "filepath": "/dumpling/Bliss-v12.9-dumpling-OFFICIAL-20200709.zip",
+            "sha256": "2dbb95817d3c39b8215eb779e362fded751c65791bfdc19cca9f6c21878f4ffc",
+            "size": 1025397103,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "enchilada": [
