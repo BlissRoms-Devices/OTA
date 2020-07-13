@@ -243,13 +243,13 @@
     ],
     "fajita": [
         {
-            "date": "2020-07-04",
-            "filename": "Bliss-v12.8-fajita-OFFICIAL-20200704.zip",
-            "filepath": "/fajita/Bliss-v12.8-fajita-OFFICIAL-20200704.zip",
-            "sha256": "138d06cd476d1bd09e13b46cadddc0145937b5f5812ebb3496151ff6cf3a02cf",
-            "size": 1383969406,
+            "date": "2020-07-12",
+            "filename": "Bliss-v12.9-fajita-OFFICIAL-20200712.zip",
+            "filepath": "/fajita/Bliss-v12.9-fajita-OFFICIAL-20200712.zip",
+            "sha256": "f59abd49887f4dd29243c14da202acc2e23d9f2bcbe2f02833092ab175dac30a",
+            "size": 1342598695,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "garlic": [
@@ -387,21 +387,21 @@
     "maple": [
         {
             "date": "2020-06-22",
-            "filename": "Bliss-v12.8-maple-OFFICIAL-20200622.zip",
-            "filepath": "/maple/Bliss-v12.8-maple-OFFICIAL-20200622.zip",
-            "sha256": "7ec077b3e255619e0624760adf94e37e6487dd3f74c73e85296a7c82d019507b",
-            "size": 915604944,
-            "type": "official",
-            "version": "v12.8"
-        },
-        {
-            "date": "2020-06-22",
             "filename": "Bliss-v12.8-maple-UNOFFICIAL-20200622.zip",
             "filepath": "/maple/Bliss-v12.8-maple-UNOFFICIAL-20200622.zip",
             "sha256": "2dc812116a7f9dc4097593027cee56d62364b23b0a2434297ead3279ebf2e4da",
             "size": 915561829,
             "type": "unofficial",
             "version": "v12.8"
+        },
+        {
+            "date": "2020-07-12",
+            "filename": "Bliss-v12.9-maple-OFFICIAL-20200712.zip",
+            "filepath": "/maple/Bliss-v12.9-maple-OFFICIAL-20200712.zip",
+            "sha256": "e3908f5cfcf9bb38c32881b26daf480ed5ba7c2cff50c99805bf61cab8b6ec82",
+            "size": 1451581957,
+            "type": "official",
+            "version": "v12.9"
         }
     ],
     "marlin": [
