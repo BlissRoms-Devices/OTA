@@ -459,6 +459,17 @@
             "version": "v12.9"
         }
     ],
+    "poplar": [
+        {
+            "date": "2020-07-14",
+            "filename": "Bliss-v12.9-poplar-OFFICIAL-20200714.zip",
+            "filepath": "/poplar/Bliss-v12.9-poplar-OFFICIAL-20200714.zip",
+            "sha256": "c47f0f957e609c2abd8f69bc772dfa1ef7130768f76fcadc009a9393aa461670",
+            "size": 960932540,
+            "type": "official",
+            "version": "v12.9"
+        }
+    ],
     "pyxis": [
         {
             "date": "2020-07-01",
