@@ -428,11 +428,11 @@
     ],
     "oneplus3": [
         {
-            "date": "2020-07-11",
-            "filename": "Bliss-v12.9-oneplus3-OFFICIAL-20200711.zip",
-            "filepath": "/oneplus3/Bliss-v12.9-oneplus3-OFFICIAL-20200711.zip",
-            "sha256": "cbf023a57e95c3b1fd6b1e329f0083275e2e3f0f5b8cf2f9378f3964915258dd",
-            "size": 908933057,
+            "date": "2020-07-14",
+            "filename": "Bliss-v12.9-oneplus3-OFFICIAL-20200714.zip",
+            "filepath": "/oneplus3/Bliss-v12.9-oneplus3-OFFICIAL-20200714.zip",
+            "sha256": "e53d0b7f7a204616775849f325085c5d497d05ffbe1e67d69791431cc011f73a",
+            "size": 66453504,
             "type": "official",
             "version": "v12.9"
         }
