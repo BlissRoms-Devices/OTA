@@ -472,13 +472,13 @@
     ],
     "pyxis": [
         {
-            "date": "2020-07-01",
-            "filename": "Bliss-v12.8-pyxis-OFFICIAL-20200701.zip",
-            "filepath": "/pyxis/Bliss-v12.8-pyxis-OFFICIAL-20200701.zip",
-            "sha256": "149de4c7e527bae827be9b89d8eee43f0936ed9e9bde2fa16607e35aa9132589",
-            "size": 1198742731,
+            "date": "2020-07-16",
+            "filename": "Bliss-v12.9-pyxis-OFFICIAL-20200716.zip",
+            "filepath": "/pyxis/Bliss-v12.9-pyxis-OFFICIAL-20200716.zip",
+            "sha256": "afa53c5b833c5226805850c97a26071dc2d63939fb148fa5e8ea1ac4cc5ae3a8",
+            "size": 1219793332,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "raphael": [
@@ -516,13 +516,13 @@
     ],
     "santoni": [
         {
-            "date": "2020-06-13",
-            "filename": "Bliss-v12.8-santoni-OFFICIAL-20200613.zip",
-            "filepath": "/santoni/Bliss-v12.8-santoni-OFFICIAL-20200613.zip",
-            "sha256": "c62e76506dd860378d218a6dea918ba839a72593a645741d1413add5cebc9c06",
-            "size": 855243369,
+            "date": "2020-07-16",
+            "filename": "Bliss-v12.9-santoni-OFFICIAL-20200716.zip",
+            "filepath": "/santoni/Bliss-v12.9-santoni-OFFICIAL-20200716.zip",
+            "sha256": "64983267a25abe5ab3c8b40632ccbe1bb3691637d7a595b2b64b36dd51fbacfc",
+            "size": 846411855,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "sargo": [
@@ -571,11 +571,11 @@
     ],
     "taimen": [
         {
-            "date": "2020-07-08",
-            "filename": "Bliss-v12.9-taimen-OFFICIAL-20200708.zip",
-            "filepath": "/taimen/Bliss-v12.9-taimen-OFFICIAL-20200708.zip",
-            "sha256": "3e3ce14c2802cd55ae7384434eb476db257e8025ee7472dc602c7a3d0c59a825",
-            "size": 949130356,
+            "date": "2020-07-15",
+            "filename": "Bliss-v12.9-taimen-OFFICIAL-20200715.zip",
+            "filepath": "/taimen/Bliss-v12.9-taimen-OFFICIAL-20200715.zip",
+            "sha256": "f2ea6c03d6fc6271821b902a342dc01251cc87235fe69df3ade263b59de20014",
+            "size": 948780500,
             "type": "official",
             "version": "v12.9"
         }
