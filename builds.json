@@ -439,13 +439,13 @@
     ],
     "phoenix": [
         {
-            "date": "2020-07-01",
-            "filename": "Bliss-v12.8-phoenix-OFFICIAL-20200701.zip",
-            "filepath": "/phoenix/Bliss-v12.8-phoenix-OFFICIAL-20200701.zip",
-            "sha256": "56a58216fecb97a808b841972bc4dde592e70cf40f68bdbf2f0b2f4bd2938eef",
-            "size": 1865154961,
+            "date": "2020-07-16",
+            "filename": "Bliss-v12.9-phoenix-OFFICIAL-20200716.zip",
+            "filepath": "/phoenix/Bliss-v12.9-phoenix-OFFICIAL-20200716.zip",
+            "sha256": "ade1f04b03c9424ee0dba9e8445279ac7b87774ba5de235b3f8b7db2bf5b6113",
+            "size": 1769320220,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.9"
         }
     ],
     "platina": [
