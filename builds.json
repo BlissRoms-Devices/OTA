@@ -133,11 +133,11 @@
     ],
     "cepheus": [
         {
-            "date": "2020-07-11",
-            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200711.zip",
-            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200711.zip",
-            "sha256": "7176ed152017b50360cfab01b33dfd7f03deb4e19850095a89124c2380858730",
-            "size": 1378176268,
+            "date": "2020-07-18",
+            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200718.zip",
+            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200718.zip",
+            "sha256": "51e0f947d08830427d84f71c38ec56c20f412bd1859bda9220acffe949e47b42",
+            "size": 1378697608,
             "type": "official",
             "version": "v12.9"
         }
@@ -203,7 +203,7 @@
             "filename": "Bliss-v12.9-dream2lte-OFFICIAL-20200712.zip",
             "filepath": "/dream2lte/Bliss-v12.9-dream2lte-OFFICIAL-20200712.zip",
             "sha256": "32c6bc77f47135c1c9842c8862d6ea7c348b1807b62811e32077aba299c79922",
-            "size": 697630720,
+            "size": 886643150,
             "type": "official",
             "version": "v12.9"
         }
@@ -214,7 +214,7 @@
             "filename": "Bliss-v12.9-dreamlte-OFFICIAL-20200712.zip",
             "filepath": "/dreamlte/Bliss-v12.9-dreamlte-OFFICIAL-20200712.zip",
             "sha256": "616cb59619355c0768e14a462b6900fbe921aac0520e58164d11a2bcc06d225e",
-            "size": 712245248,
+            "size": 886609481,
             "type": "official",
             "version": "v12.9"
         }
