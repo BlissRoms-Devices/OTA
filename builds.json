@@ -153,6 +153,17 @@
             "version": "v12.8"
         }
     ],
+    "chiron": [
+        {
+            "date": "2020-07-21",
+            "filename": "Bliss-v12.9-chiron-OFFICIAL-20200721.zip",
+            "filepath": "/chiron/Bliss-v12.9-chiron-OFFICIAL-20200721.zip",
+            "sha256": "5810435d875db0faaa4b1fdcadd5ae8846bd413ba6e2ad7df65368b60c6efbbb",
+            "size": 148111360,
+            "type": "official",
+            "version": "v12.9"
+        }
+    ],
     "clover": [
         {
             "date": "2020-07-09",
