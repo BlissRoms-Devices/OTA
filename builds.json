@@ -5,7 +5,7 @@
             "filename": "Bliss-v12.9-A5_Pro-OFFICIAL-20200720.zip",
             "filepath": "/A5_Pro/Bliss-v12.9-A5_Pro-OFFICIAL-20200720.zip",
             "sha256": "a0c3aab0fdf88df81fc5a011d391aabe3d95ac983af78fb7c2d692b428d0fb23",
-            "size": 32702464,
+            "size": 469532672,
             "type": "official",
             "version": "v12.9"
         }
@@ -133,11 +133,11 @@
     ],
     "cepheus": [
         {
-            "date": "2020-07-18",
-            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200718.zip",
-            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200718.zip",
-            "sha256": "51e0f947d08830427d84f71c38ec56c20f412bd1859bda9220acffe949e47b42",
-            "size": 1378697608,
+            "date": "2020-07-21",
+            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200721.zip",
+            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200721.zip",
+            "sha256": "d8d12d85fe3a0fa73c6c8fcff12c4d658ffd4c63fce5c32da7f8d1def7a020cf",
+            "size": 1382216166,
             "type": "official",
             "version": "v12.9"
         }
