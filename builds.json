@@ -155,13 +155,13 @@
     ],
     "chiron": [
         {
-            "date": "2020-07-21",
-            "filename": "Bliss-v12.9-chiron-OFFICIAL-20200721.zip",
-            "filepath": "/chiron/Bliss-v12.9-chiron-OFFICIAL-20200721.zip",
-            "sha256": "0cce60ec934d9187356e72bca976d0c2aeca2050ed3af13f0fdc502a94685992",
-            "size": 925329334,
+            "date": "2020-07-22",
+            "filename": "Bliss-v12.10-chiron-OFFICIAL-20200722.zip",
+            "filepath": "/chiron/Bliss-v12.10-chiron-OFFICIAL-20200722.zip",
+            "sha256": "28019237ec09db5d3d5fbba289eecff780aee84af59ea444be1e129e39fa48bd",
+            "size": 924642456,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "clover": [
