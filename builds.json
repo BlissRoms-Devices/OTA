@@ -199,11 +199,11 @@
     ],
     "davinci": [
         {
-            "date": "2020-07-13",
-            "filename": "Bliss-v12.9-davinci-OFFICIAL-20200713.zip",
-            "filepath": "/davinci/Bliss-v12.9-davinci-OFFICIAL-20200713.zip",
-            "sha256": "e722be3b6530d1a1a97d689feaa172b7026792cd8230264dd70bb4d4dbe9dcba",
-            "size": 1489655828,
+            "date": "2020-07-21",
+            "filename": "Bliss-v12.9-davinci-OFFICIAL-20200721.zip",
+            "filepath": "/davinci/Bliss-v12.9-davinci-OFFICIAL-20200721.zip",
+            "sha256": "d45a72c0f4cda298fb65a0b077de186dfdd2ebf8f873c0ba60d9adf3e5329ab2",
+            "size": 61997056,
             "type": "official",
             "version": "v12.9"
         }
