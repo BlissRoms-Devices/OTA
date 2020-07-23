@@ -582,13 +582,13 @@
     ],
     "taimen": [
         {
-            "date": "2020-07-19",
-            "filename": "Bliss-v12.9-taimen-OFFICIAL-20200719.zip",
-            "filepath": "/taimen/Bliss-v12.9-taimen-OFFICIAL-20200719.zip",
-            "sha256": "58188f2c3d09f61c99bfe1c3cf5d86e7871b0b08bd1a52a2c6c6bd15262dc7bc",
-            "size": 1342319536,
+            "date": "2020-07-23",
+            "filename": "Bliss-v12.10-taimen-OFFICIAL-20200723.zip",
+            "filepath": "/taimen/Bliss-v12.10-taimen-OFFICIAL-20200723.zip",
+            "sha256": "47d8870ce71614de9877bd951ec71152be6472584b2bd4379ae14a9fe0b73693",
+            "size": 1341557327,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "tissot": [
