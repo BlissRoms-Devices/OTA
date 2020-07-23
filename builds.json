@@ -5,7 +5,7 @@
             "filename": "Bliss-v12.10-A5_Pro-OFFICIAL-20200722.zip",
             "filepath": "/A5_Pro/Bliss-v12.10-A5_Pro-OFFICIAL-20200722.zip",
             "sha256": "cbd6fa30b713c78273a5120b98d9d81b39436beaaf629f8283121df3f8f379c9",
-            "size": 779550720,
+            "size": 803696520,
             "type": "official",
             "version": "v12.10"
         }
@@ -406,13 +406,13 @@
             "version": "v12.8"
         },
         {
-            "date": "2020-07-12",
-            "filename": "Bliss-v12.9-maple-OFFICIAL-20200712.zip",
-            "filepath": "/maple/Bliss-v12.9-maple-OFFICIAL-20200712.zip",
-            "sha256": "e3908f5cfcf9bb38c32881b26daf480ed5ba7c2cff50c99805bf61cab8b6ec82",
-            "size": 1451581957,
+            "date": "2020-07-22",
+            "filename": "Bliss-v12.10-maple-OFFICIAL-20200722.zip",
+            "filepath": "/maple/Bliss-v12.10-maple-OFFICIAL-20200722.zip",
+            "sha256": "fbe35e1dd1ddb2b496d5e99e8eb5e573471049833d9f4ee1efce4f1bf67580d0",
+            "size": 954339558,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "marlin": [
