@@ -23,13 +23,13 @@
     ],
     "I01WD": [
         {
-            "date": "2020-07-08",
-            "filename": "Bliss-v12.9-I01WD-OFFICIAL-20200708.zip",
-            "filepath": "/I01WD/Bliss-v12.9-I01WD-OFFICIAL-20200708.zip",
-            "sha256": "cb1fc63ff4a21acbf5dc31db1c2bafc5618ea73fd6d427f39eebd33b7c27761d",
-            "size": 1242465364,
+            "date": "2020-07-23",
+            "filename": "Bliss-v12.10-I01WD-OFFICIAL-20200723.zip",
+            "filepath": "/I01WD/Bliss-v12.10-I01WD-OFFICIAL-20200723.zip",
+            "sha256": "ad3d312927fa55bfbe61af4d5d5a5c7d8a4a57d17c5e0959434fd99ba0e7ced4",
+            "size": 28606464,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "RMX1921": [
