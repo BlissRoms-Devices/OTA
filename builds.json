@@ -5,7 +5,7 @@
             "filename": "Bliss-v12.10-A5_Pro-OFFICIAL-20200722.zip",
             "filepath": "/A5_Pro/Bliss-v12.10-A5_Pro-OFFICIAL-20200722.zip",
             "sha256": "14d4e50ffc424de51ddd31c392af92c1e00805ee2080054e08f5c42ae6c887fe",
-            "size": 434634752,
+            "size": 566886400,
             "type": "official",
             "version": "v12.10"
         }
@@ -89,13 +89,13 @@
     ],
     "angler": [
         {
-            "date": "2020-07-22",
-            "filename": "Bliss-v12.10-angler-OFFICIAL-20200722.zip",
-            "filepath": "/angler/Bliss-v12.10-angler-OFFICIAL-20200722.zip",
-            "sha256": "c761d490149906c1def06945de50095a52a571ba7eaeb64652dd732d537f0ed6",
-            "size": 1353662890,
+            "date": "2020-07-07",
+            "filename": "Bliss-v12.9-angler-OFFICIAL-20200707.zip",
+            "filepath": "/angler/Bliss-v12.9-angler-OFFICIAL-20200707.zip",
+            "sha256": "269ae343bf3f83b6a81540a06feca60aa31441185f73fdd84689793fe55c6979",
+            "size": 1355457590,
             "type": "official",
-            "version": "v12.10"
+            "version": "v12.9"
         }
     ],
     "beryllium": [
