@@ -494,13 +494,13 @@
     ],
     "raphael": [
         {
-            "date": "2020-07-10",
-            "filename": "Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
-            "filepath": "/raphael/Bliss-v12.9-raphael-OFFICIAL-20200710.zip",
-            "sha256": "119591a7186652f6999229d71f220abb1572c070464f983253dc63e96f7bad3c",
-            "size": 1068579038,
+            "date": "2020-07-22",
+            "filename": "Bliss-v12.10-raphael-OFFICIAL-20200722.zip",
+            "filepath": "/raphael/Bliss-v12.10-raphael-OFFICIAL-20200722.zip",
+            "sha256": "2a3ebc2472273fde61e4863a0a66d183c30d8ca321b71b66ecd95a6eb4d2a48d",
+            "size": 657489920,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "sagit": [
