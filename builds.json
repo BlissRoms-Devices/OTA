@@ -181,7 +181,7 @@
             "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200724.zip",
             "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200724.zip",
             "sha256": "e97f9db0e318f4757eb4b1d84eb635f62984289255f1cb5d9c6b98957edb84e1",
-            "size": 719388672,
+            "size": 791298752,
             "type": "official",
             "version": "v12.10"
         }
@@ -571,13 +571,13 @@
     ],
     "starlte": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-starlte-OFFICIAL-20200709.zip",
-            "filepath": "/starlte/Bliss-v12.9-starlte-OFFICIAL-20200709.zip",
-            "sha256": "9a3a1f4733ddf8c792d51fe24ad7507252926a9b062d296fca0687143e4e78d8",
-            "size": 783009130,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-starlte-OFFICIAL-20200724.zip",
+            "filepath": "/starlte/Bliss-v12.10-starlte-OFFICIAL-20200724.zip",
+            "sha256": "8cb4e1a06ff808a78eb32fe6bf534ada16ba287ad0896b4c43d030cf1d5f344e",
+            "size": 791087639,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "taimen": [
