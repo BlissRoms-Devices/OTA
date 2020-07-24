@@ -12,13 +12,13 @@
     ],
     "CPH1859": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-CPH1859-OFFICIAL-20200709.zip",
-            "filepath": "/CPH1859/Bliss-v12.9-CPH1859-OFFICIAL-20200709.zip",
-            "sha256": "9687ebf7174014937b336ea4946312833f5d41793d501f25ff3f01e1c814724b",
-            "size": 831573217,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-CPH1859-OFFICIAL-20200724.zip",
+            "filepath": "/CPH1859/Bliss-v12.10-CPH1859-OFFICIAL-20200724.zip",
+            "sha256": "96c2306c1837581d99abe2c482ec0712b208909c5fb41f5599a3ac65af4530cb",
+            "size": 846990216,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "I01WD": [
@@ -417,13 +417,13 @@
     ],
     "marlin": [
         {
-            "date": "2020-07-11",
-            "filename": "Bliss-v12.9-marlin-OFFICIAL-20200711.zip",
-            "filepath": "/marlin/Bliss-v12.9-marlin-OFFICIAL-20200711.zip",
-            "sha256": "254d00e22428de95f710d5b322ff007787a3c1f0b1f3b1a03eaba086efb0b70e",
-            "size": 848712951,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-marlin-OFFICIAL-20200724.zip",
+            "filepath": "/marlin/Bliss-v12.10-marlin-OFFICIAL-20200724.zip",
+            "sha256": "d76b56478eccd4a83ee66852140c69dbc74569ec6cad233aa63f98e051b9539e",
+            "size": 826994073,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "mido": [
