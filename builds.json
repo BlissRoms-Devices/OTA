@@ -516,13 +516,13 @@
     ],
     "pyxis": [
         {
-            "date": "2020-07-16",
-            "filename": "Bliss-v12.9-pyxis-OFFICIAL-20200716.zip",
-            "filepath": "/pyxis/Bliss-v12.9-pyxis-OFFICIAL-20200716.zip",
-            "sha256": "afa53c5b833c5226805850c97a26071dc2d63939fb148fa5e8ea1ac4cc5ae3a8",
-            "size": 1219793332,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-pyxis-OFFICIAL-20200724.zip",
+            "filepath": "/pyxis/Bliss-v12.10-pyxis-OFFICIAL-20200724.zip",
+            "sha256": "92195571d19fb89009cf37e9ef19d45845725b19bd8a7a5b98fb91b2524503ab",
+            "size": 1223007083,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "raphael": [
