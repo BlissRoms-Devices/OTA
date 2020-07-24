@@ -177,13 +177,13 @@
     ],
     "crownlte": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-crownlte-OFFICIAL-20200709.zip",
-            "filepath": "/crownlte/Bliss-v12.9-crownlte-OFFICIAL-20200709.zip",
-            "sha256": "bfe7ab49dc14b75330fe7a7d6a09458e8789773c7cca8240e68048c5e2ebdd22",
-            "size": 783594088,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200724.zip",
+            "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200724.zip",
+            "sha256": "e97f9db0e318f4757eb4b1d84eb635f62984289255f1cb5d9c6b98957edb84e1",
+            "size": 719388672,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "daisy": [
@@ -564,7 +564,7 @@
             "filename": "Bliss-v12.10-star2lte-OFFICIAL-20200724.zip",
             "filepath": "/star2lte/Bliss-v12.10-star2lte-OFFICIAL-20200724.zip",
             "sha256": "dc7bb099f650dcf0f44b2437e228a29873e36ec6b468a5eb8d630d2f7c2dfad7",
-            "size": 771620864,
+            "size": 791285582,
             "type": "official",
             "version": "v12.10"
         }
