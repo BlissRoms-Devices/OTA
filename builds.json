@@ -89,13 +89,13 @@
     ],
     "angler": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-angler-OFFICIAL-20200723.zip",
-            "filepath": "/angler/Bliss-v12.10-angler-OFFICIAL-20200723.zip",
-            "sha256": "84a899dec657c900da658d4957cf2630900870e339fbf6bdf33ac7c051230f53",
-            "size": 1353887549,
+            "date": "2020-07-07",
+            "filename": "Bliss-v12.9-angler-OFFICIAL-20200707.zip",
+            "filepath": "/angler/Bliss-v12.9-angler-OFFICIAL-20200707.zip",
+            "sha256": "269ae343bf3f83b6a81540a06feca60aa31441185f73fdd84689793fe55c6979",
+            "size": 1355457590,
             "type": "official",
-            "version": "v12.10"
+            "version": "v12.9"
         }
     ],
     "beryllium": [
