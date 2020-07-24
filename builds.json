@@ -448,6 +448,28 @@
             "version": "v12.10"
         }
     ],
+    "nobleltetmo": [
+        {
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-nobleltetmo-OFFICIAL-20200724.zip",
+            "filepath": "/nobleltetmo/Bliss-v12.10-nobleltetmo-OFFICIAL-20200724.zip",
+            "sha256": "2f9b86929a0516cfbd69f65af5bbb15ff440d6830912d8d298f8168e25541f18",
+            "size": 836087632,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
+    "nobleltezt": [
+        {
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-nobleltezt-OFFICIAL-20200724.zip",
+            "filepath": "/nobleltezt/Bliss-v12.10-nobleltezt-OFFICIAL-20200724.zip",
+            "sha256": "8fa301f3fa362e633375b2498c8c91469d875fabc6eadc8d9a4fcb050c795ad1",
+            "size": 835998921,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "oneplus3": [
         {
             "date": "2020-07-14",
