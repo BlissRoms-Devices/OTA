@@ -637,13 +637,13 @@
     ],
     "tulip": [
         {
-            "date": "2020-07-10",
-            "filename": "Bliss-v12.9-tulip-OFFICIAL-20200710.zip",
-            "filepath": "/tulip/Bliss-v12.9-tulip-OFFICIAL-20200710.zip",
-            "sha256": "99b98615d38183a28da6f93055fbe2876d7dcb59b7ba755c0739d35b1b83836f",
-            "size": 1004310400,
+            "date": "2020-07-23",
+            "filename": "Bliss-v12.10-tulip-OFFICIAL-20200723.zip",
+            "filepath": "/tulip/Bliss-v12.10-tulip-OFFICIAL-20200723.zip",
+            "sha256": "8f8169819b9c71d2d0b32fc46845ac9c09f2b4f8a20a9181c28db3a267a8bba2",
+            "size": 1007393172,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "twolip": [
