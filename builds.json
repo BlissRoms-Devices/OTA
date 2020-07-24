@@ -133,13 +133,13 @@
     ],
     "cepheus": [
         {
-            "date": "2020-07-21",
-            "filename": "Bliss-v12.9-cepheus-OFFICIAL-20200721.zip",
-            "filepath": "/cepheus/Bliss-v12.9-cepheus-OFFICIAL-20200721.zip",
-            "sha256": "d8d12d85fe3a0fa73c6c8fcff12c4d658ffd4c63fce5c32da7f8d1def7a020cf",
-            "size": 1382216166,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-cepheus-OFFICIAL-20200724.zip",
+            "filepath": "/cepheus/Bliss-v12.10-cepheus-OFFICIAL-20200724.zip",
+            "sha256": "3fe4d6225e40ba699cb9c64df37e18d2367a0b647194641daaf911a00fd6c82d",
+            "size": 1381492642,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "cheeseburger": [
@@ -433,6 +433,17 @@
             "filepath": "/mido/Bliss-v12.10-mido-OFFICIAL-20200724.zip",
             "sha256": "84307aea806752cfff94b9acc7737404fdba2f0c81133faa1ecf0eb99389c821",
             "size": 864284776,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
+    "noblelte": [
+        {
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-noblelte-OFFICIAL-20200724.zip",
+            "filepath": "/noblelte/Bliss-v12.10-noblelte-OFFICIAL-20200724.zip",
+            "sha256": "5df2212bc3696398915dde695eebb45024f582195d9a15e01624e4fe335798ab",
+            "size": 836479214,
             "type": "official",
             "version": "v12.10"
         }
