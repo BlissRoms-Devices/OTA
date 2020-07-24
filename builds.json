@@ -461,13 +461,13 @@
     ],
     "platina": [
         {
-            "date": "2020-07-08",
-            "filename": "Bliss-v12.9-platina-OFFICIAL-20200708.zip",
-            "filepath": "/platina/Bliss-v12.9-platina-OFFICIAL-20200708.zip",
-            "sha256": "22b33509daca92897e5944c2369b75030a1c121d3378f012fe4c26e86e80b6ae",
-            "size": 1538625331,
+            "date": "2020-07-24",
+            "filename": "Bliss-v12.10-platina-OFFICIAL-20200724.zip",
+            "filepath": "/platina/Bliss-v12.10-platina-OFFICIAL-20200724.zip",
+            "sha256": "7aa21f4d8e3ec0d6080d94227557ab2ce75e08008081f53b80d9bce34ef4f2d4",
+            "size": 1548070584,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "poplar": [
