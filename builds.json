@@ -353,13 +353,13 @@
     ],
     "jasmine_sprout": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-jasmine_sprout-OFFICIAL-20200709.zip",
-            "filepath": "/jasmine_sprout/Bliss-v12.9-jasmine_sprout-OFFICIAL-20200709.zip",
-            "sha256": "7249b751d6965b37ecdd10a12a2c036e50b171f954e39d7974cba6be8b1bfc41",
-            "size": 1040056091,
+            "date": "2020-07-25",
+            "filename": "Bliss-v12.10-jasmine_sprout-OFFICIAL-20200725.zip",
+            "filepath": "/jasmine_sprout/Bliss-v12.10-jasmine_sprout-OFFICIAL-20200725.zip",
+            "sha256": "25025c7ccb7153d1e94884550d042bb5735181994d68483b17bdadcd24042eff",
+            "size": 1038659611,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "kenzo": [
