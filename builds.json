@@ -265,13 +265,13 @@
     ],
     "garlic": [
         {
-            "date": "2020-06-08",
-            "filename": "Bliss-v12.8-garlic-OFFICIAL-20200608.zip",
-            "filepath": "/garlic/Bliss-v12.8-garlic-OFFICIAL-20200608.zip",
-            "sha256": "2ecda579e4c5f46d36f3a1efd5463fe1ee33fcbda7b8d700cebc2ea260f3a9ea",
-            "size": 798324178,
+            "date": "2020-07-25",
+            "filename": "Bliss-v12.10-garlic-OFFICIAL-20200725.zip",
+            "filepath": "/garlic/Bliss-v12.10-garlic-OFFICIAL-20200725.zip",
+            "sha256": "eda3899bb86967b99d11271ebc8e69a2367c51dccc0fd30b13b2dc2f0132a14f",
+            "size": 836319793,
             "type": "official",
-            "version": "v12.8"
+            "version": "v12.10"
         }
     ],
     "ginkgo": [
