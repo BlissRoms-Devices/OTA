@@ -166,13 +166,13 @@
     ],
     "clover": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-clover-OFFICIAL-20200709.zip",
-            "filepath": "/clover/Bliss-v12.9-clover-OFFICIAL-20200709.zip",
-            "sha256": "396392427855f0272153fee3bf272611fe231b07d3648965f4d217c4aeb92192",
-            "size": 985312373,
+            "date": "2020-07-25",
+            "filename": "Bliss-v12.10-clover-OFFICIAL-20200725.zip",
+            "filepath": "/clover/Bliss-v12.10-clover-OFFICIAL-20200725.zip",
+            "sha256": "e72d6d2a2ef7a69e203909df6631214f37f0b12688cf1c717170e238f5627bd2",
+            "size": 983773983,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "crownlte": [
@@ -681,13 +681,13 @@
     ],
     "wayne": [
         {
-            "date": "2020-07-09",
-            "filename": "Bliss-v12.9-wayne-OFFICIAL-20200709.zip",
-            "filepath": "/wayne/Bliss-v12.9-wayne-OFFICIAL-20200709.zip",
-            "sha256": "bd90b30272fa1d6dd0149221dca9251c66ee60cd913bbbf2c2b5f5bd81c3f429",
-            "size": 1063044975,
+            "date": "2020-07-25",
+            "filename": "Bliss-v12.10-wayne-OFFICIAL-20200725.zip",
+            "filepath": "/wayne/Bliss-v12.10-wayne-OFFICIAL-20200725.zip",
+            "sha256": "5571bbdcd8a79d7ab81d2b9db457e279a7f9cd4c716f0546412a0fc78a7dc4f4",
+            "size": 1061342391,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "whyred": [
