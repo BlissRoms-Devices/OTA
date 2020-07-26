@@ -254,13 +254,13 @@
     ],
     "fajita": [
         {
-            "date": "2020-07-12",
-            "filename": "Bliss-v12.9-fajita-OFFICIAL-20200712.zip",
-            "filepath": "/fajita/Bliss-v12.9-fajita-OFFICIAL-20200712.zip",
-            "sha256": "f59abd49887f4dd29243c14da202acc2e23d9f2bcbe2f02833092ab175dac30a",
-            "size": 1342598695,
+            "date": "2020-07-26",
+            "filename": "Bliss-v12.10-fajita-OFFICIAL-20200726.zip",
+            "filepath": "/fajita/Bliss-v12.10-fajita-OFFICIAL-20200726.zip",
+            "sha256": "00117dab746190c1a972abf6376756886c9f1d40b95e123a47cce1086a6bf7f1",
+            "size": 79118336,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "garlic": [
