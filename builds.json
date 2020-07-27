@@ -395,6 +395,17 @@
             "version": "v12.8"
         }
     ],
+    "lilac": [
+        {
+            "date": "2020-07-23",
+            "filename": "Bliss-v12.10-lilac-OFFICIAL-20200723.zip",
+            "filepath": "/lilac/Bliss-v12.10-lilac-OFFICIAL-20200723.zip",
+            "sha256": "d20a514a2166b74ccd299e01532671d9c3b8d3c9cc5d00926a3471460b3067e1",
+            "size": 933881175,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "maple": [
         {
             "date": "2020-06-22",
@@ -483,13 +494,13 @@
     ],
     "phoenix": [
         {
-            "date": "2020-07-16",
-            "filename": "Bliss-v12.9-phoenix-OFFICIAL-20200716.zip",
-            "filepath": "/phoenix/Bliss-v12.9-phoenix-OFFICIAL-20200716.zip",
-            "sha256": "ade1f04b03c9424ee0dba9e8445279ac7b87774ba5de235b3f8b7db2bf5b6113",
-            "size": 1769320220,
+            "date": "2020-07-26",
+            "filename": "Bliss-v12.10-phoenix-OFFICIAL-20200726.zip",
+            "filepath": "/phoenix/Bliss-v12.10-phoenix-OFFICIAL-20200726.zip",
+            "sha256": "a468a7c407c68323078e808186279442f03d7887921b6c09ff3f6c3a711b4aef",
+            "size": 1772321287,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "platina": [
