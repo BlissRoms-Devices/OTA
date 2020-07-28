@@ -679,6 +679,17 @@
             "version": "v12.4"
         }
     ],
+    "vince": [
+        {
+            "date": "2020-07-27",
+            "filename": "Bliss-v12.10-vince-OFFICIAL-20200727.zip",
+            "filepath": "/vince/Bliss-v12.10-vince-OFFICIAL-20200727.zip",
+            "sha256": "fff99a4d07035e592c6c7605ded88b14c41b8dc9baf3d85c167311148641dd30",
+            "size": 921970468,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "violet": [
         {
             "date": "2020-06-23",
