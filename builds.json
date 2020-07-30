@@ -177,11 +177,11 @@
     ],
     "crownlte": [
         {
-            "date": "2020-07-29",
-            "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200729.zip",
-            "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200729.zip",
-            "sha256": "f1e6ee06269f3306f21a0579a64affe7157c8989942b1a8ee7727182b591abc0",
-            "size": 791315065,
+            "date": "2020-07-30",
+            "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200730.zip",
+            "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200730.zip",
+            "sha256": "5d4940127fc3ea02ad6eb89c987e50dfdaff4f2c851add23f12ac0c01da513e2",
+            "size": 645136384,
             "type": "official",
             "version": "v12.10"
         }
