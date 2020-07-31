@@ -384,6 +384,17 @@
             "version": "v12.8"
         }
     ],
+    "laurel_sprout": [
+        {
+            "date": "2020-07-31",
+            "filename": "Bliss-v12.10-laurel_sprout-OFFICIAL-20200731.zip",
+            "filepath": "/laurel_sprout/Bliss-v12.10-laurel_sprout-OFFICIAL-20200731.zip",
+            "sha256": "83535a6e2152fa06799d10e3666a9478c34431390944ed04c8c5b244b56cdafb",
+            "size": 1109022437,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "lavender": [
         {
             "date": "2020-07-30",
