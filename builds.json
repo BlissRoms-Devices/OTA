@@ -188,13 +188,13 @@
     ],
     "daisy": [
         {
-            "date": "2020-07-16",
-            "filename": "Bliss-v12.9-daisy-OFFICIAL-20200716.zip",
-            "filepath": "/daisy/Bliss-v12.9-daisy-OFFICIAL-20200716.zip",
-            "sha256": "e73f2e9c449a1168324a998dc3721a25781b8763cc9bd7404cbab59fe6ba342c",
-            "size": 887076342,
+            "date": "2020-08-01",
+            "filename": "Bliss-v12.10-daisy-OFFICIAL-20200801.zip",
+            "filepath": "/daisy/Bliss-v12.10-daisy-OFFICIAL-20200801.zip",
+            "sha256": "fa6651752b558fe351a460c405c52c1485fce1032ebb1e4c668d4a7906e6bf2d",
+            "size": 1298998196,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "davinci": [
