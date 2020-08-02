@@ -538,11 +538,11 @@
     ],
     "pyxis": [
         {
-            "date": "2020-07-24",
-            "filename": "Bliss-v12.10-pyxis-OFFICIAL-20200724.zip",
-            "filepath": "/pyxis/Bliss-v12.10-pyxis-OFFICIAL-20200724.zip",
-            "sha256": "92195571d19fb89009cf37e9ef19d45845725b19bd8a7a5b98fb91b2524503ab",
-            "size": 1223007083,
+            "date": "2020-08-02",
+            "filename": "Bliss-v12.10-pyxis-OFFICIAL-20200802.zip",
+            "filepath": "/pyxis/Bliss-v12.10-pyxis-OFFICIAL-20200802.zip",
+            "sha256": "4a302996fc3551c16fcc86389fe44ec85b029981f5ae19921d5baaa898427d4b",
+            "size": 1240881274,
             "type": "official",
             "version": "v12.10"
         }
