@@ -78,13 +78,13 @@
     ],
     "Z01R": [
         {
-            "date": "2020-07-22",
-            "filename": "Bliss-v12.9-Z01R-OFFICIAL-20200722.zip",
-            "filepath": "/Z01R/Bliss-v12.9-Z01R-OFFICIAL-20200722.zip",
-            "sha256": "9131ff910c410b2df46661a4fd73fcda171caf4bdab69208b95989b1c65d75ff",
-            "size": 1293264420,
+            "date": "2020-08-02",
+            "filename": "Bliss-v12.10-Z01R-OFFICIAL-20200802.zip",
+            "filepath": "/Z01R/Bliss-v12.10-Z01R-OFFICIAL-20200802.zip",
+            "sha256": "e64a09c375305e6d0722db1ce108201356f91238a321c1eca1ecf1d21b3d9350",
+            "size": 1306839193,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "angler": [
