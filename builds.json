@@ -276,13 +276,13 @@
     ],
     "ginkgo": [
         {
-            "date": "2020-05-14",
-            "filename": "Bliss-v12.7-ginkgo-OFFICIAL-20200514.zip",
-            "filepath": "/ginkgo/Bliss-v12.7-ginkgo-OFFICIAL-20200514.zip",
-            "sha256": "1009c6394ac96a1bcf69dfa6d226474e8e0fdc4de9809f5bd5435bf058135d28",
-            "size": 1013857348,
+            "date": "2020-08-03",
+            "filename": "Bliss-v12.10-ginkgo-OFFICIAL-20200803.zip",
+            "filepath": "/ginkgo/Bliss-v12.10-ginkgo-OFFICIAL-20200803.zip",
+            "sha256": "93f4279913b90752df0f07f994e1111cdbdb4e6aabbb2259789a8564315b4693",
+            "size": 1123839653,
             "type": "official",
-            "version": "v12.7"
+            "version": "v12.10"
         }
     ],
     "grus": [
