@@ -492,6 +492,17 @@
             "version": "v12.10"
         }
     ],
+    "onclite": [
+        {
+            "date": "2020-08-05",
+            "filename": "Bliss-v12.10-onclite-OFFICIAL-20200805.zip",
+            "filepath": "/onclite/Bliss-v12.10-onclite-OFFICIAL-20200805.zip",
+            "sha256": "58d37380ae01e2a9c79e3b829aae56eff4272b39cc70f83a834bd4841056fe5a",
+            "size": 1023270805,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "oneplus3": [
         {
             "date": "2020-07-24",
@@ -505,11 +516,11 @@
     ],
     "phoenix": [
         {
-            "date": "2020-07-26",
-            "filename": "Bliss-v12.10-phoenix-OFFICIAL-20200726.zip",
-            "filepath": "/phoenix/Bliss-v12.10-phoenix-OFFICIAL-20200726.zip",
-            "sha256": "a468a7c407c68323078e808186279442f03d7887921b6c09ff3f6c3a711b4aef",
-            "size": 1772321287,
+            "date": "2020-08-05",
+            "filename": "Bliss-v12.10-phoenix-OFFICIAL-20200805.zip",
+            "filepath": "/phoenix/Bliss-v12.10-phoenix-OFFICIAL-20200805.zip",
+            "sha256": "eadf622bbb5c7e6164e7643ef22d63cc219fead562a0f0ea6634f2260a419e98",
+            "size": 597688320,
             "type": "official",
             "version": "v12.10"
         }
