@@ -221,13 +221,13 @@
     ],
     "dreamlte": [
         {
-            "date": "2020-07-12",
-            "filename": "Bliss-v12.9-dreamlte-OFFICIAL-20200712.zip",
-            "filepath": "/dreamlte/Bliss-v12.9-dreamlte-OFFICIAL-20200712.zip",
-            "sha256": "616cb59619355c0768e14a462b6900fbe921aac0520e58164d11a2bcc06d225e",
-            "size": 886609481,
+            "date": "2020-08-04",
+            "filename": "Bliss-v12.10-dreamlte-OFFICIAL-20200804.zip",
+            "filepath": "/dreamlte/Bliss-v12.10-dreamlte-OFFICIAL-20200804.zip",
+            "sha256": "3fd94d81acde71997029ede43063bdf3ad519a8281aff3bd145cded98e0c1efd",
+            "size": 914415711,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "dumpling": [
