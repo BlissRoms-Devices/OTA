@@ -89,11 +89,11 @@
     ],
     "angler": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-angler-OFFICIAL-20200723.zip",
-            "filepath": "/angler/Bliss-v12.10-angler-OFFICIAL-20200723.zip",
-            "sha256": "032b79d5b5e031683aa04ec1102b3130a335f6205ddf102fc76d6c337393b8f1",
-            "size": 1352517149,
+            "date": "2020-08-05",
+            "filename": "Bliss-v12.10-angler-OFFICIAL-20200805.zip",
+            "filepath": "/angler/Bliss-v12.10-angler-OFFICIAL-20200805.zip",
+            "sha256": "5cb8c165276a25434e01743001d5efb440ffced828dd730eff38bbc0efbb9adb",
+            "size": 1090400631,
             "type": "official",
             "version": "v12.10"
         }
