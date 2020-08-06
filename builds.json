@@ -428,11 +428,11 @@
             "version": "v12.8"
         },
         {
-            "date": "2020-08-04",
-            "filename": "Bliss-v12.10-maple-OFFICIAL-20200804.zip",
-            "filepath": "/maple/Bliss-v12.10-maple-OFFICIAL-20200804.zip",
-            "sha256": "2e44603fa8292fec57c7b6fdb1a6b85b4bdc79bb4b190754d0726d3f9b20c6fe",
-            "size": 996620183,
+            "date": "2020-08-06",
+            "filename": "Bliss-v12.10-maple-OFFICIAL-20200806.zip",
+            "filepath": "/maple/Bliss-v12.10-maple-OFFICIAL-20200806.zip",
+            "sha256": "7c560bb20367d8d7c6e53dbcf39309293ab6fe944d616b44d2aab8a4bea71dae",
+            "size": 290881536,
             "type": "official",
             "version": "v12.10"
         }
