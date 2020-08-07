@@ -12,11 +12,11 @@
     ],
     "CPH1859": [
         {
-            "date": "2020-07-24",
-            "filename": "Bliss-v12.10-CPH1859-OFFICIAL-20200724.zip",
-            "filepath": "/CPH1859/Bliss-v12.10-CPH1859-OFFICIAL-20200724.zip",
-            "sha256": "96c2306c1837581d99abe2c482ec0712b208909c5fb41f5599a3ac65af4530cb",
-            "size": 846990216,
+            "date": "2020-08-07",
+            "filename": "Bliss-v12.10-CPH1859-OFFICIAL-20200807.zip",
+            "filepath": "/CPH1859/Bliss-v12.10-CPH1859-OFFICIAL-20200807.zip",
+            "sha256": "39c34e27007559ae91596c82f3dbb5f362479db445d6c151d17988e356b4c09d",
+            "size": 857610360,
             "type": "official",
             "version": "v12.10"
         }
