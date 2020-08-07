@@ -120,6 +120,17 @@
             "version": "v12.8"
         }
     ],
+    "breeze": [
+        {
+            "date": "2020-08-07",
+            "filename": "Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
+            "filepath": "/breeze/Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
+            "sha256": "4252c62055d6a538e2c25671b2c4b07973a61db3a73f2b22e4e3e600109e8dc2",
+            "size": 76414976,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "bullhead": [
         {
             "date": "2020-06-12",
