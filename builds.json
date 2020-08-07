@@ -126,7 +126,7 @@
             "filename": "Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
             "filepath": "/breeze/Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
             "sha256": "4252c62055d6a538e2c25671b2c4b07973a61db3a73f2b22e4e3e600109e8dc2",
-            "size": 816447488,
+            "size": 821502143,
             "type": "official",
             "version": "v12.10"
         }
@@ -461,11 +461,11 @@
     ],
     "mido": [
         {
-            "date": "2020-07-24",
-            "filename": "Bliss-v12.10-mido-OFFICIAL-20200724.zip",
-            "filepath": "/mido/Bliss-v12.10-mido-OFFICIAL-20200724.zip",
-            "sha256": "45e34b831e1a557cdafdcc926161c78caa7166a877185d2b5379fbb278f5f07e",
-            "size": 863543370,
+            "date": "2020-08-07",
+            "filename": "Bliss-v12.10-mido-OFFICIAL-20200807.zip",
+            "filepath": "/mido/Bliss-v12.10-mido-OFFICIAL-20200807.zip",
+            "sha256": "42bf7de40b7857068ef2ea337713d2b61e9b4196ec253196f4229b9740790397",
+            "size": 685670400,
             "type": "official",
             "version": "v12.10"
         }
