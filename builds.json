@@ -100,11 +100,11 @@
     ],
     "beryllium": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-beryllium-OFFICIAL-20200723.zip",
-            "filepath": "/beryllium/Bliss-v12.10-beryllium-OFFICIAL-20200723.zip",
-            "sha256": "c1eee70b439523ac2364757e4e7b62d32b1d31a896bd29b5f9f3a0845d6f1b08",
-            "size": 1554251063,
+            "date": "2020-08-07",
+            "filename": "Bliss-v12.10-beryllium-OFFICIAL-20200807.zip",
+            "filepath": "/beryllium/Bliss-v12.10-beryllium-OFFICIAL-20200807.zip",
+            "sha256": "7b481f8dbb0671e67beeef05e0bbc1f66e55765025b95dbe3ec5738e1d6e0990",
+            "size": 1455405728,
             "type": "official",
             "version": "v12.10"
         }
