@@ -126,7 +126,7 @@
             "filename": "Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
             "filepath": "/breeze/Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
             "sha256": "4252c62055d6a538e2c25671b2c4b07973a61db3a73f2b22e4e3e600109e8dc2",
-            "size": 481230848,
+            "size": 816447488,
             "type": "official",
             "version": "v12.10"
         }
@@ -443,7 +443,7 @@
             "filename": "Bliss-v12.10-maple-OFFICIAL-20200806.zip",
             "filepath": "/maple/Bliss-v12.10-maple-OFFICIAL-20200806.zip",
             "sha256": "2f02442a2f432b0e70f105d87235f0eb43fa68828f9728b77d5e8ecd5268af34",
-            "size": 634912768,
+            "size": 996561802,
             "type": "official",
             "version": "v12.10"
         }
