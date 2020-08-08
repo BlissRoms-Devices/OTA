@@ -65,6 +65,17 @@
             "version": "v12.9"
         }
     ],
+    "X00TD": [
+        {
+            "date": "2020-08-07",
+            "filename": "Bliss-v12.10-X00TD-OFFICIAL-20200807.zip",
+            "filepath": "/X00TD/Bliss-v12.10-X00TD-OFFICIAL-20200807.zip",
+            "sha256": "48e6024871f9bfc1680bcadfaabb80721919c59091d16015bcc5751ed79beb30",
+            "size": 927770540,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "X01BD": [
         {
             "date": "2020-07-09",
