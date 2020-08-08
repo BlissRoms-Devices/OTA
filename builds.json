@@ -430,11 +430,11 @@
     ],
     "lilac": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-lilac-OFFICIAL-20200723.zip",
-            "filepath": "/lilac/Bliss-v12.10-lilac-OFFICIAL-20200723.zip",
-            "sha256": "d20a514a2166b74ccd299e01532671d9c3b8d3c9cc5d00926a3471460b3067e1",
-            "size": 933881175,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-lilac-OFFICIAL-20200808.zip",
+            "filepath": "/lilac/Bliss-v12.10-lilac-OFFICIAL-20200808.zip",
+            "sha256": "4bf2623a7b71bb2c4aaaefc129e8273a365acabfd5092dab6ae4ad7a29d43db5",
+            "size": 973012992,
             "type": "official",
             "version": "v12.10"
         }
