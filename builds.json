@@ -483,33 +483,33 @@
     ],
     "noblelte": [
         {
-            "date": "2020-08-03",
-            "filename": "Bliss-v12.10-noblelte-OFFICIAL-20200803.zip",
-            "filepath": "/noblelte/Bliss-v12.10-noblelte-OFFICIAL-20200803.zip",
-            "sha256": "5f55504c4204d52bc153d4fcda6defb9be7c2663a0bf48ca9a86f3372452bbcc",
-            "size": 860683175,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-noblelte-OFFICIAL-20200808.zip",
+            "filepath": "/noblelte/Bliss-v12.10-noblelte-OFFICIAL-20200808.zip",
+            "sha256": "15e96f48514bcc4ad07aed2b65e0bf09f1128c127f59c9add673d3969ba217f9",
+            "size": 859050406,
             "type": "official",
             "version": "v12.10"
         }
     ],
     "nobleltetmo": [
         {
-            "date": "2020-08-03",
-            "filename": "Bliss-v12.10-nobleltetmo-OFFICIAL-20200803.zip",
-            "filepath": "/nobleltetmo/Bliss-v12.10-nobleltetmo-OFFICIAL-20200803.zip",
-            "sha256": "9442d3ccea174216770cad1aca50763ae1519dfcff6f8d9aead5d45e3eee97b4",
-            "size": 860936082,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-nobleltetmo-OFFICIAL-20200808.zip",
+            "filepath": "/nobleltetmo/Bliss-v12.10-nobleltetmo-OFFICIAL-20200808.zip",
+            "sha256": "6ddc568e19ef24c1475bc706e40fa71e40a661abb4409554cfb57578ed03edc4",
+            "size": 859032961,
             "type": "official",
             "version": "v12.10"
         }
     ],
     "nobleltezt": [
         {
-            "date": "2020-08-03",
-            "filename": "Bliss-v12.10-nobleltezt-OFFICIAL-20200803.zip",
-            "filepath": "/nobleltezt/Bliss-v12.10-nobleltezt-OFFICIAL-20200803.zip",
-            "sha256": "2969b2c5525d6d3af6fa11ab1c6334464a3f78b1058eb7e446512119174d0686",
-            "size": 860308662,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-nobleltezt-OFFICIAL-20200808.zip",
+            "filepath": "/nobleltezt/Bliss-v12.10-nobleltezt-OFFICIAL-20200808.zip",
+            "sha256": "24e18586ef13cbc4bb3b6ad62948d381c2bcf55ac59a36ff531e9776dd75679b",
+            "size": 858151829,
             "type": "official",
             "version": "v12.10"
         }
