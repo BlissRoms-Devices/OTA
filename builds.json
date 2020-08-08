@@ -199,11 +199,11 @@
     ],
     "crownlte": [
         {
-            "date": "2020-07-30",
-            "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200730.zip",
-            "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200730.zip",
-            "sha256": "5d4940127fc3ea02ad6eb89c987e50dfdaff4f2c851add23f12ac0c01da513e2",
-            "size": 793865738,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200808.zip",
+            "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200808.zip",
+            "sha256": "f89451c3a0f3ff05bfb670d7401bfe352629c777c1f66d99424b5189f5641383",
+            "size": 811608712,
             "type": "official",
             "version": "v12.10"
         }
@@ -538,11 +538,11 @@
     ],
     "phoenix": [
         {
-            "date": "2020-07-26",
-            "filename": "Bliss-v12.10-phoenix-OFFICIAL-20200726.zip",
-            "filepath": "/phoenix/Bliss-v12.10-phoenix-OFFICIAL-20200726.zip",
-            "sha256": "a468a7c407c68323078e808186279442f03d7887921b6c09ff3f6c3a711b4aef",
-            "size": 1772321287,
+            "date": "2020-08-07",
+            "filename": "Bliss-v12.10-phoenix-OFFICIAL-20200807.zip",
+            "filepath": "/phoenix/Bliss-v12.10-phoenix-OFFICIAL-20200807.zip",
+            "sha256": "e032fac067f187d82f501c2cbaf3fc99daf72cba832dec9b867d202ea769e577",
+            "size": 1866339994,
             "type": "official",
             "version": "v12.10"
         }
