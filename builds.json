@@ -202,7 +202,7 @@
             "date": "2020-08-08",
             "filename": "Bliss-v12.10-crownlte-OFFICIAL-20200808.zip",
             "filepath": "/crownlte/Bliss-v12.10-crownlte-OFFICIAL-20200808.zip",
-            "sha256": "f89451c3a0f3ff05bfb670d7401bfe352629c777c1f66d99424b5189f5641383",
+            "sha256": "d35eac8a0e44c5d9d2be92d1384f769d8d11b5fe5afad2b2c24ac0b489c9dd80",
             "size": 811608712,
             "type": "official",
             "version": "v12.10"
@@ -648,22 +648,22 @@
     ],
     "star2lte": [
         {
-            "date": "2020-07-30",
-            "filename": "Bliss-v12.10-star2lte-OFFICIAL-20200730.zip",
-            "filepath": "/star2lte/Bliss-v12.10-star2lte-OFFICIAL-20200730.zip",
-            "sha256": "7236c72bf96e6ed9b2379beddac5ecdd8da0ce8d236bd8a813e868715e3fac31",
-            "size": 793802810,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-star2lte-OFFICIAL-20200808.zip",
+            "filepath": "/star2lte/Bliss-v12.10-star2lte-OFFICIAL-20200808.zip",
+            "sha256": "5926157da27714bd3aa96f2a6ea3daa518582afa6cd8a516ec34214ed290ea15",
+            "size": 811328894,
             "type": "official",
             "version": "v12.10"
         }
     ],
     "starlte": [
         {
-            "date": "2020-07-30",
-            "filename": "Bliss-v12.10-starlte-OFFICIAL-20200730.zip",
-            "filepath": "/starlte/Bliss-v12.10-starlte-OFFICIAL-20200730.zip",
-            "sha256": "ca78d2d863763933752aef234331b56faff3ba1ac13fff86652c4f4182c51449",
-            "size": 793857830,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-starlte-OFFICIAL-20200808.zip",
+            "filepath": "/starlte/Bliss-v12.10-starlte-OFFICIAL-20200808.zip",
+            "sha256": "53099c2d6610b373b320b56c8da665eb1c03bb77f41c9e3dcc184c2590df5ae1",
+            "size": 811105655,
             "type": "official",
             "version": "v12.10"
         }
