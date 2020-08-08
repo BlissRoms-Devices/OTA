@@ -434,7 +434,7 @@
             "filename": "Bliss-v12.10-lilac-OFFICIAL-20200808.zip",
             "filepath": "/lilac/Bliss-v12.10-lilac-OFFICIAL-20200808.zip",
             "sha256": "4bf2623a7b71bb2c4aaaefc129e8273a365acabfd5092dab6ae4ad7a29d43db5",
-            "size": 973012992,
+            "size": 1434967617,
             "type": "official",
             "version": "v12.10"
         }
@@ -681,13 +681,13 @@
     ],
     "tissot": [
         {
-            "date": "2020-07-16",
-            "filename": "Bliss-v12.9-tissot-OFFICIAL-20200716.zip",
-            "filepath": "/tissot/Bliss-v12.9-tissot-OFFICIAL-20200716.zip",
-            "sha256": "2203a072eaa01324c2feea0f2703f2a0c6ec1d9604260d9dcd27ce5ab1ab4344",
-            "size": 816261453,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-tissot-OFFICIAL-20200808.zip",
+            "filepath": "/tissot/Bliss-v12.10-tissot-OFFICIAL-20200808.zip",
+            "sha256": "4061b65263b4b20964ceff93d68629184347a6848c8149af92b31936331713b9",
+            "size": 204046336,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "tulip": [
