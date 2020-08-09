@@ -747,11 +747,11 @@
     ],
     "whyred": [
         {
-            "date": "2020-08-03",
-            "filename": "Bliss-v12.10-whyred-OFFICIAL-20200803.zip",
-            "filepath": "/whyred/Bliss-v12.10-whyred-OFFICIAL-20200803.zip",
-            "sha256": "d950ccaa97488c56ba4422fdab6af7e660d7371f1ed40e88ad56637760d6085e",
-            "size": 1020770754,
+            "date": "2020-08-09",
+            "filename": "Bliss-v12.10-whyred-OFFICIAL-20200809.zip",
+            "filepath": "/whyred/Bliss-v12.10-whyred-OFFICIAL-20200809.zip",
+            "sha256": "7c100a8043bebf2f9c87f618f1e21f5b0fa6422db12e1a87f8d7c792a42565d8",
+            "size": 585702896,
             "type": "official",
             "version": "v12.10"
         }
