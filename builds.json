@@ -263,17 +263,6 @@
             "version": "v12.9"
         }
     ],
-    "enchilada": [
-        {
-            "date": "2020-08-09",
-            "filename": "Bliss-v12.10-enchilada-OFFICIAL-20200809.zip",
-            "filepath": "/enchilada/Bliss-v12.10-enchilada-OFFICIAL-20200809.zip",
-            "sha256": "d541b739b229fa4741ee8c87be26febd1c01cfb3d389ee234d270a7cf9d8efdc",
-            "size": 66367492,
-            "type": "official",
-            "version": "v12.10"
-        }
-    ],
     "fajita": [
         {
             "date": "2020-07-26",
