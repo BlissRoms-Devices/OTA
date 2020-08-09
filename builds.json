@@ -133,11 +133,11 @@
     ],
     "breeze": [
         {
-            "date": "2020-08-07",
-            "filename": "Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
-            "filepath": "/breeze/Bliss-v12.10-breeze-OFFICIAL-20200807.zip",
-            "sha256": "4252c62055d6a538e2c25671b2c4b07973a61db3a73f2b22e4e3e600109e8dc2",
-            "size": 821502143,
+            "date": "2020-08-09",
+            "filename": "Bliss-v12.10-breeze-OFFICIAL-20200809.zip",
+            "filepath": "/breeze/Bliss-v12.10-breeze-OFFICIAL-20200809.zip",
+            "sha256": "9c86a95c5f1ef9ddcce89e0333e7f510f8a44ee266517c708933ecb267fb8ab3",
+            "size": 243138560,
             "type": "official",
             "version": "v12.10"
         }
@@ -593,11 +593,11 @@
     ],
     "sagit": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-sagit-OFFICIAL-20200723.zip",
-            "filepath": "/sagit/Bliss-v12.10-sagit-OFFICIAL-20200723.zip",
-            "sha256": "c2a83e7655820e4656cea4d82b8ac6bb14da2b631771e0758d4072897cce1643",
-            "size": 938659984,
+            "date": "2020-08-09",
+            "filename": "Bliss-v12.10-sagit-OFFICIAL-20200809.zip",
+            "filepath": "/sagit/Bliss-v12.10-sagit-OFFICIAL-20200809.zip",
+            "sha256": "b3e087e3b00bceebecf03f8d3c27fd8e80c215dbd4bfc80de88bb16a17b96bb7",
+            "size": 958169750,
             "type": "official",
             "version": "v12.10"
         }
