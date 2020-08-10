@@ -208,6 +208,17 @@
             "version": "v12.10"
         }
     ],
+    "curtana": [
+        {
+            "date": "2020-08-10",
+            "filename": "Bliss-v12.10-curtana-OFFICIAL-20200810.zip",
+            "filepath": "/curtana/Bliss-v12.10-curtana-OFFICIAL-20200810.zip",
+            "sha256": "c0d015983227c5d1380cbe86b0bd7ba00bc974fefec362c67881d0718d463bb5",
+            "size": 1667157273,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "daisy": [
         {
             "date": "2020-08-01",
