@@ -34,11 +34,11 @@
     ],
     "RMX1921": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-RMX1921-OFFICIAL-20200723.zip",
-            "filepath": "/RMX1921/Bliss-v12.10-RMX1921-OFFICIAL-20200723.zip",
-            "sha256": "22424c423e5dd3102a8e831df001f4406b2f8a845a1a275c2b6d0e47a1d91e17",
-            "size": 1159027784,
+            "date": "2020-08-10",
+            "filename": "Bliss-v12.10-RMX1921-OFFICIAL-20200810.zip",
+            "filepath": "/RMX1921/Bliss-v12.10-RMX1921-OFFICIAL-20200810.zip",
+            "sha256": "158c3e155a626e639b9330a9be31137358747f6e8831f32af0e32c73fc7af575",
+            "size": 1165093751,
             "type": "official",
             "version": "v12.10"
         }
@@ -261,17 +261,6 @@
             "size": 1025397103,
             "type": "official",
             "version": "v12.9"
-        }
-    ],
-    "enchilada": [
-        {
-            "date": "2020-08-10",
-            "filename": "Bliss-v12.10-enchilada-OFFICIAL-20200810.zip",
-            "filepath": "/enchilada/Bliss-v12.10-enchilada-OFFICIAL-20200810.zip",
-            "sha256": "d6f1fb06379bf78c1dcc668227b784fd4ade0db661ff8119baed6578b4f0d80c",
-            "size": 372127352,
-            "type": "official",
-            "version": "v12.10"
         }
     ],
     "fajita": [
