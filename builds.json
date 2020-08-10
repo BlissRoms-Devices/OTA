@@ -188,11 +188,11 @@
     ],
     "clover": [
         {
-            "date": "2020-07-25",
-            "filename": "Bliss-v12.10-clover-OFFICIAL-20200725.zip",
-            "filepath": "/clover/Bliss-v12.10-clover-OFFICIAL-20200725.zip",
-            "sha256": "e72d6d2a2ef7a69e203909df6631214f37f0b12688cf1c717170e238f5627bd2",
-            "size": 983773983,
+            "date": "2020-08-10",
+            "filename": "Bliss-v12.10-clover-OFFICIAL-20200810.zip",
+            "filepath": "/clover/Bliss-v12.10-clover-OFFICIAL-20200810.zip",
+            "sha256": "62d1221c1238e892ec9f567e0660e85c1d9e44df6d8acd9fdc8a25ca8a5dd984",
+            "size": 1015031419,
             "type": "official",
             "version": "v12.10"
         }
@@ -375,11 +375,11 @@
     ],
     "jasmine_sprout": [
         {
-            "date": "2020-07-25",
-            "filename": "Bliss-v12.10-jasmine_sprout-OFFICIAL-20200725.zip",
-            "filepath": "/jasmine_sprout/Bliss-v12.10-jasmine_sprout-OFFICIAL-20200725.zip",
-            "sha256": "25025c7ccb7153d1e94884550d042bb5735181994d68483b17bdadcd24042eff",
-            "size": 1038659611,
+            "date": "2020-08-10",
+            "filename": "Bliss-v12.10-jasmine_sprout-OFFICIAL-20200810.zip",
+            "filepath": "/jasmine_sprout/Bliss-v12.10-jasmine_sprout-OFFICIAL-20200810.zip",
+            "sha256": "1023488a7eedd4e966a70505a8d5f58d2754de0b21f251c8e846f08b937b7e4f",
+            "size": 1062419590,
             "type": "official",
             "version": "v12.10"
         }
@@ -747,11 +747,11 @@
     ],
     "wayne": [
         {
-            "date": "2020-07-25",
-            "filename": "Bliss-v12.10-wayne-OFFICIAL-20200725.zip",
-            "filepath": "/wayne/Bliss-v12.10-wayne-OFFICIAL-20200725.zip",
-            "sha256": "5571bbdcd8a79d7ab81d2b9db457e279a7f9cd4c716f0546412a0fc78a7dc4f4",
-            "size": 1061342391,
+            "date": "2020-08-10",
+            "filename": "Bliss-v12.10-wayne-OFFICIAL-20200810.zip",
+            "filepath": "/wayne/Bliss-v12.10-wayne-OFFICIAL-20200810.zip",
+            "sha256": "b4e09dd7cb337fa5b5ec4e1f1671509a09845a2ee895503c12dfa641ef070209",
+            "size": 1085902222,
             "type": "official",
             "version": "v12.10"
         }
