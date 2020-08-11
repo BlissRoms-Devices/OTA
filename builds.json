@@ -276,11 +276,11 @@
     ],
     "fajita": [
         {
-            "date": "2020-07-26",
-            "filename": "Bliss-v12.10-fajita-OFFICIAL-20200726.zip",
-            "filepath": "/fajita/Bliss-v12.10-fajita-OFFICIAL-20200726.zip",
-            "sha256": "00117dab746190c1a972abf6376756886c9f1d40b95e123a47cce1086a6bf7f1",
-            "size": 1342307444,
+            "date": "2020-08-08",
+            "filename": "Bliss-v12.10-fajita-OFFICIAL-20200808.zip",
+            "filepath": "/fajita/Bliss-v12.10-fajita-OFFICIAL-20200808.zip",
+            "sha256": "ce24ed3035707a65437455eab4d4ea187e037fcccbac13dc083f8483dfe06b12",
+            "size": 1332659982,
             "type": "official",
             "version": "v12.10"
         }
@@ -582,11 +582,11 @@
     ],
     "raphael": [
         {
-            "date": "2020-07-22",
-            "filename": "Bliss-v12.10-raphael-OFFICIAL-20200722.zip",
-            "filepath": "/raphael/Bliss-v12.10-raphael-OFFICIAL-20200722.zip",
-            "sha256": "2a3ebc2472273fde61e4863a0a66d183c30d8ca321b71b66ecd95a6eb4d2a48d",
-            "size": 1070750864,
+            "date": "2020-08-11",
+            "filename": "Bliss-v12.10-raphael-OFFICIAL-20200811.zip",
+            "filepath": "/raphael/Bliss-v12.10-raphael-OFFICIAL-20200811.zip",
+            "sha256": "ebc0682207c8a86019a324581e391171e00da7cf185d0b3ccb3ad10edf4a0726",
+            "size": 135921664,
             "type": "official",
             "version": "v12.10"
         }
@@ -692,11 +692,11 @@
     ],
     "tulip": [
         {
-            "date": "2020-07-23",
-            "filename": "Bliss-v12.10-tulip-OFFICIAL-20200723.zip",
-            "filepath": "/tulip/Bliss-v12.10-tulip-OFFICIAL-20200723.zip",
-            "sha256": "8f8169819b9c71d2d0b32fc46845ac9c09f2b4f8a20a9181c28db3a267a8bba2",
-            "size": 1007393172,
+            "date": "2020-08-10",
+            "filename": "Bliss-v12.10-tulip-OFFICIAL-20200810.zip",
+            "filepath": "/tulip/Bliss-v12.10-tulip-OFFICIAL-20200810.zip",
+            "sha256": "88146b8216a45dafcee4e5fd16ff1a25eeeb11b34b18590ea817bbc3c8db38f6",
+            "size": 1033787013,
             "type": "official",
             "version": "v12.10"
         }
