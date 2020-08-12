@@ -408,11 +408,11 @@
     ],
     "laurel_sprout": [
         {
-            "date": "2020-07-31",
-            "filename": "Bliss-v12.10-laurel_sprout-OFFICIAL-20200731.zip",
-            "filepath": "/laurel_sprout/Bliss-v12.10-laurel_sprout-OFFICIAL-20200731.zip",
-            "sha256": "83535a6e2152fa06799d10e3666a9478c34431390944ed04c8c5b244b56cdafb",
-            "size": 1109022437,
+            "date": "2020-08-12",
+            "filename": "Bliss-v12.10-laurel_sprout-OFFICIAL-20200812.zip",
+            "filepath": "/laurel_sprout/Bliss-v12.10-laurel_sprout-OFFICIAL-20200812.zip",
+            "sha256": "0a62632cb66a76d554e0908cb01cf8993925b465ee736fcfaa6e92e11892e8af",
+            "size": 1234387230,
             "type": "official",
             "version": "v12.10"
         }
