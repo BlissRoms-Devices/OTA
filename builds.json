@@ -109,6 +109,17 @@
             "version": "v12.10"
         }
     ],
+    "begonia": [
+        {
+            "date": "2020-08-13",
+            "filename": "Bliss-v12.10-begonia-OFFICIAL-20200813.zip",
+            "filepath": "/begonia/Bliss-v12.10-begonia-OFFICIAL-20200813.zip",
+            "sha256": "d379b596e38768c614ad7fd12decd561bdfc5dbd67e9f119c78efb50a727b9fe",
+            "size": 1105538749,
+            "type": "official",
+            "version": "v12.10"
+        }
+    ],
     "beryllium": [
         {
             "date": "2020-08-07",
