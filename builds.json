@@ -659,13 +659,13 @@
     ],
     "sirius": [
         {
-            "date": "2020-07-10",
-            "filename": "Bliss-v12.9-sirius-OFFICIAL-20200710.zip",
-            "filepath": "/sirius/Bliss-v12.9-sirius-OFFICIAL-20200710.zip",
-            "sha256": "44cf9e171a68a82e89c070b67a6b88682e6ac039bfe4ed8df0ab93e4d9690a12",
-            "size": 1433340426,
+            "date": "2020-08-16",
+            "filename": "Bliss-v12.10-sirius-OFFICIAL-20200816.zip",
+            "filepath": "/sirius/Bliss-v12.10-sirius-OFFICIAL-20200816.zip",
+            "sha256": "d7291f385cff71ee94e2af4760d1181ef80ae617fc94041c5e0b9207a9ea1a8a",
+            "size": 1466933462,
             "type": "official",
-            "version": "v12.9"
+            "version": "v12.10"
         }
     ],
     "star2lte": [
